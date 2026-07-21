@@ -2798,7 +2798,7 @@
       "bioEng": "",
       "interests": [],
       "avatarColor": "#1E40AF",
-      "imageUrl": "contents/generated/e2a1085dff2a42896e08d836.jpg",
+      "imageUrl": "contents/generated/fbbc2a1fe9422764afdfe532.jpg",
       "education": [
         "B.S.: Kyungpook National University, Mechanical engineering (Summa Cum Laude)"
       ],
@@ -3753,6 +3753,26 @@
     }
   ],
   "boardPosts": [
+    {
+      "id": "post-1784619791139",
+      "date": "2026.07.21",
+      "title": "b",
+      "author": "",
+      "content": "",
+      "category": "Notice",
+      "imageUrl": "",
+      "images": []
+    },
+    {
+      "id": "post-1784618988826",
+      "date": "2026.07.21",
+      "title": "g",
+      "author": "",
+      "content": "",
+      "category": "Notice",
+      "imageUrl": "",
+      "images": []
+    },
     {
       "id": "notice-76",
       "date": "2026.05.11",
