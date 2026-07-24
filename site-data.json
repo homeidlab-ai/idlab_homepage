@@ -33,7 +33,7 @@
       {
         "id": "recruit-announcement",
         "title": "모집 공고",
-        "bodyHtml": "<p>KAIST Innovative Design for Mobility Systems Laboratory 에서는 함께 연구를 수행할 석사과정 및 박사과정 신입생 및 인턴을 모집합니다. 본 연구실에서는 전산해석과 최적설계 기반의 방법론으로 다양한 공학 시스템의 최적화 연구를 수행하고 있습니다. 최적화에 흥미가 있는 분이라면 모두 지원 가능합니다.</p>"
+        "bodyHtml": "<p>KAIST Innovative Design for Mobility Systems Laboratory 에서는 함께 연구를 수행할 석사과정 및 박사과정 신입생 및 인턴을 모집합니다. 본 연구실에서는 전산해석과 최적설계 기반의 방법론으로 <b>다양한 공학 시스템의 최적화 연구</b>를 수행하고 있습니다. 최적화에 흥미가 있는 분이라면 모두 지원 가능합니다.</p>"
       },
       {
         "id": "recruit-target",
