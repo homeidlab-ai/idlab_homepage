@@ -28,7 +28,24 @@
     "contactProfessorName": "장인권 지도교수",
     "contactProfessorEmail": "igjang@kaist.edu",
     "contactStudentName": "김창영 박사과정",
-    "contactStudentEmail": "kimcy0789@kaist.ac.kr"
+    "contactStudentEmail": "kimcy0789@kaist.ac.kr",
+    "sections": [
+      {
+        "id": "recruit-announcement",
+        "title": "모집 공고",
+        "bodyHtml": "<p>KAIST Innovative Design for Mobility Systems Laboratory 에서는 함께 연구를 수행할 석사과정 및 박사과정 신입생 및 인턴을 모집합니다. 본 연구실에서는 전산해석과 최적설계 기반의 방법론으로 다양한 공학 시스템의 최적화 연구를 수행하고 있습니다. 최적화에 흥미가 있는 분이라면 모두 지원 가능합니다.</p>"
+      },
+      {
+        "id": "recruit-target",
+        "title": "모집 대상",
+        "bodyHtml": "<ul><li>2027년도 봄학기 지원자 및 가을학기 지원 예정자</li><li>이공계열 학사 및 석사 졸업 예정(혹은 졸업자)</li><li>기계, 교통, 전기전자, 컴퓨터, 토목 등의 공학 전공자로 융합연구 희망 학생</li><li>박사(0명), 석사(0명), 인턴(0명) 모집 중</li></ul>"
+      },
+      {
+        "id": "recruit-other",
+        "title": "기타 사항",
+        "bodyHtml": "자세한 사항은 아래 연락처로 문의하시기 바랍니다.<ul><li><span style=\"color: #9ca3af;\">✉</span> 장인권 지도교수 igjang@kaist.edu</li><li><span style=\"color: #9ca3af;\">✉</span> 김창영 박사과정 kimcy0789@kaist.ac.kr</li></ul>"
+      }
+    ]
   },
   "researchIntro": {
     "mainTitle": "Research Area",
@@ -5476,9 +5493,9 @@
       "title": "🍓 딸기 파티 🍓",
       "subtitle": "",
       "date": "2026. 03. 30",
-      "imageUrl": "contents/gallery/2026/260330_2.jpg",
+      "imageUrl": "contents/gallery/2026/260330_1.jpg",
       "images": [
-        "contents/gallery/2026/260330_2.jpg"
+        "contents/gallery/2026/260330_1.jpg"
       ]
     },
     {
@@ -5553,7 +5570,7 @@
     },
     {
       "postId": "gallery-20260330-strawberry-party",
-      "imageUrl": "contents/gallery/2026/260330_2.jpg"
+      "imageUrl": "contents/gallery/2026/260330_1.jpg"
     },
     {
       "postId": "gallery-20260317-ping-pong-tournament",
