@@ -2823,7 +2823,7 @@
         {
           "heading": "Education",
           "items": [
-            "B.S.: Kyungpook National University, Mechanical engineering (Summa Cum Laude)"
+            "<ul class=\"research-bullet-style-1\"><li>B.S.: Kyungpook National University, Mechanical engineering <b>(Summa Cum Laude)</b></li></ul>"
           ],
           "icon": "education"
         },
