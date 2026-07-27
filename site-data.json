@@ -177,7 +177,8 @@
           }
         ]
       }
-    }
+    },
+    "homeOptDescHtml": "<p>Optimization is a mathematical and numerical tool for solving complex problems in various fields. It defines design variables, objective functions, and constraints, then iteratively updates the variables to maximize or minimize target performance while satisfying the required conditions. ID Lab implements multidisciplinary engineering through computational analysis and design optimization for real-world systems.</p>"
   },
   "projects": [
     {
