@@ -3707,6 +3707,38 @@
       "patents": [],
       "publicationsList": [],
       "customSections": []
+    },
+    {
+      "id": "member-1785210815509",
+      "name": "이순용",
+      "nameEng": "Soonyong Lee",
+      "role": "Student",
+      "degreeType": "Master",
+      "title": "M.S. Candidate",
+      "titleEng": "M.S. Candidate",
+      "email": "ls.yong@kaist.ac.kr",
+      "phone": "+82-42-350-1282 (Office)",
+      "office": "",
+      "group": "TBD",
+      "bio": "",
+      "bioEng": "",
+      "interests": [],
+      "avatarColor": "#2563eb",
+      "imageUrl": "contents/generated/c8a7418b953373e3322bafe7.jpg",
+      "education": [],
+      "experience": [],
+      "awards": [],
+      "patents": [],
+      "publicationsList": [],
+      "customSections": [
+        {
+          "heading": "Education",
+          "icon": "education",
+          "items": [
+            "<p>B.S.: Korea University of Technology and Education, Mechanical Engineering</p>"
+          ]
+        }
+      ]
     }
   ],
   "notices": [
