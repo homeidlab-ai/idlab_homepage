@@ -3798,6 +3798,38 @@
   ],
   "boardPosts": [
     {
+      "id": "post-1785292129611",
+      "date": "2026.07.29",
+      "title": "ddd",
+      "author": "",
+      "content": "",
+      "category": "Notice",
+      "imageUrl": "",
+      "images": []
+    },
+    {
+      "id": "post-1785291586832",
+      "date": "2026.07.29",
+      "title": "dd",
+      "author": "",
+      "content": "",
+      "category": "Notice",
+      "imageUrl": "",
+      "images": []
+    },
+    {
+      "id": "post-1785287149387",
+      "date": "2026.07.29",
+      "title": "APTE 2026 학회",
+      "author": "",
+      "content": "",
+      "category": "Gallery",
+      "imageUrl": "contents/generated/ffb2452d83d0748dc903deec.jpg",
+      "images": [
+        "contents/generated/ffb2452d83d0748dc903deec.jpg"
+      ]
+    },
+    {
       "id": "notice-76",
       "date": "2026.05.11",
       "title": "2026년 대한기계학회, 우수학위논문상, 김창영",
