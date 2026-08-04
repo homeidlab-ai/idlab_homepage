@@ -2639,34 +2639,42 @@
           "items": [
             "M.S.: KAIST, Graduate School of Mobility",
             "B.S.: Konkuk University, Mechanical engineering"
-          ]
+          ],
+          "icon": "education"
         },
         {
           "heading": "International Journal",
           "items": [
-            "G. Kim, C. Kim, S. Park, J. Kim, and I. G. Jang, “Linear Programming of the Loopwise Route Representation for the Shortest Path Problems by Introducing the Reference Link Flow”, IEEE Access, vol. 13, pp. 38856 - 38864, 2025, doi: 10.1109/ACCESS.2025.3546320  (Impact factor: 3.4)."
-          ]
+            "<ul class=\"research-bullet-style-1\"><li>G. Kim, C. Kim, <b>S. Park</b>, J. Kim, and I. G. Jang, “Linear Programming of the Loopwise Route Representation for the Shortest Path Problems by Introducing the Reference Link Flow”, IEEE Access, vol. 13, pp. 38856 - 38864, 2025, doi: 10.1109/ACCESS.2025.3546320  (Impact factor: 3.4).</li></ul>"
+          ],
+          "icon": "journal"
         },
         {
           "heading": "International Conference",
           "items": [
-            "S. Park, G. Kim, I. G. Jang, \"Post-processing of the loop-wise route representation-based topology optimization for shortest path problems\", World Congress of Structural and Multidisciplinary Optimization (WCSMO), 2025.",
-            "S. Park, I. G. Jang, \"Global Optimality in the Linearized Loopwise Route Reperesentation-based Topology Optimization\", Asian Congress of Structural and Multidisciplinary Optimization (ACSMO), 2026."
-          ]
+            "<ul class=\"research-bullet-style-1\"><li><b>S. Park</b>, G. Kim, I. G. Jang, \"Post-processing of the loop-wise route representation-based topology optimization for shortest path problems\", World Congress of Structural and Multidisciplinary Optimization (WCSMO), 2025.</li><li><b>S. Park</b>, I. G. Jang, \"Global Optimality in the Linearized Loopwise Route Reperesentation-based Topology Optimization\", Asian Congress of Structural and Multidisciplinary Optimization (ACSMO), 2026.</li><li>J. Kim, <b>S. Park</b>, E. Lee, I. G. Jang, \"Loopwise route representation-based path planning for obstacle avoidance\", The 15th Asia-Pacific Conference on Transportation and the Environment (APTE), 2026.</li></ul>"
+          ],
+          "icon": "conference"
         },
         {
           "heading": "Domestic Conference",
           "items": [
-            "박상훈, 김근우, 장인권, \"전기회로와 도로교통 간의 유사성을 활용한 루프 기반 최단 경로 탐색법의 후처리 방안\", 한국 ITS 학회 추계학술대회, 2024.",
-            "박상훈, 김근우, 장인권, \"루프표현법과 위상최적설계에 기반한 후처리 방안: 최단 경로 문제 사례\", 대한기계학회 CAE 및 응용역학부문 춘계학술대회 학생경진대회, 2025.",
-            "박상훈, 장인권, \"선형화된 루프 경로 표현법을 이용한 외판원 문제의 2단계 프레임워크\", 한국 ITS 학회 추계학술대회, 2025.",
-            "박상훈, 장인권, \"선형화된 루프 경로 표현법 기반 위상최적화에서의 전역 최적성\", 대한기계학회 CAE 및 응용역학부문 춘계학술대회, 2026."
-          ]
+            "<ul class=\"research-bullet-style-1\"><li><b>박상훈</b>, 김근우, 장인권, \"전기회로와 도로교통 간의 유사성을 활용한 루프 기반 최단 경로 탐색법의 후처리 방안\", 한국 ITS 학회 추계학술대회, 2024.</li><li><b>박상훈</b>, 김근우, 장인권, \"루프표현법과 위상최적설계에 기반한 후처리 방안: 최단 경로 문제 사례\", 대한기계학회 CAE 및 응용역학부문 춘계학술대회 학생경진대회, 2025.</li><li><b>박상훈</b>, 장인권, \"선형화된 루프 경로 표현법을 이용한 외판원 문제의 2단계 프레임워크\", 한국 ITS 학회 추계학술대회, 2025.</li><li><b>박상훈</b>, 장인권, \"선형화된 루프 경로 표현법 기반 위상최적화에서의 전역 최적성\", 대한기계학회 CAE 및 응용역학부문 춘계학술대회, 2026.</li></ul>"
+          ],
+          "icon": "conference"
+        },
+        {
+          "heading": "Patent (Domestic)",
+          "items": [
+            "<ul class=\"research-bullet-style-1\"><li>I. G. Jang, J. Kim, C. Kim, <b>S. Park</b>, and E. Lee, \"경로 산출 시스템 및 그 방법\", KR Patent, Application Number: 10-2026-0119490, 2026.</li></ul>"
+          ],
+          "icon": "idea"
         },
         {
           "heading": "Award",
+          "icon": "award",
           "items": [
-            "우수논문상, 한국ITS학회 추계학술대회, 2024."
+            "<ul class=\"research-bullet-style-1\"><li>우수논문상, 한국ITS학회 추계학술대회, 2024.</li></ul>"
           ]
         }
       ]
