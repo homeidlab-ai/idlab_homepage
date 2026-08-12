@@ -3687,6 +3687,45 @@
   ],
   "boardPosts": [
     {
+      "id": "post-1786524455611",
+      "date": "2026.08.11",
+      "title": "🏓랩 액티비티🏸",
+      "author": "",
+      "content": "",
+      "category": "Gallery",
+      "imageUrl": "contents/generated/5d27eee8221f03e9ac6c043f.jpg",
+      "images": [
+        "contents/generated/5d27eee8221f03e9ac6c043f.jpg",
+        "contents/generated/372c2e8f128deb57a28a65a1.jpg",
+        "contents/generated/f90d1c0d3f7c3962124adb0b.jpg",
+        "contents/generated/17217157b7b422118998be36.jpg"
+      ]
+    },
+    {
+      "id": "post-1786524419613",
+      "date": "2026.08.23",
+      "title": "🎂권순열 학생 생일🎂",
+      "author": "",
+      "content": "",
+      "category": "Gallery",
+      "imageUrl": "contents/generated/3b236795e87b439603301dc7.jpg",
+      "images": [
+        "contents/generated/3b236795e87b439603301dc7.jpg"
+      ]
+    },
+    {
+      "id": "post-1786524390782",
+      "date": "2026.08.16",
+      "title": "🎂이은결 학생 생일🎂",
+      "author": "",
+      "content": "",
+      "category": "Gallery",
+      "imageUrl": "contents/generated/6e4de7fdebef015cb9cda6f7.jpg",
+      "images": [
+        "contents/generated/6e4de7fdebef015cb9cda6f7.jpg"
+      ]
+    },
+    {
       "id": "post-1785287149387",
       "date": "2026.07.29",
       "title": "APTE 2026 학회",
