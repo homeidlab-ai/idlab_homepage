@@ -2416,65 +2416,49 @@
         {
           "heading": "International Journal",
           "items": [
-            "G. Kim, C. Kim, S. Park, J. Kim, and I. G. Jang, “Linear Programming of the Loopwise Route Representation for the Shortest Path Problems by Introducing the Reference Link Flow”, IEEE Access, vol. 13, pp. 38856 - 38864, 2025, doi: 10.1109/ACCESS.2025.3546320  (Impact factor: 3.4).",
-            "J. Kim, G. Kim, and I. G. Jang, “Connectivity-guaranteed Deep Learning for Finding a Near-optimal Path with Random O-D pairs,” (Under review)"
+            "<ul class=\"research-bullet-style-1\"><li>G. Kim, C. Kim, S. Park, <b>J. Kim</b>, and I. G. Jang, “Linear Programming of the Loopwise Route Representation for the Shortest Path Problems by Introducing the Reference Link Flow”, IEEE Access, vol. 13, pp. 38856 - 38864, 2025, doi: 10.1109/ACCESS.2025.3546320  (Impact factor: 3.4).</li><li><b>J. Kim</b>, G. Kim, and I. G. Jang, “Connectivity-guaranteed Deep Learning for Finding a Near-optimal Path with Random O-D pairs,” (Under review)</li></ul>"
           ],
           "icon": "journal"
         },
         {
           "heading": "Domestic Journal",
           "items": [
-            "김정훈, 심지섭, 장인권, 김근우, \"전기차 경로 문제를 대상으로 한 루프 방식 경로 표현법의 실도로 네트워크 적용,\" 대한기계학회논문집 A, 제 48권 제 11호."
+            "<ul class=\"research-bullet-style-1\"><li><b>김정훈</b>, 심지섭, 장인권, 김근우, \"전기차 경로 문제를 대상으로 한 루프 방식 경로 표현법의 실도로 네트워크 적용,\" 대한기계학회논문집 A, 제 48권 제 11호.</li></ul>"
           ],
           "icon": "journal"
         },
         {
           "heading": "International Conference",
           "items": [
-            "J. Kim, G. Kim, I. G. Jang, \"Deep Learning-based Topology Optimization for Shortest Path Problems\", ACSMO, 2024.",
-            "J. Kim, G. Kim, C. Kim, I. G. Jang, \"Deep Learning-based Topology Optimization for Shortest Path Problems\", World Congress of Structural and Multidisciplinary Optimization (WCSMO), 2025.",
-            "J. Kim, I. G. Jang, \"Topology optimization-based path planning for complex maze networks\", ACSMO, 2026."
+            "<ul class=\"research-bullet-style-1\"><li><b>J. Kim</b>, G. Kim, I. G. Jang, \"Deep Learning-based Topology Optimization for Shortest Path Problems\", ACSMO, 2024.</li><li><b>J. Kim</b>, G. Kim, C. Kim, I. G. Jang, \"Deep Learning-based Topology Optimization for Shortest Path Problems\", World Congress of Structural and Multidisciplinary Optimization (WCSMO), 2025.</li><li><b>J. Kim</b>, I. G. Jang, \"Topology optimization-based path planning for complex maze networks\", ACSMO, 2026.</li><li><b>J. Kim</b>, <span>S. Park</span>, E. Lee, I. G. Jang, \"Loopwise route representation-based path planning for obstacle avoidance\", The 15th Asia-Pacific Conference on Transportation and the Environment (APTE), 2026.</li></ul>"
           ],
           "icon": "conference"
         },
         {
           "heading": "Domestic Conference",
           "items": [
-            "김정훈, 김근우, 장인권, \"딥러닝을 활용한 루프 기반 최단 경로 탐색 방법\", 한국ITS학회 추계학술대회, 2023.",
-            "김성용, 김정훈, 김근우, 장인권, \"대중교통 승객 맞춤형 경로 추천을 위한 루프 기반 경로 최적화: 수도권 전철 적용 사례\", 한국 ITS 학회 추계학술대회, 2023.",
-            "김정훈, 김근우, 장인권, \"딥러닝을 활용한 위상 최적화 가속화: 최단경로 문제 사례\", 대한기계학회 CAE 및 응용역학부문 춘계학술대회 학생경진대회, 2024.",
-            "김정훈, 김근우, 장인권, \"최단 경로 문제를 위한 딥러닝 기반 위상 최적화\", 대한기계학회 학술대회, 2024.",
-            "김정훈, 장인권, \"복잡한 미로 네트워크를 위한 딥러닝 기반 경로 계획\", 한국ITS학회 추계학술대회, 2025.",
-            "김정훈, 장인권, \"복잡한 미로 네트워크를 위한 딥러닝 기반 경로 계획\", 대한기계학회 CAE 및 응용역학부분 춘계학술대회, 2026."
+            "<ul class=\"research-bullet-style-1\"><li><b>김정훈</b>, 김근우, 장인권, \"딥러닝을 활용한 루프 기반 최단 경로 탐색 방법\", 한국ITS학회 추계학술대회, 2023.</li><li>김성용, <b>김정훈</b>, 김근우, 장인권, \"대중교통 승객 맞춤형 경로 추천을 위한 루프 기반 경로 최적화: 수도권 전철 적용 사례\", 한국 ITS 학회 추계학술대회, 2023.</li><li><b>김정훈</b>, 김근우, 장인권, \"딥러닝을 활용한 위상 최적화 가속화: 최단경로 문제 사례\", 대한기계학회 CAE 및 응용역학부문 춘계학술대회 학생경진대회, 2024.</li><li><b>김정훈</b>, 김근우, 장인권, \"최단 경로 문제를 위한 딥러닝 기반 위상 최적화\", 대한기계학회 학술대회, 2024.</li><li><b>김정훈</b>, 장인권, \"복잡한 미로 네트워크를 위한 딥러닝 기반 경로 계획\", 한국ITS학회 추계학술대회, 2025.</li><li><b>김정훈</b>, 장인권, \"복잡한 미로 네트워크를 위한 딥러닝 기반 경로 계획\", 대한기계학회 CAE 및 응용역학부분 춘계학술대회, 2026.</li></ul>"
           ],
           "icon": "conference"
         },
         {
           "heading": "Patent (Domestic)",
           "items": [
-            "I. G. Jang, G. Kim, J. Kim, K. Jang, \"Optimal path calculation system and method based on loop variables with post processing applied\", KR Patent, Application Number: 10-2023-0157983 , 2023.",
-            "I. G. Jang, G. Kim, C. Kim, J. Kim, \"LEAST COST PATH SELECTION SYSTEM AND METHOD\", KR Patent, Application Number: 10-2024-0144119, 2024."
+            "<ul class=\"research-bullet-style-1\"><li>I. G. Jang, G. Kim, <b>J. Kim</b>, K. Jang, \"Optimal path calculation system and method based on loop variables with post processing applied\", KR Patent, Application Number: 10-2023-0157983 , 2023.</li><li>I. G. Jang, G. Kim, C. Kim, <b>J. Kim</b>, \"LEAST COST PATH SELECTION SYSTEM AND METHOD\", KR Patent, Application Number: 10-2024-0144119, 2024.</li><li>I. G. Jang, <b>J. Kim</b>, C. Kim, <span>S. Park</span>, and E. Lee, \"경로 산출 시스템 및 그 방법\", KR Patent, Application Number: 10-2026-0119490, 2026.</li></ul>"
           ],
           "icon": "patent"
         },
         {
           "heading": "Patent (International)",
           "items": [
-            "I. G. Jang, G. Kim, J. Kim, K. Jang, “SYSTEM AND METHOD FOR COMPUTING OPTIMAL PATH BASED ON LOOP VARIABLES WITH POST-PROCESSING APPLIED”, US Patent, Application Number: 18/775,172, 2024.",
-            "I. G. Jang, G. Kim, C. Kim, and J. Kim, “LEAST COST PATH SELECTION SYSTEM AND METHOD”, US Patent, Application Number: 19/080,596, 2025."
+            "<ul class=\"research-bullet-style-1\"><li>I. G. Jang, G. Kim, <b>J. Kim</b>, K. Jang, “SYSTEM AND METHOD FOR COMPUTING OPTIMAL PATH BASED ON LOOP VARIABLES WITH POST-PROCESSING APPLIED”, US Patent, Application Number: 18/775,172, 2024.</li><li>I. G. Jang, G. Kim, C. Kim, and <b>J. Kim</b>, “LEAST COST PATH SELECTION SYSTEM AND METHOD”, US Patent, Application Number: 19/080,596, 2025.</li></ul>"
           ],
           "icon": "patent"
         },
         {
           "heading": "Award",
           "items": [
-            "우수논문상, 한국ITS학회 2023년 추계학술대회, 2023.",
-            "학업우수상, KAIST 조천식모빌리티대학원, 2023 Fall Semester.",
-            "대한교통학회 회장상, 대한교통학회, 2025.",
-            "우수논문상, 2024년 대한기계학회, 2025.",
-            "우수논문상, 한국ITS학회 2025년 추계학술대회, 2025.",
-            "대한기계학회 논문상-우수논문(대한기계학회논문집A), 대한기계학회, 2025.",
-            "공로상, KAIST 조천식모빌리티대학원, 2026."
+            "<ul class=\"research-bullet-style-1\"><li>우수논문상, 한국ITS학회 2023년 추계학술대회, 2023.</li><li>학업우수상, KAIST 조천식모빌리티대학원, 2023 Fall Semester.</li><li>대한교통학회 회장상, 대한교통학회, 2025.</li><li>우수논문상, 2024년 대한기계학회, 2025.</li><li>우수논문상, 한국ITS학회 2025년 추계학술대회, 2025.</li><li>대한기계학회 논문상-우수논문(대한기계학회논문집A), 대한기계학회, 2025.</li><li>공로상, KAIST 조천식모빌리티대학원, 2026.</li></ul>"
           ],
           "icon": "award"
         }
