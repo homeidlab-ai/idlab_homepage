@@ -50,13 +50,6 @@
   },
   "notices": [
     {
-      "id": "post-1786608723640",
-      "date": "2026.08.13",
-      "title": "gdgdg",
-      "content": "",
-      "category": "Notice"
-    },
-    {
       "id": "notice-76",
       "date": "2026.05.11",
       "title": "2026년 대한기계학회, 우수학위논문상, 김창영",
@@ -83,9 +76,26 @@
       "title": "2024년 대한기계학회, 우수논문상, 김정훈",
       "content": "",
       "category": "Notice"
+    },
+    {
+      "id": "notice-72",
+      "date": "2025.10.31",
+      "title": "2025년 한국ITS학회, 우수논문상, 김정훈",
+      "content": "",
+      "category": "Notice"
     }
   ],
   "publications": [
+    {
+      "id": "pub-1786609445564",
+      "title": "Linearized Loopwise Route Representation for Solving Symmetric Traveling Salesman Problems without the Origin-Destination Matrix",
+      "authors": "C. Kim, G. Kim, I. G. Jang",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "year": 2026,
+      "category": "International Journal",
+      "doi": "",
+      "link": "10.1109/TITS.2026.3724185"
+    },
     {
       "id": "pub-journal-61",
       "title": "Fault Detection of Coil Misalignment in Multi-receiver Wireless Power Transfer Systems with the Estimated Mutual Inductance",
@@ -125,16 +135,6 @@
       "category": "International Journal",
       "doi": "",
       "link": "https://doi.org/10.1016/j.irbm.2025.100889"
-    },
-    {
-      "id": "pub-journal-57",
-      "title": "Linear Programming of the Loopwise Route Representation for the Shortest Path Problems by Introducing the Reference Link Flow",
-      "authors": "G. Kim, C. Kim, S. Park, J. Kim, I. G. Jang",
-      "journal": "IEEE Access, vol. 13, pp. 38856-38864, 2025.",
-      "year": 2025,
-      "category": "International Journal",
-      "doi": "",
-      "link": "https://doi.org/10.1109/ACCESS.2025.3546320"
     }
   ],
   "gallerySlides": [
