@@ -2533,21 +2533,21 @@
         {
           "heading": "International Journal",
           "items": [
-            "<ul class=\"research-bullet-style-1\"></ul><ul class=\"research-bullet-style-1\"><li><p><span>C. Kim</span>, G. Kim, and I. G. Jang, “Linearized Loopwise Route Representation for Solving Symmetric Traveling Salesman Problems without the Origin-Destination Matrix”, IEEE Transactions on Intelligent Transportation Systems, 2026, Early access, DOI: 10.1109/TITS.2026.3724185. (JCR 2024 IF=8.4, TOP 2.4%)</p></li><li><p>G. Kim, <strong>C. Kim</strong>, S. Park, J. Kim, and I. G. Jang, “Linear Programming of the Loopwise Route Representation for the Shortest Path Problems by Introducing the Reference Link Flow”, IEEE Access, vol. 13, pp. 38856 - 38864, 2025. (JCR 2024 IF=3.6)</p></li></ul>"
+            "<ul class=\"research-bullet-style-1\"></ul><ul class=\"research-bullet-style-1\"><li><p><span><b>C. Kim</b></span>, G. Kim, and I. G. Jang, “Linearized Loopwise Route Representation for Solving Symmetric Traveling Salesman Problems without the Origin-Destination Matrix”, IEEE Transactions on Intelligent Transportation Systems, 2026, Early access, DOI: 10.1109/TITS.2026.3724185. (JCR 2024 IF=8.4, TOP 2.4%)</p></li><li><p>G. Kim, <strong>C. Kim</strong>, S. Park, J. Kim, and I. G. Jang, “Linear Programming of the Loopwise Route Representation for the Shortest Path Problems by Introducing the Reference Link Flow”, IEEE Access, vol. 13, pp. 38856 - 38864, 2025. (JCR 2024 IF=3.6)</p></li></ul>"
           ],
           "icon": "journal"
         },
         {
           "heading": "International Conference",
           "items": [
-            "<ul class=\"research-bullet-style-1\"></ul><ul class=\"research-bullet-style-1\"><li><p><span>C. Kim</span> and I. G. Jang, \"Linearization of Topology Optimization for Traveling Salesman Problem\", Asian Congress of Structural and Multidisciplinary Optimization (ACSMO), 2026.</p></li><li><p>J. Kim, G. Kim, <strong>C. Kim</strong>, and I. G. Jang, \"Deep Learning-based Topology Optimization for Shortest Path Problems\", World Congress of Structural and Multidisciplinary Optimization (WCSMO), 2025.</p></li></ul>"
+            "<ul class=\"research-bullet-style-1\"></ul><ul class=\"research-bullet-style-1\"><li><p><span><b>C. Kim</b></span> and I. G. Jang, \"Linearization of Topology Optimization for Traveling Salesman Problem\", Asian Congress of Structural and Multidisciplinary Optimization (ACSMO), 2026.</p></li><li><p>J. Kim, G. Kim, <strong>C. Kim</strong>, and I. G. Jang, \"Deep Learning-based Topology Optimization for Shortest Path Problems\", World Congress of Structural and Multidisciplinary Optimization (WCSMO), 2025.</p></li></ul>"
           ],
           "icon": "conference"
         },
         {
           "heading": "Domestic Conference",
           "items": [
-            "<ul class=\"research-bullet-style-1\"></ul><ul class=\"research-bullet-style-1\"><li><p><span>김창영</span>, 장인권, \"위상최적설계 기반 차량 경로 최적화에 대한 선형 정식화\", 대한기계학회 CAE 및 응용역학부문 춘계학술대회, 2026.</p></li><li><p><span>김창영</span>, 장인권, \"위상최적설계 기반 차량 경로 최적화에 대한 선형 정식화\", 대한기계학회 CAE 및 응용역학부문 춘계학술대회 학생경진대회, 2025.</p></li><li><p><span>김창영</span>, 김근우, 장인권, \"루프 기반 경로 최적화의 계산 가속화를 위한 선형화 방법\", 한국ITS학회 추계학술대회, 2024.</p></li><li><p><span>김창영</span><span>, 김근우, 장인권, \"루프 표현법과 위상최적설계에 기반한 차량 경로 최적화에 대한 선형화 방안\", 대한기계학회 CAE 및 응용역학부문 춘계학술대회 학생경진대회, 2024.</span></p></li><li><p><span>고혁진, </span><strong>김창영</strong><span>, 장인권, \"데이터 기반 SKIP-STOP 도시 철도 급행 서비스 최적화: 서울 지하철 4호선의 사례\", 한국ITS학회 추계학술대회, 2023.</span></p></li></ul>"
+            "<ul class=\"research-bullet-style-1\"></ul><ul class=\"research-bullet-style-1\"><li><p><span><b>김창영</b></span>, 장인권, \"위상최적설계 기반 차량 경로 최적화에 대한 선형 정식화\", 대한기계학회 CAE 및 응용역학부문 춘계학술대회, 2026.</p></li><li><p><span><b>김창영</b></span>, 장인권, \"위상최적설계 기반 차량 경로 최적화에 대한 선형 정식화\", 대한기계학회 CAE 및 응용역학부문 춘계학술대회 학생경진대회, 2025.</p></li><li><p><span><b>김창영</b></span>, 김근우, 장인권, \"루프 기반 경로 최적화의 계산 가속화를 위한 선형화 방법\", 한국ITS학회 추계학술대회, 2024.</p></li><li><p><span><b>김창영</b></span><span>, 김근우, 장인권, \"루프 표현법과 위상최적설계에 기반한 차량 경로 최적화에 대한 선형화 방안\", 대한기계학회 CAE 및 응용역학부문 춘계학술대회 학생경진대회, 2024.</span></p></li><li><p><span>고혁진, </span><strong>김창영</strong><span>, 장인권, \"데이터 기반 SKIP-STOP 도시 철도 급행 서비스 최적화: 서울 지하철 4호선의 사례\", 한국ITS학회 추계학술대회, 2023.</span></p></li></ul>"
           ],
           "icon": "conference"
         },
@@ -2561,7 +2561,7 @@
         {
           "heading": "Patent (Domestic)",
           "items": [
-            "<p>I. G. Jang, J. Kim, <span>C. Kim</span>, S. Park, and E. Lee, \"경로 산출 시스템 및 그 방법\", KR Patent, Application Number: 10-2026-0119490, 2026.</p><p><span>I. G. Jang, G. Kim, </span><strong>C. Kim</strong><span>, and J. Kim, \"최소 비용 경로 선택 시스템 및 방법\", KR Patent, Application Number: 10-2024-0144119, 2024.</span></p>"
+            "<p>I. G. Jang, J. Kim, <span><b>C. Kim</b></span>, S. Park, and E. Lee, \"경로 산출 시스템 및 그 방법\", KR Patent, Application Number: 10-2026-0119490, 2026.</p><p><span>I. G. Jang, G. Kim, </span><strong>C. Kim</strong><span>, and J. Kim, \"최소 비용 경로 선택 시스템 및 방법\", KR Patent, Application Number: 10-2024-0144119, 2024.</span></p>"
           ],
           "icon": "patent"
         },
