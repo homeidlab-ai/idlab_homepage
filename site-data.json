@@ -640,7 +640,7 @@
       "journal": "IEEE Transactions on Intelligent Transportation Systems",
       "year": 2026,
       "category": "International Journal",
-      "link": "10.1109/TITS.2026.3724185",
+      "link": "https://doi.org/10.1109/TITS.2026.3724185",
       "highlight": false
     },
     {
@@ -2533,7 +2533,7 @@
         {
           "heading": "International Journal",
           "items": [
-            "<ul class=\"research-bullet-style-1\"></ul><ul class=\"research-bullet-style-1\"><li><p><span><b>C. Kim</b></span>, G. Kim, and I. G. Jang, “Linearized Loopwise Route Representation for Solving Symmetric Traveling Salesman Problems without the Origin-Destination Matrix”, IEEE Transactions on Intelligent Transportation Systems, 2026, Early access, DOI: 10.1109/TITS.2026.3724185. (JCR 2024 IF=8.4, TOP 2.4%)</p></li><li><p>G. Kim, <strong>C. Kim</strong>, S. Park, J. Kim, and I. G. Jang, “Linear Programming of the Loopwise Route Representation for the Shortest Path Problems by Introducing the Reference Link Flow”, IEEE Access, vol. 13, pp. 38856 - 38864, 2025. (JCR 2024 IF=3.6)</p></li></ul>"
+            "<ul class=\"research-bullet-style-1\"></ul><ul class=\"research-bullet-style-1\"><li><p><span><b>C. Kim</b></span>, G. Kim, and I. G. Jang, “Linearized Loopwise Route Representation for Solving Symmetric Traveling Salesman Problems without the Origin-Destination Matrix”, IEEE Transactions on Intelligent Transportation Systems, Early access, DOI: 10.1109/TITS.2026.3724185, 2026. (JCR 2024 IF=8.4, TOP 2.4%)</p></li><li><p>G. Kim, <strong>C. Kim</strong>, S. Park, J. Kim, and I. G. Jang, “Linear Programming of the Loopwise Route Representation for the Shortest Path Problems by Introducing the Reference Link Flow”, IEEE Access, vol. 13, pp. 38856 - 38864, 2025. (JCR 2024 IF=3.6)</p></li></ul>"
           ],
           "icon": "journal"
         },
