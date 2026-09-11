@@ -2696,7 +2696,7 @@
         {
           "heading": "Education",
           "items": [
-            "<ul class=\"research-bullet-style-1\"><li>B.S.: Kyungpook National University, Mechanical engineering <b>(Summa Cum Laude)</b></li></ul>"
+            "<ul class=\"research-bullet-style-1\"><li><span>M.S.: KAIST, Graduate School of Mobility</span></li><li>B.S.: Kyungpook National University, Mechanical engineering <b>(Summa Cum Laude)</b></li></ul>"
           ],
           "icon": "education"
         },
