@@ -2094,15 +2094,19 @@
             "M.S.: Mechanical Engineering, KAIST (1999)",
             "(Dissertation title: Optimal design of a nuclear fuel rd support structure based on contact stress analysis)",
             "B.S.: Mechanical Engineering, KAIST (1997)"
-          ],
-          "icon": "education"
+          ]
         },
         {
           "heading": "Professional Experience",
           "items": [
-            "<ul class=\"research-bullet-style-1\"><li>Department Head, Cho Chun Shik Graduate School of Mobility, KAIST, Mar. 2021- Feb. 2026 / Sep. 2026-Present</li><li>Director, Center for Eco-friendly &amp; Smart Vehicles, KAIST, Nov. 2017 - Nov. 2018</li><li>Full Professor, Cho Chun Shik Graduate School of Mobility, KAIST, Sep. 2024-Present</li><li>Associate Professor, Cho Chun Shik Graduate School of Mobility, KAIST, Mar. 2016-Aug. 2024</li><li>Assistant Professor, Cho Chun Shik Graduate School of Mobility, KAIST, Jan. 2011-Feb. 2016</li><li>Research Assistant Professor, Ocean Systems Engineering, KAIST, Apr. 2009-Dec. 2010</li><li>Postdoctoral Fellow, Mechanical and Materials Engineering, Queen’s University, Canada, Nov. 2006-Mar. 2009</li></ul>"
-          ],
-          "icon": "experience"
+            "Department Head, Cho Chun Shik Graduate School of Mobility, KAIST, Mar. 2021- Feb. 2026",
+            "Director, Center for Eco-friendly & Smart Vehicles, KAIST, Nov. 2017 - Nov. 2018",
+            "Full Professor, Cho Chun Shik Graduate School of Mobility, KAIST, Sep. 2024-Present",
+            "Associate Professor, Cho Chun Shik Graduate School of Mobility, KAIST, Mar. 2016-Aug. 2024",
+            "Assistant Professor, Cho Chun Shik Graduate School of Mobility, KAIST, Jan. 2011-Feb. 2016",
+            "Research Assistant Professor, Ocean Systems Engineering, KAIST, Apr. 2009-Dec. 2010",
+            "Postdoctoral Fellow, Mechanical and Materials Engineering, Queen’s University, Canada, Nov. 2006-Mar. 2009"
+          ]
         },
         {
           "heading": "Fellowships & Awards",
@@ -2123,8 +2127,7 @@
             "Best Paper Award (awardee: Seung Beop Lee), Korean Society for Railway, 2013",
             "Post-doctoral Travel Awards, Queen’s University, Apr. 2007",
             "Fellowship (Post-doc.), Korea Research Foundation, Aug. 2006"
-          ],
-          "icon": "award"
+          ]
         },
         {
           "heading": "Research Interests",
@@ -2132,8 +2135,7 @@
             "Design optimization of mobility systems",
             "Modeling and simulation of multiphysics problems",
             "System engineering"
-          ],
-          "icon": "research"
+          ]
         }
       ]
     },
@@ -3667,6 +3669,20 @@
     }
   ],
   "boardPosts": [
+    {
+      "id": "post-1789470986112",
+      "date": "2026.09.15",
+      "title": "👋조원영 졸업생 방문👋",
+      "author": "",
+      "content": "",
+      "category": "Gallery",
+      "imageUrl": "contents/generated/1e56e01eb17473eb2415bf5f.jpg",
+      "images": [
+        "contents/generated/1e56e01eb17473eb2415bf5f.jpg",
+        "contents/generated/64d80949e40cd3f05ee36640.jpg",
+        "contents/generated/7655349bbaf24d50510e9c34.jpg"
+      ]
+    },
     {
       "id": "post-1788237898976",
       "date": "2026.09.01",
@@ -5427,6 +5443,16 @@
   ],
   "gallerySlides": [
     {
+      "id": "post-1789470986112",
+      "title": "👋조원영 졸업생 방문👋",
+      "subtitle": "",
+      "date": "2026.09.15",
+      "imageUrl": "contents/generated/1e56e01eb17473eb2415bf5f.jpg",
+      "images": [
+        "contents/generated/1e56e01eb17473eb2415bf5f.jpg"
+      ]
+    },
+    {
       "id": "post-1786524455611",
       "title": "🏓랩 액티비티🏸",
       "subtitle": "",
@@ -5528,6 +5554,10 @@
     }
   ],
   "homeGalleryCovers": [
+    {
+      "postId": "post-1789470986112",
+      "imageUrl": "contents/generated/1e56e01eb17473eb2415bf5f.jpg"
+    },
     {
       "postId": "post-1786524455611",
       "imageUrl": "contents/generated/5d27eee8221f03e9ac6c043f.jpg"
