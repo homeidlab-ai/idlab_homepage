@@ -1,0 +1,1398 @@
+{
+  "publications": [
+    {
+      "id": "pub-1786609445564",
+      "title": "Linearized Loopwise Route Representation for Solving Symmetric Traveling Salesman Problems without the Origin-Destination Matrix",
+      "authors": "C. Kim, G. Kim, I. G. Jang",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "year": 2026,
+      "category": "International Journal",
+      "link": "https://doi.org/10.1109/TITS.2026.3724185",
+      "highlight": false
+    },
+    {
+      "id": "pub-journal-61",
+      "title": "Fault Detection of Coil Misalignment in Multi-receiver Wireless Power Transfer Systems with the Estimated Mutual Inductance",
+      "authors": "M. Kim, M. Kang, C. Chu, Y. Lee, S. Gwon, I. G. Jang",
+      "journal": "IEEE Transactions on Industrial Electronics, 2026.",
+      "year": 2026,
+      "category": "International Journal",
+      "link": "https://doi.org/10.1109/TIE.2026.3675172",
+      "highlight": true
+    },
+    {
+      "id": "pub-journal-60",
+      "title": "Scalable and interoperable C-V2X framework for real-time intelligent decision support in autonomous mobility",
+      "authors": "T. Oh, E. M. Kim, T. -T. Nguyen, H. Jeong, Y. Choi, L. Liebe, S. Lee, H. Jang, G. Chun, I. Kim, K. Jang, H. Ahn, D. Kum, I. G. Jang, D. Lee",
+      "journal": "Communications in Transportation Research, 2026.",
+      "year": 2026,
+      "category": "International Journal",
+      "link": "https://doi.org/10.26599/COMMTR.2026.9640001",
+      "highlight": true
+    },
+    {
+      "id": "pub-journal-59",
+      "title": "Interaction of highly nonlinear solitary waves with 3D-printed artificial bone",
+      "authors": "M. Barakat, S. Yoon, T. -Y. Kim, I. G. Jang, R. Song, A. Schiffer",
+      "journal": "Mechanics of Advanced Materials and Structures, 2026.",
+      "year": 2026,
+      "category": "International Journal",
+      "link": "https://doi.org/10.1080/15376494.2025.2601267",
+      "highlight": true
+    },
+    {
+      "id": "pub-journal-58",
+      "title": "Patchwise Trabecular Bone Reconstruction of a 2D Proximal Femur Using Deep Learning and Seamless Quilting Algorithm",
+      "authors": "B. J. Chun, S. M. Sin, H. Koh, J. J. Kim, I. G. Jang",
+      "journal": "IRBM, vol. 46, no. 3, p. 100889, 2025.",
+      "year": 2025,
+      "category": "International Journal",
+      "link": "https://doi.org/10.1016/j.irbm.2025.100889",
+      "highlight": true
+    },
+    {
+      "id": "pub-journal-57",
+      "title": "Linear Programming of the Loopwise Route Representation for the Shortest Path Problems by Introducing the Reference Link Flow",
+      "authors": "G. Kim, C. Kim, S. Park, J. Kim, I. G. Jang",
+      "journal": "IEEE Access, vol. 13, pp. 38856-38864, 2025.",
+      "year": 2025,
+      "category": "International Journal",
+      "link": "https://doi.org/10.1109/ACCESS.2025.3546320",
+      "highlight": true
+    },
+    {
+      "id": "pub-journal-56",
+      "title": "Node-link representation-based deep learning method for reconstructing trabecular bone from low-resolution images",
+      "authors": "H. Koh, B. J. Chun, I. G. Jang",
+      "journal": "Expert Systems with Applications, vol. 268, p. 126299, 2025.",
+      "year": 2025,
+      "category": "International Journal",
+      "link": "https://doi.org/10.1016/j.eswa.2024.126299",
+      "highlight": true
+    },
+    {
+      "id": "pub-journal-55",
+      "title": "Computationally Efficient Topology Optimization for the SynRMs Based on the Torque Curve Interpolation",
+      "authors": "C. Lee, I. G. Jang",
+      "journal": "Structural and Multidisciplinary Optimization, vol. 66, no. 172, 2023.",
+      "year": 2023,
+      "category": "International Journal",
+      "link": "https://doi.org/10.1007/s00158-023-03623-8",
+      "highlight": true
+    },
+    {
+      "id": "pub-journal-54",
+      "title": "Solitary wave-based site-specific bone quality assessment: A numerical study of the proximal femur",
+      "authors": "S. Yoon, A. Schiffer, I. G. Jang, S. Lee, C. Y. Yeun, T. -Y. Kim",
+      "journal": "International Journal of Non-Linear Mechanics, vol. 155, 2023.",
+      "year": 2023,
+      "category": "International Journal",
+      "link": "https://doi.org/10.1016/j.ijnonlinmec.2023.104458",
+      "highlight": false
+    },
+    {
+      "id": "pub-journal-53",
+      "title": "Loop-wise Route Representation and Its Optimization Formulation for Symmetric Traveling Salesman Problems",
+      "authors": "G. Kim, H. Jin, M. Kim, K. Jang, I. G. Jang",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems, vol.24, no. 9, pp. 9490-9500, 2023.",
+      "year": 2023,
+      "category": "International Journal",
+      "link": "https://doi.org/10.1109/TITS.2023.3271313",
+      "highlight": false
+    },
+    {
+      "id": "pub-journal-52",
+      "title": "Topology Optimization of Synchronous Reluctance Motors Considering the Optimal Current Reference in the Field-weakening and Maximum-torque-per-voltage Regions",
+      "authors": "C. Lee, I. G. Jang",
+      "journal": "IEEE Transactions on Energy Conversion, vol. 38, no. 3, pp. 1950-1961, 2023.",
+      "year": 2023,
+      "category": "International Journal",
+      "link": "https://doi.org/10.1109/TEC.2023.3259392",
+      "highlight": false
+    },
+    {
+      "id": "pub-journal-51",
+      "title": "Topology Optimization of the IPMSMs Considering both the MTPA and FW Controls under the Voltage and Current Limitations",
+      "authors": "C. Lee, I. G. Jang",
+      "journal": "IEEE Transactions on Industrial Electronics, vol. 70, no. 8, pp. 8244-8253, 2023.",
+      "year": 2023,
+      "category": "International Journal",
+      "link": "https://doi.org/10.1109/TIE.2023.3234136",
+      "highlight": false
+    },
+    {
+      "id": "pub-journal-50",
+      "title": "Detection of defects in cellular solids using highly nonlinear solitary waves: a numerical study of the proximal femur",
+      "authors": "S. Yoon, A. Schiffer, I. G. Jang, S. Lee, C. Y. Yeun, T. -Y. Kim",
+      "journal": "Biomechanics and Modeling in Mechanobiology, vol. 22, pp. 561-574, 2023.",
+      "year": 2023,
+      "category": "International Journal",
+      "link": "https://doi.org/10.1007/s10237-022-01662-6",
+      "highlight": false
+    },
+    {
+      "id": "pub-journal-49",
+      "title": "Topology Optimization Framework for Simultaneously Determining the Optimal Structural Design and Current Phase Angle of the IPMSMs for the MTPA Control",
+      "authors": "C. Lee, I. G. Jang",
+      "journal": "IEEE Transactions on Industrial Electronics, vol. 70, no. 3, pp. 2866-2875, 2023.",
+      "year": 2023,
+      "category": "International Journal",
+      "link": "https://doi.org/10.1109/TIE.2022.3174240",
+      "highlight": false
+    },
+    {
+      "id": "pub-journal-48",
+      "title": "Topology Optimization for the Manufacturable and Structurally Safe Synchronous Reluctance Motors with Multiple Iron Webs and Bridges",
+      "authors": "C. Lee, J. Lee, I. G. Jang",
+      "journal": "IEEE Transactions on Industrial Electronics, vol. 70, no. 1, pp. 678-687, 2023.",
+      "year": 2023,
+      "category": "International Journal",
+      "link": "https://doi.org/10.1109/TIE.2022.3148751",
+      "highlight": false
+    },
+    {
+      "id": "pub-journal-47",
+      "title": "Loopwise Route Representation-Based Topology Optimization for the Shortest Path Problems",
+      "authors": "G. Kim, S. Kim, I. G. Jang",
+      "journal": "IEEE Access, vol. 10, pp. 128835-128846, 2022.",
+      "year": 2022,
+      "category": "International Journal",
+      "link": "https://doi.org/10.1109/ACCESS.2022.3227388",
+      "highlight": false
+    },
+    {
+      "id": "pub-journal-46",
+      "title": "A MATLAB code of node-based topology optimization in 3D arbitrary domain for additive manufacturing",
+      "authors": "D. Kim, Y. Ji, J. Lee, J. Yoo, S. Min, I. G. Jang",
+      "journal": "Structural and Multidisciplinary Optimization, vol. 65, no. 311, 2022.",
+      "year": 2022,
+      "category": "International Journal",
+      "link": "https://doi.org/10.1007/s00158-022-03339-1",
+      "highlight": false
+    },
+    {
+      "id": "pub-journal-45",
+      "title": "Multi-material Topology Optimization for the PMSMs under the Consideration of the MTPA Control",
+      "authors": "C. Lee, I. G. Jang",
+      "journal": "Structural and Multidisciplinary Optimization, vol. 65, no. 9, pp. 1-11, 2022.",
+      "year": 2022,
+      "category": "International Journal",
+      "link": "https://doi.org/10.1007/s00158-022-03367-x",
+      "highlight": false
+    },
+    {
+      "id": "pub-journal-44",
+      "title": "Framework of sampling the subject-specific static loads from the gait cycle of interindividual variation",
+      "authors": "B. J. Chun, I. G. Jang",
+      "journal": "Computer Methods and Programs in Biomedicine, vol. 225, 2022.",
+      "year": 2022,
+      "category": "International Journal",
+      "link": "https://doi.org/10.1016/j.cmpb.2022.107054",
+      "highlight": false
+    },
+    {
+      "id": "pub-journal-43",
+      "title": "Integrated topology and shape optimization of the five-spoke steel wheel to improve the natural frequency",
+      "authors": "J. Kim, J.J. Kim, I. G. Jang",
+      "journal": "Structural and Multidisciplinary Optimization, vol. 65, no. 78, 2022.",
+      "year": 2022,
+      "category": "International Journal",
+      "link": "http://dx.doi.org/10.1007/s00158-022-03183-3",
+      "highlight": false
+    },
+    {
+      "id": "pub-journal-42",
+      "title": "Adaptive Equivalent Consumption Minimization Strategy (A-ECMS) for the HEVs With a Near-Optimal Equivalent Factor Considering Driving Conditions",
+      "authors": "K. Choi, J. Byun, S. Lee, I. G. Jang",
+      "journal": "IEEE Transactions on Vehicular Technology, vol. 71, no. 3, pp. 2538-2549, 2022.",
+      "year": 2022,
+      "category": "International Journal",
+      "link": "https://doi.org/10.1109/TVT.2021.3127691",
+      "highlight": false
+    },
+    {
+      "id": "pub-journal-41",
+      "title": "Model-Predictive-Control-Based Time-Optimal Trajectory Planning of the Distributed Actuation Mechanism Augmented by the Maximum Performance Evaluation",
+      "authors": "J. H. Kim, K. Choi, I. G. Jang",
+      "journal": "Applied Science, vol. 11, no. 16, pp. 7513-1-12, 2021.",
+      "year": 2021,
+      "category": "International Journal",
+      "link": "https://doi.org/10.3390/app11167513",
+      "highlight": false
+    },
+    {
+      "id": "pub-journal-40",
+      "title": "Unit module-based convergence acceleration for topology optimization using the spatiotemporal deep neural network",
+      "authors": "Y. Joo, Y. Yu, I.G. Jang",
+      "journal": "IEEE Access, vol. 9, pp. 149766-149779, 2021.",
+      "year": 2021,
+      "category": "International Journal",
+      "link": "https://doi.org/10.1109/ACCESS.2021.3125014",
+      "highlight": false
+    },
+    {
+      "id": "pub-journal-39",
+      "title": "Topology optimization of multiple-barrier synchronous reluctance motors with initial random hollow circles",
+      "authors": "C. Lee, I. G. Jang",
+      "journal": "Structural and Multidisciplinary Optimization, vol. 64, pp. 2213-2224, 2021.",
+      "year": 2021,
+      "category": "International Journal",
+      "link": "https://doi.org/10.1007/s00158-021-02976-2",
+      "highlight": false
+    },
+    {
+      "id": "pub-journal-38",
+      "title": "Evaluating the Maximum Directional Kinematic Capability of a Redundant Manipulator Based on Allowable Velocity and Force",
+      "authors": "J. H. Kim, Y. J. Shin, I. G. Jang",
+      "journal": "IEEE Access, vol. 9, pp. 88085-88097, 2021.",
+      "year": 2021,
+      "category": "International Journal",
+      "link": "https://doi.org/10.1109/ACCESS.2021.3090180",
+      "highlight": false
+    },
+    {
+      "id": "pub-journal-37",
+      "title": "Predictions of the elastic modulus of trabecular bone in the femoral head and the intertrochanter: a solitary wave-based approach",
+      "authors": "S. Yoon, A. Schiffer, I. G. Jang, S. Lee, T. -Y. Kim",
+      "journal": "Biomechanics and Modeling in Mechanobiology, vol. 20, pp.1733–1749, 2021.",
+      "year": 2021,
+      "category": "International Journal",
+      "link": "https://doi.org/10.1007/s10237-021-01473-1",
+      "highlight": false
+    },
+    {
+      "id": "pub-journal-36",
+      "title": "Shape optimization-based design investigation of the switched reluctance motors regarding the target torque and current limitation",
+      "authors": "C. Lee, J. Lee, I. G. Jang",
+      "journal": "Structural and Multidisciplinary Optimization, vol. 64, pp. 859-870, 2021.",
+      "year": 2021,
+      "category": "International Journal",
+      "link": "https://doi.org/10.1007/s00158-021-02897-0",
+      "highlight": false
+    },
+    {
+      "id": "pub-journal-35",
+      "title": "Determination of the representative static loads for cyclically repeated dynamic loads: a case study of bone remodeling simulation with gait loads",
+      "authors": "B. J. Chun, I. G. Jang",
+      "journal": "Computer Methods and Programs in Biomedicine, vol. 200, 2021.",
+      "year": 2021,
+      "category": "International Journal",
+      "link": "https://doi.org/10.1016/j.cmpb.2020.105924",
+      "highlight": false
+    },
+    {
+      "id": "pub-journal-34",
+      "title": "Multi-resolution topology optimization using adaptive isosurface variable grouping (MTOP-aIVG) for enhanced computational efficiency",
+      "authors": "J. Yoo, I. G. Jang, I. Lee",
+      "journal": "Structural and Multidisciplinary Optimization, vol. 63, no. 4, pp. 1743-1766, 2021.",
+      "year": 2021,
+      "category": "International Journal",
+      "link": "https://doi.org/10.1007/s00158-020-02774-2",
+      "highlight": false
+    },
+    {
+      "id": "pub-journal-33",
+      "title": "Determination of the Optimal Resonant Condition for Multi-receiver Wireless Power Transfer Systems Considering the Transfer Efficiency and Different Rated Powers with Altered Coupling Effects",
+      "authors": "S. B. Lee, M. Kim, I. G. Jang",
+      "journal": "IEEE Journal of Emerging and Selected Topics in Power Electronics, vol. 9, no. 2, pp.2384-2393, 2021.",
+      "year": 2021,
+      "category": "International Journal",
+      "link": "https://doi.org/10.1109/JESTPE.2020.2983824",
+      "highlight": false
+    },
+    {
+      "id": "pub-journal-32",
+      "title": "Optimization-based Investigation of Bioinspired Variable Gearing of the Distributed Actuation Mechanism to Maximize Velocity and Force",
+      "authors": "J. H. Kim, I. G. Jang",
+      "journal": "IEEE Robotics and Automation Letters, vol. 5, no. 4, pp. 6326-6333, 2020.",
+      "year": 2020,
+      "category": "International Journal",
+      "link": "https://doi.org/10.1109/LRA.2020.3013894",
+      "highlight": false
+    },
+    {
+      "id": "pub-journal-31",
+      "title": "Numerical predictions of the interaction between highly nonlinear solitary waves and the microstructure of trabecular bone in the femoral head",
+      "authors": "S. Yoon, A. Schiffer, J. J. Kim, I. G. Jang, S. Lee, T. -Y. Kim",
+      "journal": "Journal of the Mechanical Behavior of Biomedical Materials, vol. 109, 2020.",
+      "year": 2020,
+      "category": "International Journal",
+      "link": "https://doi.org/10.1016/j.jmbbm.2020.103805",
+      "highlight": false
+    },
+    {
+      "id": "pub-journal-30",
+      "title": "Coil Layout Optimization for Maximizing the Power Transfer Efficiency of Wireless Power Transfer Systems with Multiple Transmitter Coils",
+      "authors": "S. B. Lee, I. G. Jang",
+      "journal": "IEEE Journal of Emerging and Selected Topics in Power Electronics, vol. 8, no.3, pp. 2672-2681, 2020.",
+      "year": 2020,
+      "category": "International Journal",
+      "link": "https://doi.org/10.1109/JESTPE.2019.2902258",
+      "highlight": false
+    },
+    {
+      "id": "pub-journal-29",
+      "title": "Deep learning for determining a near-optimal topological design without any iteration",
+      "authors": "Y. Yu, T. Hur, J. Jung, I. G. Jang",
+      "journal": "Structural and Multidisciplinary Optimization, vol. 59, no.3, pp. 787-799",
+      "year": 2019,
+      "category": "International Journal",
+      "link": "https://doi.org/10.1007/s00158-018-2101-5",
+      "highlight": false
+    },
+    {
+      "id": "pub-journal-28",
+      "title": "Patient-specific phantomless estimation of bone mineral density and its effects on finite element analysis results: a feasibility study",
+      "authors": "Y. H. Lee, J. J. Kim, I. G. Jang",
+      "journal": "Computational and Mathematical Methods in Medicine, vol. 2019, pp. 10",
+      "year": 2019,
+      "category": "International Journal",
+      "link": "https://doi.org/10.1155/2019/4102410",
+      "highlight": false
+    },
+    {
+      "id": "pub-journal-27",
+      "title": "Computational study of estimating 3D trabecular bone microstructure for volume of interest from CT scan data",
+      "authors": "J. J. Kim, J. Nam, I. G. Jang",
+      "journal": "International Journal for Numerical Methods in Biomedical Engineering, vol. 34, no. 4, pp. 2950",
+      "year": 2018,
+      "category": "International Journal",
+      "link": "https://doi.org/10.1002/cnm.2950",
+      "highlight": false
+    },
+    {
+      "id": "pub-journal-26",
+      "title": "Fully automated segmentation of a hip joint using the patient-specific optimal thresholding and watershed algorithm",
+      "authors": "J. J. Kim, J. Nam, I. G. Jang",
+      "journal": "Computer Methods and Programs in Biomedicine, vol. 154, no. 1, pp. 161-171",
+      "year": 2018,
+      "category": "International Journal",
+      "link": "https://doi.org/10.1016/j.cmpb.2017.11.007",
+      "highlight": false
+    },
+    {
+      "id": "pub-journal-25",
+      "title": "Layout Optimization of the Receiver Coils for Multi-transmitter Wireless Power Transfer Systems",
+      "authors": "S. B. Lee, I. G. Jang",
+      "journal": "IEEE Journal of Emerging and Selected Topics in Power Electronics, vol. 5, no. 3, pp. 1311-1321",
+      "year": 2017,
+      "category": "International Journal",
+      "link": "https://doi.org/10.1109/JESTPE.2017.2688999",
+      "highlight": false
+    },
+    {
+      "id": "pub-journal-24",
+      "title": "Precise Determination of the Optimal Coil for Wireless Power Transfer Systems through Postprocessing in the Smooth Boundary Representation",
+      "authors": "S. B. Lee, C. Lee, I. G. Jang",
+      "journal": "IEEE Transactions on Magnetics, vol. 53, no. 6, pp. 228-231",
+      "year": 2017,
+      "category": "International Journal",
+      "link": "https://doi.org/10.1109/TMAG.2017.2654679",
+      "highlight": false
+    },
+    {
+      "id": "pub-journal-23",
+      "title": "Simulation-based feasibility study on the wireless charging railway system with a ferriteless primary module",
+      "authors": "S. B. Lee, S. Ahn, I. G. Jang",
+      "journal": "IEEE Transactions on Vehicular Technology, vol. 66, no. 2, pp. 1004-1010",
+      "year": 2017,
+      "category": "International Journal",
+      "link": "https://doi.org/10.1109/TVT.2016.2565703",
+      "highlight": false
+    },
+    {
+      "id": "pub-journal-22",
+      "title": "Estimation of local bone loads for volumes of interest",
+      "authors": "J. J. Kim, I. G. Jang",
+      "journal": "Journal of Biomechanical Engineering, vol. 138, no. 7, pp. 071004-1-8",
+      "year": 2016,
+      "category": "International Journal",
+      "link": "https://doi.org/10.1115/1.4033478",
+      "highlight": false
+    },
+    {
+      "id": "pub-journal-21",
+      "title": "Image resolution enhancement for healthy weight-bearing bones based on topology optimization",
+      "authors": "J. J. Kim, I. G. Jang",
+      "journal": "Journal of Biomechanics, vol. 49, no. 13, pp. 3035-3040",
+      "year": 2016,
+      "category": "International Journal",
+      "link": "https://doi.org/10.1016/j.jbiomech.2016.06.012",
+      "highlight": false
+    },
+    {
+      "id": "pub-journal-20",
+      "title": "Traffic Signal Optimization for Oversaturated Urban Networks: Queue Growth Equalization",
+      "authors": "K. Jang, H. Kim, I. G. Jang",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems, vol. 16, no. 4, pp. 2121-2128",
+      "year": 2015,
+      "category": "International Journal",
+      "link": "https://doi.org/10.1109/TITS.2015.2398896",
+      "highlight": false
+    },
+    {
+      "id": "pub-journal-19",
+      "title": "Homeostasis-based aging model for trabecular changes and its correlation with age-matched bone mineral densities and radiographs",
+      "authors": "Y. H. Lee, Y. Kim, J. J. Kim, I. G. Jang",
+      "journal": "European Journal of Radiology, vol. 84, no. 11, pp. 2261-2268",
+      "year": 2015,
+      "category": "International Journal",
+      "link": "https://doi.org/10.1016/j.ejrad.2015.07.027",
+      "highlight": false
+    },
+    {
+      "id": "pub-journal-18",
+      "title": "Development of the Optimization Framework for Low-Power Wireless Power Transfer Systems",
+      "authors": "S. B. Lee, S. Ahn, I. G. Jang",
+      "journal": "IEEE Transactions on Microwave Theory and Techniques, vol. 63, no. 3, pp. 813-820",
+      "year": 2015,
+      "category": "International Journal",
+      "link": "https://doi.org/10.1109/TMTT.2015.2398414",
+      "highlight": false
+    },
+    {
+      "id": "pub-journal-17",
+      "title": "Structural Optimization of a Novel 6-DOF Pose Sensor System for Enhancing Noise Robustness at a Long Distance",
+      "authors": "Y. -K. Kim, I. G. Jang, Y. Kim, K. -S. Kim, S. Kim",
+      "journal": "IEEE Transactions on Industrial Electronics, vol. 61, no. 10, pp. 5622-5631",
+      "year": 2014,
+      "category": "International Journal",
+      "link": "https://doi.org/10.1109/TIE.2013.2297307",
+      "highlight": false
+    },
+    {
+      "id": "pub-journal-16",
+      "title": "Conceptual and basic designs of the Mobile Harbor crane based on topology and shape optimization",
+      "authors": "I. G. Jang, K. -S. Kim, B. M. Kwak",
+      "journal": "Structural and Multidisciplinary Optimization, vol. 50, no. 3, pp. 505-515",
+      "year": 2014,
+      "category": "International Journal",
+      "link": "https://doi.org/10.1007/s00158-014-1073-3",
+      "highlight": false
+    },
+    {
+      "id": "pub-journal-15",
+      "title": "Design improvement of the three-beam detector towards a precise long-range 6-degree of freedom motion sensor system",
+      "authors": "Y. -K. Kim, I. G. Jang, K. -S. Kim, S. Kim",
+      "journal": "Review of Scientific Instruments, vol. 85, no. 015004",
+      "year": 2014,
+      "category": "International Journal",
+      "link": "https://doi.org/10.1063/1.4861915",
+      "highlight": false
+    },
+    {
+      "id": "pub-journal-14",
+      "title": "An advanced cargo handling system operating at sea",
+      "authors": "E. H. Kim, Y. S. Jung, Y. Yu, S. Kwon, H. Ju, S. Kim, B. M. Kwak, I. G. Jang, K. -S. Kim",
+      "journal": "International Journal of Control, Automation and Systems, vol. 12, pp. 852-860",
+      "year": 2014,
+      "category": "International Journal",
+      "link": "https://doi.org/10.1007/s12555-013-0189-3",
+      "highlight": false
+    },
+    {
+      "id": "pub-journal-13",
+      "title": "Topology optimization for a frequency response and its application to a violin bridge",
+      "authors": "Y. Yu, I. G. Jang, B. M. Kwak",
+      "journal": "Structural and Multidisciplinary Optimization, vol. 48, pp. 627-636",
+      "year": 2013,
+      "category": "International Journal",
+      "link": "https://doi.org/10.1007/s00158-013-0907-8",
+      "highlight": false
+    },
+    {
+      "id": "pub-journal-12",
+      "title": "Auto-positioning of sliding planes based on virtual force",
+      "authors": "E. H. Kim, K. W. Kwak, Y. K. Kim, S. Kim, B. M. Kwak, I. G. Jang",
+      "journal": "International Journal of Control, Automation and Systems, no. 11, pp, 798-804",
+      "year": 2013,
+      "category": "International Journal",
+      "link": "https://doi.org/10.1007/s12555-012-0300-1",
+      "highlight": false
+    },
+    {
+      "id": "pub-journal-11",
+      "title": "Developing Accurate Long-Distance 6-DOF Motion Detection With One-Dimensional Laser Sensors: Three-Beam Detection System",
+      "authors": "Y. -K. Kim, Y. Kim, Y. S. Jung, I. G. Jang, K. -S. Kim, S. Kim, B. M. Kwak",
+      "journal": "IEEE Transactions on Industrial Electronics, vol. 60, no. 8, pp. 3386-3395",
+      "year": 2013,
+      "category": "International Journal",
+      "link": "https://doi.org/10.1109/TIE.2012.2200225",
+      "highlight": false
+    },
+    {
+      "id": "pub-journal-10",
+      "title": "Pattern design of a non-pneumatic tyre for stiffness using topology optimization",
+      "authors": "I. G. Jang, Y. H. Sung, E. J. Yoo, and B. M. Kwak",
+      "journal": "Engineering Optimization, vol. 273, no.2, pp. 119-131",
+      "year": 2012,
+      "category": "International Journal",
+      "link": "https://doi.org/10.1080/0305215X.2011.569546",
+      "highlight": false
+    },
+    {
+      "id": "pub-journal-9",
+      "title": "Computational study on the effect of loading alteration caused by disc degeneration on the trabecular architecture in human lumbar spine",
+      "authors": "I. G. Jang, I. Y. Kim",
+      "journal": "Journal of Biomechanics, vol. 43, no. 3, pp. 492-499",
+      "year": 2010,
+      "category": "International Journal",
+      "link": "https://doi.org/10.1016/j.jbiomech.2009.09.042",
+      "highlight": false
+    },
+    {
+      "id": "pub-journal-8",
+      "title": "Computational simulation of simultaneous cortical and trabecular bone change in human proximal femur during bone remodeling",
+      "authors": "I. G. Jang, I. Y. Kim",
+      "journal": "Journal of Biomechanics, vol. 43, no. 2, pp. 294-301",
+      "year": 2010,
+      "category": "International Journal",
+      "link": "https://doi.org/10.1016/j.jbiomech.2009.08.012",
+      "highlight": false
+    },
+    {
+      "id": "pub-journal-7",
+      "title": "Nodal line optimization and its application to violin top plate design",
+      "authors": "Y. Yu, I. G. Jang, I. K. Kim, B. M. Kwak",
+      "journal": "Journal of Sound and Vibration, vol. 329, no. 22, pp. 4785-4796",
+      "year": 2010,
+      "category": "International Journal",
+      "link": "https://doi.org/10.1016/j.jsv.2010.05.022",
+      "highlight": false
+    },
+    {
+      "id": "pub-journal-6",
+      "title": "Application of design space optimization to bone remodeling simulation of trabecular architecture in human proximal femur for higher computational efficiency",
+      "authors": "I. G. Jang, I. Y. Kim",
+      "journal": "Finite Elements in Analysis and Design, vol. 46, no. 4, pp. 311-319",
+      "year": 2010,
+      "category": "International Journal",
+      "link": "https://doi.org/10.1016/j.finel.2009.11.003",
+      "highlight": false
+    },
+    {
+      "id": "pub-journal-5",
+      "title": "Computational simulation of trabecular adaptation progress in human proximal femur during growth",
+      "authors": "I. G. Jang, I. Y. Kim",
+      "journal": "Journal of Biomechanics, vol. 42, no. 5, pp. 573-580, 2009.",
+      "year": 2009,
+      "category": "International Journal",
+      "link": "https://doi.org/10.1016/j.jbiomech.2008.12.009",
+      "highlight": false
+    },
+    {
+      "id": "pub-journal-4",
+      "title": "Analogy of strain energy density based bone-remodeling algorithm and structural topology optimization",
+      "authors": "I. G. Jang, I. Y. Kim, B. M. Kwak",
+      "journal": "Journal of Biomechanical Engineering, vol. 131, no. 1, pp. 011012-1-7",
+      "year": 2009,
+      "category": "International Journal",
+      "link": "https://doi.org/10.1115/1.3005202",
+      "highlight": false
+    },
+    {
+      "id": "pub-journal-3",
+      "title": "Computational study of Wolff’s law with trabecular architecture in the human proximal femur using topology optimization",
+      "authors": "I. G. Jang, I. Y. Kim",
+      "journal": "Journal of Biomechanics, vol. 41, no. 11, pp. 2353-2361",
+      "year": 2008,
+      "category": "International Journal",
+      "link": "https://doi.org/10.1016/j.jbiomech.2008.05.037",
+      "highlight": false
+    },
+    {
+      "id": "pub-journal-2",
+      "title": "Design space optimization using design space adjustment and refinement",
+      "authors": "I. G. Jang, B. M. Kwak",
+      "journal": "Structural and Multidisciplinary Optimization, vol. 35, pp. 41-54",
+      "year": 2008,
+      "category": "International Journal",
+      "link": "https://doi.org/10.1007/s00158-007-0112-8",
+      "highlight": false
+    },
+    {
+      "id": "pub-journal-1",
+      "title": "Evolutionary topology optimization using design space adjustment based on fixed grid",
+      "authors": "I. G. Jang, B. M. Kwak",
+      "journal": "International Journal for Numerical Methods in Engineering, vol. 66, no. 11, pp. 1817-1840",
+      "year": 2006,
+      "category": "International Journal",
+      "link": "https://doi.org/10.1002/nme.1607",
+      "highlight": false
+    },
+    {
+      "id": "pub-conf-78",
+      "title": "Loopwise Route Representation-based Topology Optimization for Vehicle Routing Problem",
+      "authors": "G. Kim, I. G. Jang",
+      "journal": "ACSMO 2024.",
+      "year": 2024,
+      "category": "International Conference",
+      "highlight": true
+    },
+    {
+      "id": "pub-conf-77",
+      "title": "Deep Learning-based Topology Optimization for Shortest Path Problems",
+      "authors": "J. Kim, G. Kim, I. G. Jang",
+      "journal": "ACSMO 2024.",
+      "year": 2024,
+      "category": "International Conference",
+      "highlight": true
+    },
+    {
+      "id": "pub-conf-76",
+      "title": "Study on Estimating the Full Mutual Inductance Information in Multi-Receiver Wireless Power Transfer Systems",
+      "authors": "M. Kang, M. Kim, I. G. Jang",
+      "journal": "IEEE WPTCE 2024.",
+      "year": 2024,
+      "category": "International Conference",
+      "highlight": true
+    },
+    {
+      "id": "pub-conf-75",
+      "title": "Estimation of the Mutual Inductance in Multi-receiver Wireless Power Transfer Systems",
+      "authors": "M. Kim, M. Kang, I. G. Jang",
+      "journal": "IEEE WPTCE 2023.",
+      "year": 2023,
+      "category": "International Conference",
+      "highlight": true
+    },
+    {
+      "id": "pub-conf-74",
+      "title": "Deep learning-based patchwise 3D bone microstructure reconstruction",
+      "authors": "B. J. Chun, H. Koh, I. G. Jang",
+      "journal": "WCSMO 2023.",
+      "year": 2023,
+      "category": "International Conference",
+      "highlight": true
+    },
+    {
+      "id": "pub-conf-73",
+      "title": "Topology Optimization for Vehicle Routing Problems",
+      "authors": "S. Kim, G. Kim, I. G. Jang",
+      "journal": "WCSMO 2023.",
+      "year": 2023,
+      "category": "International Conference",
+      "highlight": true
+    },
+    {
+      "id": "pub-conf-72",
+      "title": "Mutual Inductance Estimation for Multi-receiver Wireless Power Systems Using Current Information",
+      "authors": "M. Kim, I. G. Jang",
+      "journal": "IEEE WPTC 2022.",
+      "year": 2022,
+      "category": "International Conference",
+      "highlight": true
+    },
+    {
+      "id": "pub-conf-71",
+      "title": "Analytical Investigation of Approximating the Optimal Operating Condition of Multi-receiver Wireless Power Transfer Systems in Real Time",
+      "authors": "M. Kim, I. G. Jang",
+      "journal": "ACSMO 2022.",
+      "year": 2022,
+      "category": "International Conference",
+      "highlight": true
+    },
+    {
+      "id": "pub-conf-70",
+      "title": "Bone Microstructure Reconstruction from Low-resolution Skeletal Images Using Deep Learning with Node-Link Graph-Based Connectivity",
+      "authors": "H. Koh, I. G. Jang",
+      "journal": "ACSMO 2022.",
+      "year": 2022,
+      "category": "International Conference",
+      "highlight": true
+    },
+    {
+      "id": "pub-conf-69",
+      "title": "Determination of the Optimal Load Condition for Multi-receiver Wireless Power Transfer Systems",
+      "authors": "M. Kang, I. G. Jang",
+      "journal": "ACSMO 2022.",
+      "year": 2022,
+      "category": "International Conference",
+      "highlight": true
+    },
+    {
+      "id": "pub-conf-68",
+      "title": "Two-stage Topology Optimization Framework of a Rare-earth-free Synchronous Reluctance Motor Considering Manufacturability and Structural Safety",
+      "authors": "C. W. Lee, I. G. Jang",
+      "journal": "ACSMO 2022.",
+      "year": 2022,
+      "category": "International Conference",
+      "highlight": true
+    },
+    {
+      "id": "pub-conf-67",
+      "title": "Deep learning-based patchwise resolution enhancement with quilting algorithm",
+      "authors": "S.M. Sin, B. J. Chun, I.G.Jang",
+      "journal": "ESB 2021.",
+      "year": 2021,
+      "category": "International Conference",
+      "highlight": true
+    },
+    {
+      "id": "pub-conf-66",
+      "title": "Topology Optimization-based Bone Microstructure Reconstruction from CT Scan Data",
+      "authors": "J. J. Kim, B. J. Chun, I. G. Jang",
+      "journal": "ASEM 2021.",
+      "year": 2021,
+      "category": "International Conference",
+      "highlight": true
+    },
+    {
+      "id": "pub-conf-65",
+      "title": "Patchwise bone microstructure reconstruction",
+      "authors": "B. J. Chun, S. M. Sin, I.G.Jang",
+      "journal": "ASEM 2021.",
+      "year": 2021,
+      "category": "International Conference",
+      "highlight": true
+    },
+    {
+      "id": "pub-conf-64",
+      "title": "Patchwise-connected resolution enhancement for healthy weight-bearing bones using deep learning",
+      "authors": "B. J. Chun, S. M. Sin, I. G. Jang",
+      "journal": "ACSMO 2020.",
+      "year": 2020,
+      "category": "International Conference",
+      "highlight": true
+    },
+    {
+      "id": "pub-conf-63",
+      "title": "Lightweight Design of a Door-trim Jig Using Topology Optimization and Additive Manufacturing",
+      "authors": "J. Kim, I. G. Jang",
+      "journal": "ACSMO 2020.",
+      "year": 2020,
+      "category": "International Conference",
+      "highlight": true
+    },
+    {
+      "id": "pub-conf-62",
+      "title": "A validation study of determining the representative static loads for dynamic loading for conducting efficient bone remodeling simulation",
+      "authors": "B. J. Chun, I. G. Jang",
+      "journal": "ACSMO 2020.",
+      "year": 2020,
+      "category": "International Conference",
+      "highlight": true
+    },
+    {
+      "id": "pub-conf-61",
+      "title": "Optimization-based Determination of the Resonance Condition for Multi-receiver Wireless Power Transfer Systems",
+      "authors": "M. Kim, I. G. Jang",
+      "journal": "ACSMO 2020.",
+      "year": 2020,
+      "category": "International Conference",
+      "highlight": true
+    },
+    {
+      "id": "pub-conf-60",
+      "title": "Topology Optimization-based Human Bone Microstructure Reconstruction for Improving the Accuracy of Bone Strength Assessment: Cadaveric Validation Study",
+      "authors": "J. J. Kim, Y. H Lee, BJ. Chun, I. G. Jang",
+      "journal": "ACSMO 2020.",
+      "year": 2020,
+      "category": "International Conference",
+      "highlight": true
+    },
+    {
+      "id": "pub-conf-59",
+      "title": "Determination of the Optimal Resonant Condition for Multi-Receiver Wireless Power Transfer Systems",
+      "authors": "S. B. Lee, M. Kim, I.G. Jang",
+      "journal": "IEEE WPTC 2019.",
+      "year": 2019,
+      "category": "International Conference",
+      "highlight": true
+    },
+    {
+      "id": "pub-conf-58",
+      "title": "Determination of the representative static loads for dynamic loads: A case of gait cycle",
+      "authors": "B. J. Chun, I. G. Jang",
+      "journal": "ESB 2019.",
+      "year": 2019,
+      "category": "International Conference",
+      "highlight": true
+    },
+    {
+      "id": "pub-conf-57",
+      "title": "Topology Optimization-based Bone Reconstruction for QCT Scan Data: Clinical Feasibility Study with Micro-CT Scan Data",
+      "authors": "J. J. Kim, Y. H. Lee, B. J. Chun and I. G. Jang",
+      "journal": "ESB 2019.",
+      "year": 2019,
+      "category": "International Conference",
+      "highlight": true
+    },
+    {
+      "id": "pub-conf-56",
+      "title": "Determination of the representative static loads for dynamic loading for efficient bone remodeling simulation: a case study of walking",
+      "authors": "B. J. Chun, I. G. Jang",
+      "journal": "WCSMO 2019.",
+      "year": 2019,
+      "category": "International Conference",
+      "highlight": true
+    },
+    {
+      "id": "pub-conf-55",
+      "title": "Acceleration of Topology Optimization-based Bone Microstructure Reconstruction using Artificial Neural Networks",
+      "authors": "J. J. Kim, Y. Yu and I. G. Jang",
+      "journal": "WCSMO 2019.",
+      "year": 2019,
+      "category": "International Conference",
+      "highlight": true
+    },
+    {
+      "id": "pub-conf-54",
+      "title": "Determination of the Optimal Resonant Condition for Multi-receiver Wireless Power Transfer system",
+      "authors": "S. B. Lee, M. Kim, and I. G. Jang",
+      "journal": "WCSMO 2019.",
+      "year": 2019,
+      "category": "International Conference",
+      "highlight": false
+    },
+    {
+      "id": "pub-conf-53",
+      "title": "Computational study on age-related changes of trabecular bone microarchitecture using topology optimization-based resolution enhancement for the proximal femur CT images",
+      "authors": "Y. H. Lee, J. J. Kim and I. G. Jang",
+      "journal": "KCR 2018.",
+      "year": 2018,
+      "category": "International Conference",
+      "highlight": false
+    },
+    {
+      "id": "pub-conf-52",
+      "title": "Clinical case study of topology optimization-based resolution enhancement of clinical CT images for investigating age-related trabecular changes",
+      "authors": "J. J. Kim, I. G. Jang",
+      "journal": "WCB 2018.",
+      "year": 2018,
+      "category": "International Conference",
+      "highlight": false
+    },
+    {
+      "id": "pub-conf-51",
+      "title": "Topology optimization-based resolution enhancement of clinical CT images for investigating bone microstructure",
+      "authors": "J. J. Kim, B. J. Chun and I. G. Jang",
+      "journal": "WCB 2018.",
+      "year": 2018,
+      "category": "International Conference",
+      "highlight": false
+    },
+    {
+      "id": "pub-conf-50",
+      "title": "Shape Optimization of Switched Reluctance Motors Considering Complicate Shape",
+      "authors": "C. Lee, J. Lee, S. B. Lee, and I. G. Jang",
+      "journal": "IEEE Conference on Electromagnetic Field Computation, 2018.",
+      "year": 2018,
+      "category": "International Conference",
+      "highlight": false
+    },
+    {
+      "id": "pub-conf-49",
+      "title": "Layout Optimization of the Receiver Coils for Maximizing the Efficiency of Multi-transmitter Wireless Power Transfer Systems",
+      "authors": "S. B. Lee, M. Kim, and I. G. Jang",
+      "journal": "ACSMO 2018.",
+      "year": 2018,
+      "category": "International Conference",
+      "highlight": false
+    },
+    {
+      "id": "pub-conf-48",
+      "title": "Development of Optimization Framework for Switched Reluctance Motors Considering Complicate Shape and Electric Parameters",
+      "authors": "C. Lee, J. Lee, S. B. Lee, and I. G. Jang",
+      "journal": "ACSMO, 2018.",
+      "year": 2018,
+      "category": "International Conference",
+      "highlight": false
+    },
+    {
+      "id": "pub-conf-47",
+      "title": "A new application of topology optimization: bone microstructure reconstruction with CT scan images",
+      "authors": "J. J,Kim, and I. G. Jang",
+      "journal": "ACSMO 2018.",
+      "year": 2018,
+      "category": "International Conference",
+      "highlight": false
+    },
+    {
+      "id": "pub-conf-46",
+      "title": "Topology optimization-based bone microstructure reconstruction complemented by neural networks",
+      "authors": "J. J,Kim, Y. Yu and I. G.Jang",
+      "journal": "ACSMO 2018.",
+      "year": 2018,
+      "category": "International Conference",
+      "highlight": false
+    },
+    {
+      "id": "pub-conf-45",
+      "title": "Clinical case study of topology optimization-based resolution enhancement of CT images for proximal femur",
+      "authors": "J. J. Kim, B. J.Chun, Y. H. Lee, and I. G. Jang",
+      "journal": "KCR 2017.",
+      "year": 2017,
+      "category": "International Conference",
+      "highlight": false
+    },
+    {
+      "id": "pub-conf-44",
+      "title": "Topology optimization-based resolution enhancement for skeletal images",
+      "authors": "J. J. Kim, Y. H. Lee, and I. G. Jang",
+      "journal": "ESB 2017.",
+      "year": 2017,
+      "category": "International Conference",
+      "highlight": false
+    },
+    {
+      "id": "pub-conf-43",
+      "title": "Resolution enhancement of 3-D quantitative computed tomography image for proximal femur by using analogy between topology optimization and phenomenological bone remodeling",
+      "authors": "J. J. Kim, Y. H. Lee, and I. G. Jang",
+      "journal": "WCSMO 2017.",
+      "year": 2017,
+      "category": "International Conference",
+      "highlight": false
+    },
+    {
+      "id": "pub-conf-42",
+      "title": "Automated finite element model generation of a proximal femur using plain radiographs and statistical models",
+      "authors": "J. Nam and I. G. Jang",
+      "journal": "KCR 2017.",
+      "year": 2017,
+      "category": "International Conference",
+      "highlight": false
+    },
+    {
+      "id": "pub-conf-41",
+      "title": "Case study of queue growth equalization for urban traffic signal optimization",
+      "authors": "S. Kim, K. Jang, I. G. Jang",
+      "journal": "ACSMO 2016.",
+      "year": 2016,
+      "category": "International Conference",
+      "highlight": false
+    },
+    {
+      "id": "pub-conf-40",
+      "title": "Dual-mode Operation of the Distributed Actuation Mechanism for a Finger-type Manipulator",
+      "authors": "J. H. Kim, Y. J. Shin, I. G. Jang",
+      "journal": "ACSMO 2016.",
+      "year": 2016,
+      "category": "International Conference",
+      "highlight": false
+    },
+    {
+      "id": "pub-conf-39",
+      "title": "3-D Localized resolution enhancement of skeletal image for volume of interest based on topology optimization",
+      "authors": "J. J. Kim and I. G. Jang",
+      "journal": "ACSMO 2016.",
+      "year": 2016,
+      "category": "International Conference",
+      "highlight": false
+    },
+    {
+      "id": "pub-conf-38",
+      "title": "Determination of optimal coils for wireless power transfer systems using smooth boundary representation",
+      "authors": "S. B. Lee, C. Lee and I. G. Jang",
+      "journal": "ACSMO 2016.",
+      "year": 2016,
+      "category": "International Conference",
+      "highlight": false
+    },
+    {
+      "id": "pub-conf-37",
+      "title": "Case study of queue growth equalization for urban traffic signal optimization",
+      "authors": "S. Kim, J. Byun, K. Jang, I. G. Jang",
+      "journal": "WCSMO-11, Sydney, Australia, 2015.",
+      "year": 2015,
+      "category": "International Conference",
+      "highlight": false
+    },
+    {
+      "id": "pub-conf-36",
+      "title": "Dual-mode operation of the finger-type manipulator based on distributed actuation mechanism",
+      "authors": "J. H. Kim, Y. J. Shin, S. H. Kim, I. G. Jang",
+      "journal": "WCSMO-11, Sydney, Australia, 2015.",
+      "year": 2015,
+      "category": "International Conference",
+      "highlight": false
+    },
+    {
+      "id": "pub-conf-35",
+      "title": "Layout optimization of the secondary coils for wireless power transfer systems",
+      "authors": "S. B. Lee and I. G. Jang",
+      "journal": "WCSMO-11, Sydney, Australia, 2015.",
+      "year": 2015,
+      "category": "International Conference",
+      "highlight": false
+    },
+    {
+      "id": "pub-conf-34",
+      "title": "Layout optimization of the secondary coils for wireless power transfer systems",
+      "authors": "S. B. Lee and I. G. Jang",
+      "journal": "IEEE WPTC, Colorado, USA, 2015.",
+      "year": 2015,
+      "category": "International Conference",
+      "highlight": false
+    },
+    {
+      "id": "pub-conf-33",
+      "title": "Resolution enhancement of skeletal QCT images for the volumes of interest",
+      "authors": "J. J. Kim, Y. H. Lee, I. G. Jang",
+      "journal": "RSNA, Chicago, USA, 2015.",
+      "year": 2015,
+      "category": "International Conference",
+      "highlight": false
+    },
+    {
+      "id": "pub-conf-32",
+      "title": "Localized resolution enhancement of QCT images for investigating trabecular architecture in proximal femur",
+      "authors": "J. J. Kim, Y. H. Lee, I. G. Jang",
+      "journal": "KCR, Seoul, Korea, 2015.",
+      "year": 2015,
+      "category": "International Conference",
+      "highlight": false
+    },
+    {
+      "id": "pub-conf-31",
+      "title": "Localized resolution enhancement of skeletal images based on topology optimization",
+      "authors": "J. J. Kim and I. G. Jang",
+      "journal": "WCSMO-11, Sydney, Australia, 2015.",
+      "year": 2015,
+      "category": "International Conference",
+      "highlight": false
+    },
+    {
+      "id": "pub-conf-30",
+      "title": "Application of distributed actuation mechanism to a hydraulic excavator",
+      "authors": "J. H. Kim, Y. J. Shin, K. S. Kim, I. G. Jang",
+      "journal": "IEEE SysCon, Vancouver, Canada, 2015.",
+      "year": 2015,
+      "category": "International Conference",
+      "highlight": false
+    },
+    {
+      "id": "pub-conf-29",
+      "title": "Development of a New Hydraulic Excavator based on Distributed Actuation Mechanism",
+      "authors": "J. H. Kim, Y. J. Shin, K. S. Kim, I. G. Jang",
+      "journal": "CJK-OSM8, Gyeongju, Korea, 2014.",
+      "year": 2014,
+      "category": "International Conference",
+      "highlight": false
+    },
+    {
+      "id": "pub-conf-28",
+      "title": "Development of the optimization framework for wireless power transfer system",
+      "authors": "S. B. Lee, S. Ahn, I. G. Jang",
+      "journal": "CJK-OSM8, Gyeongju, Korea, 2014.",
+      "year": 2014,
+      "category": "International Conference",
+      "highlight": false
+    },
+    {
+      "id": "pub-conf-27",
+      "title": "Development of the optimization framework for wireless power transfer systems",
+      "authors": "S. B. Lee, S. Ahn, I. G. Jang",
+      "journal": "IEEE WPTC, Jeju Island, Korea, 2014.",
+      "year": 2014,
+      "category": "International Conference",
+      "highlight": false
+    },
+    {
+      "id": "pub-conf-26",
+      "title": "Optimization of the wireless power transfer system in an electric railway",
+      "authors": "S. B. Lee, S. Ahn, I. G. Jang",
+      "journal": "IEEE WPTC, Jeju Island, Korea, 2014.",
+      "year": 2014,
+      "category": "International Conference",
+      "highlight": false
+    },
+    {
+      "id": "pub-conf-25",
+      "title": "Quantitative computed tomography image resolution enhancement based on topology optimization",
+      "authors": "J. J. Kim and I. G. Jang",
+      "journal": "IBEC, Gwangju, Korea, 2014.",
+      "year": 2014,
+      "category": "International Conference",
+      "highlight": false
+    },
+    {
+      "id": "pub-conf-24",
+      "title": "Fully automated segmentation of the proximal femur based on the complementary properties of thresholding and watershed algorithm",
+      "authors": "J. J. Kim and I. G. Jang",
+      "journal": "IBEC, Gwangju, Korea, 2014.",
+      "year": 2014,
+      "category": "International Conference",
+      "highlight": false
+    },
+    {
+      "id": "pub-conf-23",
+      "title": "QCT image enhancement for investigating trabecular architecture in proximal femur",
+      "authors": "J. J. Kim, Y. H. Lee, I. G. Jang",
+      "journal": "KCR, Seoul, Korea, 2014.",
+      "year": 2014,
+      "category": "International Conference",
+      "highlight": false
+    },
+    {
+      "id": "pub-conf-22",
+      "title": "Computational study of cortical and trabecular bone in human proximal femur during aging",
+      "authors": "J. J. Kim, Y. K. Kim, I. G. Jang",
+      "journal": "KCR, Seoul, Korea, 2014.",
+      "year": 2014,
+      "category": "International Conference",
+      "highlight": false
+    },
+    {
+      "id": "pub-conf-21",
+      "title": "Development of an optimization algorithm of the wireless power transfer",
+      "authors": "S. B. Lee, S. Ahn, I. G. Jang",
+      "journal": "APRSC, Taipei, Taiwan, 2013.",
+      "year": 2013,
+      "category": "International Conference",
+      "highlight": false
+    },
+    {
+      "id": "pub-conf-20",
+      "title": "Development of an optimization algorithm of the wireless power transfer",
+      "authors": "S. B. Lee, S. Ahn, I. G. Jang",
+      "journal": "CODE, Jeju Island, 2012.",
+      "year": 2012,
+      "category": "International Conference",
+      "highlight": false
+    },
+    {
+      "id": "pub-conf-19",
+      "title": "Structure optimization of 1-D laser sensors assembly for robust 6-DOF measurement",
+      "authors": "Y. Kim, Y. K. Kim, K. Kim, S. Kim, B. M. Kwak, Y. S. Jung, I. G. Jang, E. H. Kim",
+      "journal": "IEEE SysCon, Vancouver, Canada, 2012.",
+      "year": 2012,
+      "category": "International Conference",
+      "highlight": false
+    },
+    {
+      "id": "pub-conf-18",
+      "title": "Advanced sensing system of crane spreader motion (for Mobile Harbor)",
+      "authors": "Y. Jung, I. G. Jang, B. M. Kwak, Y. K. Kim, Y. Kim, S. Kim, K. S. Kim, E. H. Kim",
+      "journal": "IEEE SysCon, Vancouver, Canada, 2012.",
+      "year": 2012,
+      "category": "International Conference",
+      "highlight": false
+    },
+    {
+      "id": "pub-conf-17",
+      "title": "Developing a robust sensing system for remote relative 6-DOF motion using 1-D laser sensors",
+      "authors": "Y. K. Kim, Y. Kim, K. Kim, S. Kim, Y. S. Jung, I. G. Jang, E. H. Kim",
+      "journal": "IEEE SysCon, Vancouver, Canada, 2012.",
+      "year": 2012,
+      "category": "International Conference",
+      "highlight": false
+    },
+    {
+      "id": "pub-conf-16",
+      "title": "Conceptual design of Mobile Harbor based on topology optimization",
+      "authors": "I. G. Jang, B. M. Kwak",
+      "journal": "CJK OSM, Kyoto, Japan, 2012.",
+      "year": 2012,
+      "category": "International Conference",
+      "highlight": false
+    },
+    {
+      "id": "pub-conf-15",
+      "title": "Optimal layout of an offshore crane using topology optimization",
+      "authors": "I. G. Jang, B. M. Kwak",
+      "journal": "ASME, Houston, USA, 2012.",
+      "year": 2012,
+      "category": "International Conference",
+      "highlight": false
+    },
+    {
+      "id": "pub-conf-14",
+      "title": "Orientation control of a cranes spreader: Application on mobile harbor",
+      "authors": "Q. H. Ngo, Y. Yu, E. H. Kim, I. G. Jang, K. S. Hong",
+      "journal": "ICCAS, Gyeonggi-do, Korea, 2011.",
+      "year": 2011,
+      "category": "International Conference",
+      "highlight": false
+    },
+    {
+      "id": "pub-conf-13",
+      "title": "Robust measurement of spreader motion for mobile harbor",
+      "authors": "Y. Jung, Y. K. Kim, Y. H. Kim, Y. G. Yu, E. H. Kim, I. G. Jang, S. H. Kim, B. M. Kwak, K. S. Kim",
+      "journal": "SDPS, Jeju Island, Korea, 2011.",
+      "year": 2011,
+      "category": "International Conference",
+      "highlight": false
+    },
+    {
+      "id": "pub-conf-12",
+      "title": "Design a novel mechanism and control for the Mobile Harbor",
+      "authors": "E. H. Kim, Y. S. Jung, Y. G. Yu, S. W. Kwon, H. J. Ju, I. G. Jang, S. H. Kim, B. M. Kwak, K. S. Kim",
+      "journal": "SDPS, Jeju Island, Korea, 2011.",
+      "year": 2011,
+      "category": "International Conference",
+      "highlight": false
+    },
+    {
+      "id": "pub-conf-11",
+      "title": "Design an intelligent spreader for Mobile Harbor based on virtual force algorithm",
+      "authors": "E. H. Kim, I. G. Jang, K. W. Kwak, Y. K. Kim, S. H. Kim, B. M. Kwak, K. S. Kim",
+      "journal": "SDPS, Jeju Island, Korea, 2011.",
+      "year": 2011,
+      "category": "International Conference",
+      "highlight": false
+    },
+    {
+      "id": "pub-conf-10",
+      "title": "Development of an auto-positioning spreader for Mobile Harbor",
+      "authors": "E. H. Kim, K. W. Kwak, Y. K. Kim, I. G. Jang, Y. S. Park, B. M. Kwak",
+      "journal": "MOVIC, Tokyo, Japan, 2010.",
+      "year": 2010,
+      "category": "International Conference",
+      "highlight": false
+    },
+    {
+      "id": "pub-conf-9",
+      "title": "Size optimization of the crane for the mobile harbor",
+      "authors": "U. J. Jung, S. B. Jeong, I. G. Jang, G. J. Park",
+      "journal": "CJK OSM, Kyoto, Japan, 2010.",
+      "year": 2010,
+      "category": "International Conference",
+      "highlight": false
+    },
+    {
+      "id": "pub-conf-8",
+      "title": "Pattern design of non-pneumatic tire for stiffness using topology optimization",
+      "authors": "B. M. Kwak, E. J. Yoo, Y. H. Sung, I. G. Jang",
+      "journal": "ASME IDETC CIE, Quebec, Canada, 2009.",
+      "year": 2009,
+      "category": "International Conference",
+      "highlight": false
+    },
+    {
+      "id": "pub-conf-7",
+      "title": "Topology optimization for the study of disc degeneration on the trabecular architecture in human lumbar spine",
+      "authors": "I. G. Jang, I. Y. Kim",
+      "journal": "WCSMO, Lisboa, Portugal, 2009.",
+      "year": 2009,
+      "category": "International Conference",
+      "highlight": false
+    },
+    {
+      "id": "pub-conf-6",
+      "title": "Comparison of strain energy density based bone remodeling simulation and structural topology optimization",
+      "authors": "I. G. Jang, I. Y. Kim, B. M. Kwak",
+      "journal": "CANCAM, Toronto, Canada, 2007.",
+      "year": 2007,
+      "category": "International Conference",
+      "highlight": false
+    },
+    {
+      "id": "pub-conf-5",
+      "title": "Structural topology design using design space optimization",
+      "authors": "I. G. Jang, I. Y. Kim, B. M. Kwak",
+      "journal": "CANCAM, Toronto, Canada, 2007.",
+      "year": 2007,
+      "category": "International Conference",
+      "highlight": false
+    },
+    {
+      "id": "pub-conf-4",
+      "title": "Evolutionary topology optimization for large-scale problems using design space adjustment and refinement",
+      "authors": "I. G. Jang, B. M. Kwak",
+      "journal": "WCSMO, Rio de Janeiro, Brasil, 2005.",
+      "year": 2005,
+      "category": "International Conference",
+      "highlight": false
+    },
+    {
+      "id": "pub-conf-3",
+      "title": "Bone growth simulation using evolutionary topology optimization",
+      "authors": "I. G. Jang, J. E. An, B. M. Kwak",
+      "journal": "ICMOBT, Hawai, USA, 2005.",
+      "year": 2005,
+      "category": "International Conference",
+      "highlight": false
+    },
+    {
+      "id": "pub-conf-2",
+      "title": "Evolutionary topology optimization using design space optimization and its application",
+      "authors": "I. G. Jang, B. M. Kwak",
+      "journal": "ICCES, Chennai, India, 2005.",
+      "year": 2005,
+      "category": "International Conference",
+      "highlight": false
+    },
+    {
+      "id": "pub-conf-1",
+      "title": "Design space optimization for topology based on fixed grid",
+      "authors": "I. G. Jang, B. M. Kwak",
+      "journal": "AIAA/ISSMO MAO, Newyork, USA, 2004.",
+      "year": 2004,
+      "category": "International Conference",
+      "highlight": false
+    },
+    {
+      "id": "pub-domestic-8",
+      "title": "전기차 경로 문제를 대상으로 한 루프 방식 경로 표현법의 실도로 네트워크 적용",
+      "authors": "김정훈, 심지섭, 장인권, 김근우",
+      "journal": "대한기계학회논문집 A, 48(11), pp. 749-756 2024.",
+      "year": 2024,
+      "category": "Domestic Journal",
+      "highlight": false
+    },
+    {
+      "id": "pub-domestic-7",
+      "title": "최적화에 기반한 분산 구동 메커니즘의 생체 모방 가변 기어링",
+      "authors": "김종호, 장인권",
+      "journal": "대한기계학회 논문집 A, 46(8), pp. 695-701, 2022.",
+      "year": 2022,
+      "category": "Domestic Journal",
+      "highlight": false
+    },
+    {
+      "id": "pub-domestic-6",
+      "title": "위상최적설계를 이용한 스터브액슬의 경량화 설계",
+      "authors": "김진수, 노홍승, 민연주, 허성호, 장인권",
+      "journal": "한국정밀공학회지, 35(7), pp. 695-700, 2018.",
+      "year": 2018,
+      "category": "Domestic Journal",
+      "highlight": false
+    },
+    {
+      "id": "pub-domestic-5",
+      "title": "위상최적설계를 이용한 벌크 트레일러의 경량화 설계",
+      "authors": "김진수, 노홍승, 민연주, 허성호, 신승진, 장인권",
+      "journal": "자동차공학회 논문집, 25(5), pp. 548-554, 2017.",
+      "year": 2017,
+      "category": "Domestic Journal",
+      "highlight": false
+    },
+    {
+      "id": "pub-domestic-4",
+      "title": "풍동실험에 의한 갠트리 크레인의 풍력계수 산출과 구조 해석",
+      "authors": "이재환, 김태완, 장인권, 한순흥",
+      "journal": "대한조선학회 논문집, 48(2), pp. 165-170, 2011.",
+      "year": 2011,
+      "category": "Domestic Journal",
+      "highlight": false
+    },
+    {
+      "id": "pub-domestic-3",
+      "title": "크리깅을 이용한 제로 모멘트 크레인에 적용되는 조인트의 설계",
+      "authors": "김재욱, 장인권, 곽병만",
+      "journal": "대한기계학회 논문집 A, 34(5), pp. 597-604, 2010.",
+      "year": 2010,
+      "category": "Domestic Journal",
+      "highlight": false
+    },
+    {
+      "id": "pub-domestic-2",
+      "title": "설계공간 최적화를 이용한 뼈 성장 모사",
+      "authors": "장인권, 곽병만",
+      "journal": "대한기계학회논문집 A, 30(6), pp. 722-727, 2006.",
+      "year": 2006,
+      "category": "Domestic Journal",
+      "highlight": false
+    },
+    {
+      "id": "pub-domestic-1",
+      "title": "설계공간 조정과 세분화를 이용한 너클의 위상 최적설계",
+      "authors": "장인권, 유용균, 곽병만",
+      "journal": "대한기계학회논문집 A, 30(5), pp. 595-601, 2006.",
+      "year": 2006,
+      "category": "Domestic Journal",
+      "highlight": false
+    }
+  ]
+}

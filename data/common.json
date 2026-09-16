@@ -1,0 +1,96 @@
+{
+  "labLogo": "contents/generated/bc7d81db20f98a127b60d36b.png",
+  "labLogoScale": 80,
+  "pageScale": 100,
+  "footerData": {
+    "logo": "contents/generated/4f5e504391b0e75ec9473ccb.png",
+    "logoScale": 80,
+    "addr1": "Cho Chun Shik Graduate School of Mobility",
+    "addr2": "Korea Advanced Institute of Science and Technology (KAIST)",
+    "addr3": "F317, 193, Munji-ro, Yuseong-gu, Daejeon, Republic of Korea",
+    "copyright": "© 2026 KAIST Innovative Design for Mobility Systems Laboratory. All rights reserved. Made by Sunyeol Gwon."
+  },
+  "popupEnabled": true,
+  "recruitment": {
+    "title": "신입생 및 인턴 모집",
+    "subTitle": "ID LAB students recruitment announcement",
+    "announcementTitle": "모집 공고",
+    "announcementBody": "KAIST Innovative Design for Mobility Systems Laboratory 에서는 함께 연구를 수행할 석사과정 및 박사과정 신입생 및 인턴을 모집합니다. 본 연구실에서는 전산해석과 최적설계 기반의 방법론으로 다양한 공학 시스템의 최적화 연구를 수행하고 있습니다. 최적화에 흥미가 있는 분이라면 모두 지원 가능합니다.",
+    "targetTitle": "모집 대상",
+    "targetItems": [
+      "2026년도 가을학기 및 2027년도 봄학기 지원 예정자",
+      "이공계열 학사 및 석사 졸업 예정(혹은 졸업자)",
+      "기계, 교통, 전기전자, 컴퓨터, 토목 등의 공학 전공자로 융합연구 희망 학생",
+      "박사(0명), 석사(0명), 인턴(0명) 모집 중"
+    ],
+    "othersTitle": "기타 사항",
+    "othersBody": "자세한 사항은 아래 연락처로 문의하시기 바랍니다.",
+    "contactProfessorName": "장인권 지도교수",
+    "contactProfessorEmail": "igjang@kaist.edu",
+    "contactStudentName": "김창영 박사과정",
+    "contactStudentEmail": "kimcy0789@kaist.ac.kr",
+    "sections": [
+      {
+        "id": "recruit-announcement",
+        "title": "모집 공고",
+        "bodyHtml": "<p>KAIST Innovative Design for Mobility Systems Laboratory 에서는 함께 연구를 수행할 석사과정 및 박사과정 신입생 및 인턴을 모집합니다. 본 연구실에서는 전산해석과 최적설계 기반의 방법론으로 <b>다양한 공학 시스템의 최적화 연구</b>를 수행하고 있습니다. 최적화에 흥미가 있는 분이라면 모두 지원 가능합니다.</p>"
+      },
+      {
+        "id": "recruit-target",
+        "title": "모집 대상",
+        "bodyHtml": "<ul><li><b>2027년도 봄학기 지원자</b> 및 <b>가을학기 지원 예정자</b></li><li>이공계열 학사 및 석사 졸업 예정(혹은 졸업자)</li><li>기계, 교통, 전기전자, 컴퓨터, 토목 등의 공학 전공자로 융합연구 희망 학생</li><li>박사(0명), 석사(0명), 인턴(0명) 모집 중</li></ul>"
+      },
+      {
+        "id": "recruit-other",
+        "title": "기타 사항",
+        "bodyHtml": "자세한 사항은 아래 연락처로 문의하시기 바랍니다.<ul><li><span style=\"color: #9ca3af;\">✉</span> 장인권 지도교수 igjang@kaist.edu</li><li><span style=\"color: #9ca3af;\">✉</span> 김창영 박사과정 kimcy0789@kaist.ac.kr</li></ul>"
+      }
+    ]
+  },
+  "subtitles": {
+    "research": "Overview of ID LAB research areas and projects",
+    "projects": "ID LAB Structural Design and Analysis Projects",
+    "members": "KAIST Innovative Mobility Systems Laboratory Members",
+    "lectures": "KAIST Cho Chun Shik Mobility Lecture Curriculum",
+    "publications": "Announcement of ID LAB publications",
+    "board": "Announcement of ID LAB activities"
+  },
+  "hasPostDoc": false,
+  "notices": [
+    {
+      "id": "post-1788237898976",
+      "date": "2026.09.01",
+      "title": "2026년 이공분야 학술연구지원사업(박사과정생연구장려금지원) 선정, 김정훈",
+      "content": "",
+      "category": "Notice"
+    },
+    {
+      "id": "notice-76",
+      "date": "2026.05.11",
+      "title": "2026년 대한기계학회, 우수학위논문상, 김창영",
+      "content": "",
+      "category": "Notice"
+    },
+    {
+      "id": "notice-75",
+      "date": "2026.04.22",
+      "title": "생성 AI 선도인재양성 사업 과제 선정",
+      "content": "",
+      "category": "Notice"
+    },
+    {
+      "id": "notice-74",
+      "date": "2026.03.23",
+      "title": "한국연구재단(NRF) 핵심연구과제 선정",
+      "content": "",
+      "category": "Notice"
+    },
+    {
+      "id": "notice-73",
+      "date": "2025.12.11",
+      "title": "2024년 대한기계학회, 우수논문상, 김정훈",
+      "content": "",
+      "category": "Notice"
+    }
+  ]
+}

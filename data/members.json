@@ -1,0 +1,1587 @@
+{
+  "members": [
+    {
+      "id": "faculty-in-gwun-jang",
+      "name": "장인권",
+      "nameEng": "In Gwun Jang",
+      "role": "Faculty",
+      "title": "Professor",
+      "titleEng": "Professor",
+      "email": "igjang@kaist.edu",
+      "phone": "+82-42-350-1262 (Office)",
+      "office": "Cho Chun Shik Graduate School of Mobility\nKorea Advanced Institute of Science and Technology (KAIST)\n193, Munji-ro, Yuseong-gu, Daejeon, Republic of Korea",
+      "group": "",
+      "bio": "",
+      "bioEng": "",
+      "interests": [
+        "Design optimization of mobility systems",
+        "Modeling and simulation of multiphysics problems",
+        "System engineering"
+      ],
+      "avatarColor": "#1D4ED8",
+      "imageUrl": "contents/generated/6f13bf50f4ffaa7ef3baa0cd.jpg",
+      "education": [
+        "Ph.D.: Mechanical Engineering, KAIST (2006)",
+        "(Dissertation title: Evolutionary topology optimization using design space adjustment and refinement)",
+        "M.S.: Mechanical Engineering, KAIST (1999)",
+        "(Dissertation title: Optimal design of a nuclear fuel rd support structure based on contact stress analysis)",
+        "B.S.: Mechanical Engineering, KAIST (1997)"
+      ],
+      "experience": [
+        "Department Head, Cho Chun Shik Graduate School of Mobility, KAIST, Mar. 2021- Feb. 2026",
+        "Director, Center for Eco-friendly & Smart Vehicles, KAIST, Nov. 2017 - Nov. 2018",
+        "Full Professor, Cho Chun Shik Graduate School of Mobility, KAIST, Sep. 2024-Present",
+        "Associate Professor, Cho Chun Shik Graduate School of Mobility, KAIST, Mar. 2016-Aug. 2024",
+        "Assistant Professor, Cho Chun Shik Graduate School of Mobility, KAIST, Jan. 2011-Feb. 2016",
+        "Research Assistant Professor, Ocean Systems Engineering, KAIST, Apr. 2009-Dec. 2010",
+        "Postdoctoral Fellow, Mechanical and Materials Engineering, Queen’s University, Canada, Nov. 2006-Mar. 2009"
+      ],
+      "awards": [
+        "Young Scientist Award (awardee: Dr. Changwoo Lee), Asian Congress of Structural and Multidisciplinary Optimization, 2022",
+        "Grand prize (awardee: Hyukjin Koh), Student Competition Award, Korean Society for Mechanical Engineers, 2022",
+        "Best Paper Award (awardee: Dr. Jong Ho Kim), Korean Society for Mechanical Engineers, 2021",
+        "Best Paper Award (awardee: Mingi Kim), Korean Institute of Electromagnetic Engineering and Science, 2021",
+        "2nd prize, Student Competition Award (awardee: Mingi Kim), IEEE Wireless Power Transfer Conference, 2020",
+        "Best Paper Award (awardee: Mingi Kim), Korean Society for Mechanical Engineers, 2019",
+        "Silver prize, Student Competition Award (awardee: Sangmin Sin), Korean Society for Mechanical Engineers, 2019",
+        "Best Student Paper Award (awardee: Jung Jin Kim), Asian Congress of Structural and Multidisciplinary Optimization, 2018",
+        "Grand prize, Student Competition Award (awardee: Jung Jin Kim), Korean Society for Mechanical Engineers, 2018",
+        "Best Paper Award (awardee: Jinsu Kim), Korean Society for Fluid Machinery, 2017",
+        "Silver prize, Student Competition Award (awardee: Jinsu Kim), Korean Society for Mechanical Engineers, 2016",
+        "Best Paper Award (awardee: Jung Jin Kim), Korean Society for Design Optimization, 2015",
+        "Best Student Paper Award (awardee: Seung Beop Lee), IEEE Wireless Power Transfer Conference, 2014",
+        "Best Paper Award (awardee: Seung Beop Lee), Korean Society for Railway, 2013",
+        "Post-doctoral Travel Awards, Queen’s University, Apr. 2007",
+        "Fellowship (Post-doc.), Korea Research Foundation, Aug. 2006"
+      ],
+      "patents": [],
+      "publicationsList": [],
+      "customSections": [
+        {
+          "heading": "Education",
+          "items": [
+            "Ph.D.: Mechanical Engineering, KAIST (2006)",
+            "(Dissertation title: Evolutionary topology optimization using design space adjustment and refinement)",
+            "M.S.: Mechanical Engineering, KAIST (1999)",
+            "(Dissertation title: Optimal design of a nuclear fuel rd support structure based on contact stress analysis)",
+            "B.S.: Mechanical Engineering, KAIST (1997)"
+          ]
+        },
+        {
+          "heading": "Professional Experience",
+          "items": [
+            "Department Head, Cho Chun Shik Graduate School of Mobility, KAIST, Mar. 2021- Feb. 2026",
+            "Director, Center for Eco-friendly & Smart Vehicles, KAIST, Nov. 2017 - Nov. 2018",
+            "Full Professor, Cho Chun Shik Graduate School of Mobility, KAIST, Sep. 2024-Present",
+            "Associate Professor, Cho Chun Shik Graduate School of Mobility, KAIST, Mar. 2016-Aug. 2024",
+            "Assistant Professor, Cho Chun Shik Graduate School of Mobility, KAIST, Jan. 2011-Feb. 2016",
+            "Research Assistant Professor, Ocean Systems Engineering, KAIST, Apr. 2009-Dec. 2010",
+            "Postdoctoral Fellow, Mechanical and Materials Engineering, Queen’s University, Canada, Nov. 2006-Mar. 2009"
+          ]
+        },
+        {
+          "heading": "Fellowships & Awards",
+          "items": [
+            "Young Scientist Award (awardee: Dr. Changwoo Lee), Asian Congress of Structural and Multidisciplinary Optimization, 2022",
+            "Grand prize (awardee: Hyukjin Koh), Student Competition Award, Korean Society for Mechanical Engineers, 2022",
+            "Best Paper Award (awardee: Dr. Jong Ho Kim), Korean Society for Mechanical Engineers, 2021",
+            "Best Paper Award (awardee: Mingi Kim), Korean Institute of Electromagnetic Engineering and Science, 2021",
+            "2nd prize, Student Competition Award (awardee: Mingi Kim), IEEE Wireless Power Transfer Conference, 2020",
+            "Best Paper Award (awardee: Mingi Kim), Korean Society for Mechanical Engineers, 2019",
+            "Silver prize, Student Competition Award (awardee: Sangmin Sin), Korean Society for Mechanical Engineers, 2019",
+            "Best Student Paper Award (awardee: Jung Jin Kim), Asian Congress of Structural and Multidisciplinary Optimization, 2018",
+            "Grand prize, Student Competition Award (awardee: Jung Jin Kim), Korean Society for Mechanical Engineers, 2018",
+            "Best Paper Award (awardee: Jinsu Kim), Korean Society for Fluid Machinery, 2017",
+            "Silver prize, Student Competition Award (awardee: Jinsu Kim), Korean Society for Mechanical Engineers, 2016",
+            "Best Paper Award (awardee: Jung Jin Kim), Korean Society for Design Optimization, 2015",
+            "Best Student Paper Award (awardee: Seung Beop Lee), IEEE Wireless Power Transfer Conference, 2014",
+            "Best Paper Award (awardee: Seung Beop Lee), Korean Society for Railway, 2013",
+            "Post-doctoral Travel Awards, Queen’s University, Apr. 2007",
+            "Fellowship (Post-doc.), Korea Research Foundation, Aug. 2006"
+          ]
+        },
+        {
+          "heading": "Research Interests",
+          "items": [
+            "Design optimization of mobility systems",
+            "Modeling and simulation of multiphysics problems",
+            "System engineering"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "student-minseok-kang",
+      "name": "강민석",
+      "nameEng": "Minseok Kang",
+      "role": "Student",
+      "degreeType": "PhD",
+      "title": "Ph.D. Candidate",
+      "titleEng": "Ph.D. Candidate",
+      "email": "seok1598@kaist.ac.kr",
+      "phone": "+82-42-350-1282 (Office)",
+      "office": "",
+      "group": "ESO (WPT)",
+      "bio": "",
+      "bioEng": "",
+      "interests": [],
+      "avatarColor": "#1E40AF",
+      "imageUrl": "contents/generated/d620eb0377a03de35e313678.jpg",
+      "education": [
+        "M.S.: KAIST, Graduate School of Green Transportation",
+        "B.S.: Korea University of Education and Technology, Mechatronics engineering"
+      ],
+      "experience": [],
+      "awards": [
+        "이공분야 학술연구지원사업(박사과정생연구장려금지원), 2025.09 ~ 2027.08.",
+        "이현수, 우성호, 허성렬, 이상욱, 이재원, 이창민, 강민석, 안승영, IEEE EMC-S Daejeon-Seoul Joint Chapter Chair Award 수상, 2026."
+      ],
+      "patents": [
+        "I. G. Jang, M. Kim, and M. Kang, \"Real-time approximation method and apparatus of mutual inductance between transmitters and receivers for determining optimal operating condition in multiple-receiver wireless power transfer systems,\" KR Patent, Patent Number: 10-2694022, 2024.",
+        "I. G. Jang, M. Kim, and M. Kang, \"Real-time approximation method and apparatus of mutual inductance between transmitters and receivers for determining optimal operating condition in multiple-receiver wireless power transfer systems,\" US Patent, Patent Number: 12,301,015 B2, 2025.",
+        "I. G. Jang, M. Kang, and S. Gwon, \"Two-stage method for sequential estimation of all mutual inductance between coils in multi-receiver wireless power transfer systems and device for operating the same ,\" KR Patent, Application Number: 10-2025-0132299, 2025.",
+        "S. Ahn, H. Lee, S. Woo, S. Huh, S. Lee, J. Rhee, C. Lee, M. Kang, K. Choi, and Y. Jun, \"Method, program and system for reducing electromagnetic interference of a wireless power transfer system,\" KR Patent, Application Number: 10-2025-0128151, 2025."
+      ],
+      "publicationsList": [
+        "M. Kim*, M. Kang* (co-first author), C. Chu, Y. Lee, S. Gwon, and I. G. Jang, \"Fault Detection of Coil Misalignment in Multi-receiver Wireless Power Transfer Systems with the Estimated Mutual Inductance\", IEEE Transactions on Industrial Electronics, 2026, Early access DOI, 10.1109/TIE.2026.3675172. (JCR 2024 IF=7.2, Top 4.4%)",
+        "S. Woo, S. Huh, S. Lee, J. Rhee, C. Lee, M. Kang, S. Ahn, \"An Efficient EMI Reduction Method through Harmonic Magnetic Field Balancing in Electric Vehicle Wireless Power Transfer System\", IEEE transactions on Electromagnetic Compatibility, vol. 68, no. 1, pp. 246-258, Feb. 2026. (JCR 2024 IF=2.5)",
+        "M. Kang, M. Kim, and I. G. Jang, \"Determination of the Optimal Load Condition for Multi-receiver Wireless Power Transfer Systems\", Asian Congress of Structural and Multidisciplinary Optimization (ACSMO), 2022.",
+        "M. Kim, M. Kang, and I. G. Jang, \"Estimation of the Mutual Inductance in Multi-receiver Wireless Power Transfer Systems\", Wireless Power Technology Conference and Expo (WPTCE), 2023.",
+        "M. Kang, M. Kim, and I. G. Jang, \"Study on Estimating the Full Mutual Inductance Information in Multi-Receiver Wireless Power Transfer Systems\", Wireless Power Technology Conference and Expo (WPTCE), 2024.",
+        "M. Kang, S. Gwon, and I. G. Jang, \"Stable and practical operation for multi-receiver wireless power transfer systems by estimating mutual inductance estimation\", Wireless Power Technology Conference and Expo (WPTCE, Student design competition) , 2025.",
+        "M. Kang, S. Gwon, and I. G. Jang, \"Determination of the Optimal Load Condition for Multi-receiver Wireless Power Transfer Systems\", World Congress of Structural and Multidisciplinary Optimization (WCSMO), 2025.",
+        "강민석, 김민기, 장인권, \"다중수신 무선전력전송 시스템의 전송효율 및 정격용량을 고려한 수신기의 DC/DC 컨버터의 최적 듀티비 결정\", 한국전자파학회, 2021.",
+        "강민석, 김민기, 장인권, \"다중수신 무선전력전송 시스템을 위한 최적 부하 조건 결정\", 대한기계학회 학술대회, 2022.",
+        "강민석, 김민기, 조원영, 장인권, \"무선 충전을 위한 상호 인덕턴스 추정\", 한국ITS학회 2023년 추계학술대회, 2023"
+      ],
+      "customSections": [
+        {
+          "heading": "Education",
+          "items": [
+            "M.S.: KAIST, Graduate School of Green Transportation",
+            "B.S.: Korea University of Education and Technology, Mechatronics engineering"
+          ]
+        },
+        {
+          "heading": "International Journal",
+          "items": [
+            "M. Kim*, M. Kang* (co-first author), C. Chu, Y. Lee, S. Gwon, and I. G. Jang, \"Fault Detection of Coil Misalignment in Multi-receiver Wireless Power Transfer Systems with the Estimated Mutual Inductance\", IEEE Transactions on Industrial Electronics, 2026, Early access DOI, 10.1109/TIE.2026.3675172. (JCR 2024 IF=7.2, Top 4.4%)",
+            "S. Woo, S. Huh, S. Lee, J. Rhee, C. Lee, M. Kang, S. Ahn, \"An Efficient EMI Reduction Method through Harmonic Magnetic Field Balancing in Electric Vehicle Wireless Power Transfer System\", IEEE transactions on Electromagnetic Compatibility, vol. 68, no. 1, pp. 246-258, Feb. 2026. (JCR 2024 IF=2.5)"
+          ]
+        },
+        {
+          "heading": "International Conference",
+          "items": [
+            "M. Kang, M. Kim, and I. G. Jang, \"Determination of the Optimal Load Condition for Multi-receiver Wireless Power Transfer Systems\", Asian Congress of Structural and Multidisciplinary Optimization (ACSMO), 2022.",
+            "M. Kim, M. Kang, and I. G. Jang, \"Estimation of the Mutual Inductance in Multi-receiver Wireless Power Transfer Systems\", Wireless Power Technology Conference and Expo (WPTCE), 2023.",
+            "M. Kang, M. Kim, and I. G. Jang, \"Study on Estimating the Full Mutual Inductance Information in Multi-Receiver Wireless Power Transfer Systems\", Wireless Power Technology Conference and Expo (WPTCE), 2024.",
+            "M. Kang, S. Gwon, and I. G. Jang, \"Stable and practical operation for multi-receiver wireless power transfer systems by estimating mutual inductance estimation\", Wireless Power Technology Conference and Expo (WPTCE, Student design competition) , 2025.",
+            "M. Kang, S. Gwon, and I. G. Jang, \"Determination of the Optimal Load Condition for Multi-receiver Wireless Power Transfer Systems\", World Congress of Structural and Multidisciplinary Optimization (WCSMO), 2025."
+          ]
+        },
+        {
+          "heading": "Domestic Conference",
+          "items": [
+            "강민석, 김민기, 장인권, \"다중수신 무선전력전송 시스템의 전송효율 및 정격용량을 고려한 수신기의 DC/DC 컨버터의 최적 듀티비 결정\", 한국전자파학회, 2021.",
+            "강민석, 김민기, 장인권, \"다중수신 무선전력전송 시스템을 위한 최적 부하 조건 결정\", 대한기계학회 학술대회, 2022.",
+            "강민석, 김민기, 조원영, 장인권, \"무선 충전을 위한 상호 인덕턴스 추정\", 한국ITS학회 2023년 추계학술대회, 2023"
+          ]
+        },
+        {
+          "heading": "Patent",
+          "items": [
+            "I. G. Jang, M. Kim, and M. Kang, \"Real-time approximation method and apparatus of mutual inductance between transmitters and receivers for determining optimal operating condition in multiple-receiver wireless power transfer systems,\" KR Patent, Patent Number: 10-2694022, 2024.",
+            "I. G. Jang, M. Kim, and M. Kang, \"Real-time approximation method and apparatus of mutual inductance between transmitters and receivers for determining optimal operating condition in multiple-receiver wireless power transfer systems,\" US Patent, Patent Number: 12,301,015 B2, 2025.",
+            "I. G. Jang, M. Kang, and S. Gwon, \"Two-stage method for sequential estimation of all mutual inductance between coils in multi-receiver wireless power transfer systems and device for operating the same ,\" KR Patent, Application Number: 10-2025-0132299, 2025.",
+            "S. Ahn, H. Lee, S. Woo, S. Huh, S. Lee, J. Rhee, C. Lee, M. Kang, K. Choi, and Y. Jun, \"Method, program and system for reducing electromagnetic interference of a wireless power transfer system,\" KR Patent, Application Number: 10-2025-0128151, 2025."
+          ]
+        },
+        {
+          "heading": "Award & Fellowship",
+          "items": [
+            "이공분야 학술연구지원사업(박사과정생연구장려금지원), 2025.09 ~ 2027.08.",
+            "이현수, 우성호, 허성렬, 이상욱, 이재원, 이창민, 강민석, 안승영, IEEE EMC-S Daejeon-Seoul Joint Chapter Chair Award 수상, 2026."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "student-hyukjin-koh",
+      "name": "고혁진",
+      "nameEng": "Hyukjin Koh",
+      "role": "Student",
+      "degreeType": "PhD",
+      "title": "Ph.D. Candidate",
+      "titleEng": "Ph.D. Candidate",
+      "email": "hyukjin.koh@kaist.ac.kr",
+      "phone": "+82-42-350-1282 (Office)",
+      "office": "",
+      "group": "BSO",
+      "bio": "",
+      "bioEng": "",
+      "interests": [],
+      "avatarColor": "#1E40AF",
+      "imageUrl": "contents/generated/c7b2d4709d55167c9138f401.jpg",
+      "education": [
+        "M.S.: KAIST, Graduate School of Mobility",
+        "B.S.: GIST, Mechanical Engineering"
+      ],
+      "experience": [
+        "[1] Teaching Assistant, 해석에서 설계 최적화 및 PINN/LLM 활용까지, KAIST 산학협동 공개강좌, 2026.",
+        "[2] Teaching Assistant, AI 기반 설계: 해석에서 설계 최적화까지, KAIST 산학협동 공개강좌, 2025.",
+        "[3] Teaching Assistant, 인공지능을 활용한 최적 설계: 이론 및 실습, 한국최적설계학회 2024학년도 하계 강습회, 2024.",
+        "[4] Teaching Assistant, 인공지능과 설계: 해석 예측에서 설계 최적화까지, KAIST 산학협동 공개강좌, 2024.",
+        "[5] Teaching Assistant, MO505, KAIST, 2022~2025."
+      ],
+      "awards": [
+        "[1] 고혁진, 차세대 공학연구자 우수상, 한국이공학진흥원, 2025.",
+        "[2] 고혁진, 우수조교상, KAIST, 2024.",
+        "[3] 천봉주, 고혁진, 장인권, 대한기계학회 2022년도 학술대회 우수논문상, 대한기계학회, 2023.",
+        "[4] 고혁진, 장인권, 대한기계학회 CAE 및 응용역학부문 2022년 춘계학술대회 우수논문상, 대한기계학회, 2023.",
+        "[5] 고혁진 (지도교수: 장인권), 대한기계학회 CAE 및 응용역학부문 2022년 춘계학술대회 학생경진대회 대상, 대한기계학회, 2022."
+      ],
+      "patents": [
+        "[1] I. G. Jang, B. J. Chun, H. Koh, \"Method and device for deep learning-based patchwise reconstruction from clinical CT Scan data\", EP Patent, Application number: 23152812.6, 2023.",
+        "[2] I. G. Jang, B. J. Chun, H. Koh, \"Method and device for deep learning-based patchwise reconstruction from clinical CT Scan data\", US Patent, Patent number: 12573117, 2026.",
+        "[3] I. G. Jang, B. J. Chun, H. Koh, \"Method and device for deep learning-based patchwise reconstruction from clinical CT Scan data\", PCT Patent, Application number: PCT/KR2022/020533, 2022.",
+        "[4] I. G. Jang, B. J. Chun, H. Koh, \"Method and device for deep learning-based patchwise reconstruction from clinical CT Scan data\", KR Patent, Application number: 10-2022-0127616, 2022.",
+        "[5] I. G. Jang, H. Koh, B. J. Chun, \"Computer system for trabecular connectivity recovery of skeletal images reconstructed by artificial neural network through node-link graph-based bone microstructure representation, and method of the same\", EP Patent, Patent number: 04167178.7, 2025.",
+        "[6] I. G. Jang, H. Koh, B. J. Chun, \"Computer system for trabecular connectivity recovery of skeletal images reconstructed by artificial neural network through node-link graph-based bone microstructure representation, and method of the same\", US Patent, Patent number: 12175665, 2024.",
+        "[7] I. G. Jang, H. Koh, B. J. Chun, \"Computer system for trabecular connectivity recovery of skeletal images reconstructed by artificial neural network through node-link graph-based bone microstructure representation, and method of the same\", PCT Patent, Application number: PCT/KR2021/018382, 2021.",
+        "[8] I. G. Jang, H. Koh, B. J. Chun, \"Computer system for trabecular connectivity recovery of skeletal images reconstructed by artificial neural network through node-link graph-based bone microstructure representation, and method of the same\", KR Patent, Patent number: 10-2643198, 2024."
+      ],
+      "publicationsList": [
+        "[1] H. Koh, J. J. Kim, Y. H. Lee, I. G. Jang, \"Validation study of topology optimization-based 3D trabecular bone reconstruction\", Under review.",
+        "[2] H. Koh, B. J. Chun, Y. H. Lee, I. G. Jang, \"Patchwise reconstruction of 3D trabecular bone using topology optimization-driven deep learning\", Under review.",
+        "[3] B. J. Chun, S. M. Sin, H. Koh, J. J. Kim, I. G. Jang, \"Patchwise Trabecular Bone Reconstruction of a 2D Proximal Femur Using Deep Learning and Seamless Quilting Algorithm\", IRBM, vol. 46, no. 3, p. 100889, 2025. (JCR 2023 IF=5.6, Top 17.5%)",
+        "[4] H. Koh, B. J. Chun, I. G. Jang, \"Node-link representation-based deep learning method for reconstructing trabecular bone from low-resolution images\", Expert Systems with Applications, vol. 268, p. 126299, 2025. (JCR 2023 IF=7.5, Top 5.2%)",
+        "[1] H. Koh, B. J. Chun, I. G. Jang, \"Topology optimization-driven deep learning and seamless quilting for patchwise trabecular bone reconstruction\", World Congress of Structural and Multidisciplinary Optimization (WCSMO), 2025.",
+        "[2] B. J. Chun, H. Koh, I. G. Jang, \"Deep learning-based patchwise 3D bone microstructure reconstruction\", World Congress of Structural and Multidisciplinary Optimization (WCSMO), 2023.",
+        "[3] H. Koh, I. G. Jang, \"Bone microstructure reconstruction from low-resolution skeletal images using deep learning with node-link graph-based connectivity\", Asian Congress of Structural and Multidisciplinary Optimization (ACSMO), 2022.",
+        "[1] 고혁진, 김창영, 장인권, \"데이터 기반 SKIP-STOP 도시 철도 급행 서비스 최적화: 서울 지하철 4호선의 사례\", 한국ITS학회 추계학술대회, 2023.",
+        "[2] 천봉주, 고혁진, 장인권, \"딥 러닝을 통한 3차원 골 미세구조의 패치 별 재구성\", 대한기계학회 학술대회, 2022.",
+        "[3] 고혁진, 장인권, \"노드-링크 그래프 기반 연결성을 고려하는 딥러닝을 이용한 골격계 영상의 골 미세구조 재구성\", 대한기계학회 CAE 및 응용역학 부문 춘계학술대회, 2022.",
+        "[4] 고혁진, 장인권, \"심층 신경망으로 재구성된 골 미세구조의 구조적 절단 문제를 개선하기 위한 노드-링크 그래프 기반 후처리 방법\", 대한기계학회 CAE 및 응용역학 부문 춘계학술대회, 2021."
+      ],
+      "customSections": [
+        {
+          "heading": "Education",
+          "items": [
+            "M.S.: KAIST, Graduate School of Mobility",
+            "B.S.: GIST, Mechanical Engineering"
+          ]
+        },
+        {
+          "heading": "International Journal",
+          "items": [
+            "[1] H. Koh, J. J. Kim, Y. H. Lee, I. G. Jang, \"Validation study of topology optimization-based 3D trabecular bone reconstruction\", Under review.",
+            "[2] H. Koh, B. J. Chun, Y. H. Lee, I. G. Jang, \"Patchwise reconstruction of 3D trabecular bone using topology optimization-driven deep learning\", Under review.",
+            "[3] B. J. Chun, S. M. Sin, H. Koh, J. J. Kim, I. G. Jang, \"Patchwise Trabecular Bone Reconstruction of a 2D Proximal Femur Using Deep Learning and Seamless Quilting Algorithm\", IRBM, vol. 46, no. 3, p. 100889, 2025. (JCR 2023 IF=5.6, Top 17.5%)",
+            "[4] H. Koh, B. J. Chun, I. G. Jang, \"Node-link representation-based deep learning method for reconstructing trabecular bone from low-resolution images\", Expert Systems with Applications, vol. 268, p. 126299, 2025. (JCR 2023 IF=7.5, Top 5.2%)"
+          ]
+        },
+        {
+          "heading": "International Conference",
+          "items": [
+            "[1] H. Koh, B. J. Chun, I. G. Jang, \"Topology optimization-driven deep learning and seamless quilting for patchwise trabecular bone reconstruction\", World Congress of Structural and Multidisciplinary Optimization (WCSMO), 2025.",
+            "[2] B. J. Chun, H. Koh, I. G. Jang, \"Deep learning-based patchwise 3D bone microstructure reconstruction\", World Congress of Structural and Multidisciplinary Optimization (WCSMO), 2023.",
+            "[3] H. Koh, I. G. Jang, \"Bone microstructure reconstruction from low-resolution skeletal images using deep learning with node-link graph-based connectivity\", Asian Congress of Structural and Multidisciplinary Optimization (ACSMO), 2022."
+          ]
+        },
+        {
+          "heading": "Domestic Conference",
+          "items": [
+            "[1] 고혁진, 김창영, 장인권, \"데이터 기반 SKIP-STOP 도시 철도 급행 서비스 최적화: 서울 지하철 4호선의 사례\", 한국ITS학회 추계학술대회, 2023.",
+            "[2] 천봉주, 고혁진, 장인권, \"딥 러닝을 통한 3차원 골 미세구조의 패치 별 재구성\", 대한기계학회 학술대회, 2022.",
+            "[3] 고혁진, 장인권, \"노드-링크 그래프 기반 연결성을 고려하는 딥러닝을 이용한 골격계 영상의 골 미세구조 재구성\", 대한기계학회 CAE 및 응용역학 부문 춘계학술대회, 2022.",
+            "[4] 고혁진, 장인권, \"심층 신경망으로 재구성된 골 미세구조의 구조적 절단 문제를 개선하기 위한 노드-링크 그래프 기반 후처리 방법\", 대한기계학회 CAE 및 응용역학 부문 춘계학술대회, 2021."
+          ]
+        },
+        {
+          "heading": "Patent",
+          "items": [
+            "[1] I. G. Jang, B. J. Chun, H. Koh, \"Method and device for deep learning-based patchwise reconstruction from clinical CT Scan data\", EP Patent, Application number: 23152812.6, 2023.",
+            "[2] I. G. Jang, B. J. Chun, H. Koh, \"Method and device for deep learning-based patchwise reconstruction from clinical CT Scan data\", US Patent, Patent number: 12573117, 2026.",
+            "[3] I. G. Jang, B. J. Chun, H. Koh, \"Method and device for deep learning-based patchwise reconstruction from clinical CT Scan data\", PCT Patent, Application number: PCT/KR2022/020533, 2022.",
+            "[4] I. G. Jang, B. J. Chun, H. Koh, \"Method and device for deep learning-based patchwise reconstruction from clinical CT Scan data\", KR Patent, Application number: 10-2022-0127616, 2022.",
+            "[5] I. G. Jang, H. Koh, B. J. Chun, \"Computer system for trabecular connectivity recovery of skeletal images reconstructed by artificial neural network through node-link graph-based bone microstructure representation, and method of the same\", EP Patent, Patent number: 04167178.7, 2025.",
+            "[6] I. G. Jang, H. Koh, B. J. Chun, \"Computer system for trabecular connectivity recovery of skeletal images reconstructed by artificial neural network through node-link graph-based bone microstructure representation, and method of the same\", US Patent, Patent number: 12175665, 2024.",
+            "[7] I. G. Jang, H. Koh, B. J. Chun, \"Computer system for trabecular connectivity recovery of skeletal images reconstructed by artificial neural network through node-link graph-based bone microstructure representation, and method of the same\", PCT Patent, Application number: PCT/KR2021/018382, 2021.",
+            "[8] I. G. Jang, H. Koh, B. J. Chun, \"Computer system for trabecular connectivity recovery of skeletal images reconstructed by artificial neural network through node-link graph-based bone microstructure representation, and method of the same\", KR Patent, Patent number: 10-2643198, 2024."
+          ]
+        },
+        {
+          "heading": "Award",
+          "items": [
+            "[1] 고혁진, 차세대 공학연구자 우수상, 한국이공학진흥원, 2025.",
+            "[2] 고혁진, 우수조교상, KAIST, 2024.",
+            "[3] 천봉주, 고혁진, 장인권, 대한기계학회 2022년도 학술대회 우수논문상, 대한기계학회, 2023.",
+            "[4] 고혁진, 장인권, 대한기계학회 CAE 및 응용역학부문 2022년 춘계학술대회 우수논문상, 대한기계학회, 2023.",
+            "[5] 고혁진 (지도교수: 장인권), 대한기계학회 CAE 및 응용역학부문 2022년 춘계학술대회 학생경진대회 대상, 대한기계학회, 2022."
+          ]
+        },
+        {
+          "heading": "Teaching Experience",
+          "items": [
+            "[1] Teaching Assistant, 해석에서 설계 최적화 및 PINN/LLM 활용까지, KAIST 산학협동 공개강좌, 2026.",
+            "[2] Teaching Assistant, AI 기반 설계: 해석에서 설계 최적화까지, KAIST 산학협동 공개강좌, 2025.",
+            "[3] Teaching Assistant, 인공지능을 활용한 최적 설계: 이론 및 실습, 한국최적설계학회 2024학년도 하계 강습회, 2024.",
+            "[4] Teaching Assistant, 인공지능과 설계: 해석 예측에서 설계 최적화까지, KAIST 산학협동 공개강좌, 2024.",
+            "[5] Teaching Assistant, MO505, KAIST, 2022~2025."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "student-jeonghun-kim",
+      "name": "김정훈",
+      "nameEng": "Jeonghun Kim",
+      "role": "Student",
+      "degreeType": "PhD",
+      "title": "Ph.D. Candidate",
+      "titleEng": "Ph.D. Candidate",
+      "email": "jhkim17@kaist.ac.kr",
+      "phone": "+82-42-350-1282 (Office)",
+      "office": "",
+      "group": "MSO",
+      "bio": "",
+      "bioEng": "",
+      "interests": [],
+      "avatarColor": "#1E40AF",
+      "imageUrl": "contents/generated/131e832035c3b5f90e2f46be.jpg",
+      "education": [
+        "M.S.: KAIST, Graduate school of Mobility",
+        "B.S.: Korea University of Education and Technology, Mechanical engineering"
+      ],
+      "experience": [],
+      "awards": [
+        "우수논문상, 한국ITS학회 2023년 추계학술대회, 2023.",
+        "학업우수상, KAIST 조천식모빌리티대학원, 2023 Fall Semester.",
+        "대한교통학회 회장상, 대한교통학회, 2025.",
+        "우수논문상, 2024년 대한기계학회, 2025.",
+        "우수논문상, 한국ITS학회 2025년 추계학술대회, 2025.",
+        "대한기계학회 논문상-우수논문(대한기계학회논문집A), 대한기계학회, 2025.",
+        "공로상, KAIST 조천식모빌리티대학원, 2026."
+      ],
+      "patents": [
+        "I. G. Jang, G. Kim, J. Kim, K. Jang, \"Optimal path calculation system and method based on loop variables with post processing applied\", KR Patent, Application Number: 10-2023-0157983 , 2023.",
+        "I. G. Jang, G. Kim, C. Kim, J. Kim, \"LEAST COST PATH SELECTION SYSTEM AND METHOD\", KR Patent, Application Number: 10-2024-0144119, 2024.",
+        "Patent (International)",
+        "I. G. Jang, G. Kim, J. Kim, K. Jang, “SYSTEM AND METHOD FOR COMPUTING OPTIMAL PATH BASED ON LOOP VARIABLES WITH POST-PROCESSING APPLIED”, US Patent, Application Number: 18/775,172, 2024.",
+        "I. G. Jang, G. Kim, C. Kim, and J. Kim, “LEAST COST PATH SELECTION SYSTEM AND METHOD”, US Patent, Application Number: 19/080,596, 2025."
+      ],
+      "publicationsList": [
+        "G. Kim, C. Kim, S. Park, J. Kim, and I. G. Jang, “Linear Programming of the Loopwise Route Representation for the Shortest Path Problems by Introducing the Reference Link Flow”, IEEE Access, vol. 13, pp. 38856 - 38864, 2025, doi: 10.1109/ACCESS.2025.3546320  (Impact factor: 3.4).",
+        "J. Kim, G. Kim, and I. G. Jang, “Connectivity-guaranteed Deep Learning for Finding a Near-optimal Path with Random O-D pairs,” (Under review)",
+        "Domestic Journal",
+        "김정훈, 심지섭, 장인권, 김근우, \"전기차 경로 문제를 대상으로 한 루프 방식 경로 표현법의 실도로 네트워크 적용,\" 대한기계학회논문집 A, 제 48권 제 11호.",
+        "J. Kim, G. Kim, I. G. Jang, \"Deep Learning-based Topology Optimization for Shortest Path Problems\", ACSMO, 2024.",
+        "J. Kim, G. Kim, C. Kim, I. G. Jang, \"Deep Learning-based Topology Optimization for Shortest Path Problems\", World Congress of Structural and Multidisciplinary Optimization (WCSMO), 2025.",
+        "J. Kim, I. G. Jang, \"Topology optimization-based path planning for complex maze networks\", ACSMO, 2026.",
+        "김정훈, 김근우, 장인권, \"딥러닝을 활용한 루프 기반 최단 경로 탐색 방법\", 한국ITS학회 추계학술대회, 2023.",
+        "김성용, 김정훈, 김근우, 장인권, \"대중교통 승객 맞춤형 경로 추천을 위한 루프 기반 경로 최적화: 수도권 전철 적용 사례\", 한국 ITS 학회 추계학술대회, 2023.",
+        "김정훈, 김근우, 장인권, \"딥러닝을 활용한 위상 최적화 가속화: 최단경로 문제 사례\", 대한기계학회 CAE 및 응용역학부문 춘계학술대회 학생경진대회, 2024.",
+        "김정훈, 김근우, 장인권, \"최단 경로 문제를 위한 딥러닝 기반 위상 최적화\", 대한기계학회 학술대회, 2024.",
+        "김정훈, 장인권, \"복잡한 미로 네트워크를 위한 딥러닝 기반 경로 계획\", 한국ITS학회 추계학술대회, 2025.",
+        "김정훈, 장인권, \"복잡한 미로 네트워크를 위한 딥러닝 기반 경로 계획\", 대한기계학회 CAE 및 응용역학부분 춘계학술대회, 2026."
+      ],
+      "customSections": [
+        {
+          "heading": "Education",
+          "items": [
+            "M.S.: KAIST, Graduate school of Mobility",
+            "B.S.: Korea University of Education and Technology, Mechanical engineering"
+          ],
+          "icon": "education"
+        },
+        {
+          "heading": "International Journal",
+          "items": [
+            "<ul class=\"research-bullet-style-1\"><li>G. Kim, C. Kim, S. Park, <b>J. Kim</b>, and I. G. Jang, “Linear Programming of the Loopwise Route Representation for the Shortest Path Problems by Introducing the Reference Link Flow”, IEEE Access, vol. 13, pp. 38856 - 38864, 2025, doi: 10.1109/ACCESS.2025.3546320  (Impact factor: 3.4).</li><li><b>J. Kim</b>, G. Kim, and I. G. Jang, “Connectivity-guaranteed Deep Learning for Finding a Near-optimal Path with Random O-D pairs,” (Under review)</li></ul>"
+          ],
+          "icon": "journal"
+        },
+        {
+          "heading": "Domestic Journal",
+          "items": [
+            "<ul class=\"research-bullet-style-1\"><li><b>김정훈</b>, 심지섭, 장인권, 김근우, \"전기차 경로 문제를 대상으로 한 루프 방식 경로 표현법의 실도로 네트워크 적용,\" 대한기계학회논문집 A, 제 48권 제 11호.</li></ul>"
+          ],
+          "icon": "journal"
+        },
+        {
+          "heading": "International Conference",
+          "items": [
+            "<ul class=\"research-bullet-style-1\"><li><b>J. Kim</b>, G. Kim, I. G. Jang, \"Deep Learning-based Topology Optimization for Shortest Path Problems\", ACSMO, 2024.</li><li><b>J. Kim</b>, G. Kim, C. Kim, I. G. Jang, \"Deep Learning-based Topology Optimization for Shortest Path Problems\", World Congress of Structural and Multidisciplinary Optimization (WCSMO), 2025.</li><li><b>J. Kim</b>, I. G. Jang, \"Topology optimization-based path planning for complex maze networks\", ACSMO, 2026.</li><li><b>J. Kim</b>, <span>S. Park</span>, E. Lee, I. G. Jang, \"Loopwise route representation-based path planning for obstacle avoidance\", The 15th Asia-Pacific Conference on Transportation and the Environment (APTE), 2026.</li></ul>"
+          ],
+          "icon": "conference"
+        },
+        {
+          "heading": "Domestic Conference",
+          "items": [
+            "<ul class=\"research-bullet-style-1\"><li><b>김정훈</b>, 김근우, 장인권, \"딥러닝을 활용한 루프 기반 최단 경로 탐색 방법\", 한국ITS학회 추계학술대회, 2023.</li><li>김성용, <b>김정훈</b>, 김근우, 장인권, \"대중교통 승객 맞춤형 경로 추천을 위한 루프 기반 경로 최적화: 수도권 전철 적용 사례\", 한국 ITS 학회 추계학술대회, 2023.</li><li><b>김정훈</b>, 김근우, 장인권, \"딥러닝을 활용한 위상 최적화 가속화: 최단경로 문제 사례\", 대한기계학회 CAE 및 응용역학부문 춘계학술대회 학생경진대회, 2024.</li><li><b>김정훈</b>, 김근우, 장인권, \"최단 경로 문제를 위한 딥러닝 기반 위상 최적화\", 대한기계학회 학술대회, 2024.</li><li><b>김정훈</b>, 장인권, \"복잡한 미로 네트워크를 위한 딥러닝 기반 경로 계획\", 한국ITS학회 추계학술대회, 2025.</li><li><b>김정훈</b>, 장인권, \"복잡한 미로 네트워크를 위한 딥러닝 기반 경로 계획\", 대한기계학회 CAE 및 응용역학부분 춘계학술대회, 2026.</li></ul>"
+          ],
+          "icon": "conference"
+        },
+        {
+          "heading": "Patent (Domestic)",
+          "items": [
+            "<ul class=\"research-bullet-style-1\"><li>I. G. Jang, G. Kim, <b>J. Kim</b>, K. Jang, \"Optimal path calculation system and method based on loop variables with post processing applied\", KR Patent, Application Number: 10-2023-0157983 , 2023.</li><li>I. G. Jang, G. Kim, C. Kim, <b>J. Kim</b>, \"LEAST COST PATH SELECTION SYSTEM AND METHOD\", KR Patent, Application Number: 10-2024-0144119, 2024.</li><li>I. G. Jang, <b>J. Kim</b>, C. Kim, <span>S. Park</span>, and E. Lee, \"경로 산출 시스템 및 그 방법\", KR Patent, Application Number: 10-2026-0119490, 2026.</li></ul>"
+          ],
+          "icon": "patent"
+        },
+        {
+          "heading": "Patent (International)",
+          "items": [
+            "<ul class=\"research-bullet-style-1\"><li>I. G. Jang, G. Kim, <b>J. Kim</b>, K. Jang, “SYSTEM AND METHOD FOR COMPUTING OPTIMAL PATH BASED ON LOOP VARIABLES WITH POST-PROCESSING APPLIED”, US Patent, Application Number: 18/775,172, 2024.</li><li>I. G. Jang, G. Kim, C. Kim, and <b>J. Kim</b>, “LEAST COST PATH SELECTION SYSTEM AND METHOD”, US Patent, Application Number: 19/080,596, 2025.</li></ul>"
+          ],
+          "icon": "patent"
+        },
+        {
+          "heading": "Award & Fellowship",
+          "items": [
+            "<ul class=\"research-bullet-style-1\"><li>우수논문상, 한국ITS학회 2023년 추계학술대회, 2023.</li><li>학업우수상, KAIST 조천식모빌리티대학원, 2023 Fall Semester.</li><li>대한교통학회 회장상, 대한교통학회, 2025.</li><li>우수논문상, 2024년 대한기계학회, 2025.</li><li>우수논문상, 한국ITS학회 2025년 추계학술대회, 2025.</li><li>대한기계학회 논문상-우수논문(대한기계학회논문집A), 대한기계학회, 2025.</li><li>공로상, KAIST 조천식모빌리티대학원, 2026.</li><li>이공분야 학술연구지원사업(박사과정생연구장려금지원), 2026.09~2028.08.</li></ul>"
+          ],
+          "icon": "award"
+        }
+      ]
+    },
+    {
+      "id": "student-changyeong-kim",
+      "name": "김창영",
+      "nameEng": "Changyeong Kim (LAB Leader)",
+      "role": "Student",
+      "degreeType": "PhD",
+      "title": "Ph.D. Candidate (LAB Leader)",
+      "titleEng": "Ph.D. Candidate",
+      "email": "kimcy0789@kaist.ac.kr",
+      "phone": "+82-42-350-1282 (Office)",
+      "office": "",
+      "group": "BSO",
+      "bio": "",
+      "bioEng": "",
+      "interests": [],
+      "avatarColor": "#1E40AF",
+      "imageUrl": "contents/generated/b0bb53e0951e8e70b207553d.jpg",
+      "education": [
+        "M.S.: KAIST, Graduate School of Mobility",
+        "B.S.: Chungnam National University, Mechanical Engineering (수석 졸업)"
+      ],
+      "experience": [
+        "Teaching Assistant, 인공지능과 설계: 해석 예측에서 설계 최적화까지, KAIST 산학협동 공개강좌, 2024.",
+        "Teaching Assistant, 인공지능을 활용한 최적 설계: 이론 및 실습, 한국최적설계학회 2024학년도 하계 강습회, 2024.",
+        "Teaching Assistant, AI 기반 설계: 해석에서 설계 최적화까지, KAIST 산학협동 공개강좌, 2025.",
+        "Teaching Assistant, AI 기반 설계: 해석에서 설계 최적화 및 PINN/LLM 활용까지, KAIST 산학협동 공개강좌, 2026.",
+        "Teaching Assistant, 모빌리티 시스템 전산해석 및 설계 (MO50181), KAIST, 2026."
+      ],
+      "awards": [
+        "김창영, 김근우, 장인권, 대한기계학회 CAE 및 응용역학부문 2024년 춘계학술대회 학생경진대회 장려상, 대한기계학회, 2024.",
+        "김창영, 장인권, 대한기계학회 CAE 및 응용역학부문 우수학위논문상, 대한기계학회, 2026."
+      ],
+      "patents": [
+        "I. G. Jang, G. Kim, C. Kim, and J. Kim, \"최소 비용 경로 선택 시스템 및 방법\", KR Patent, Application Number: 10-2024-0144119, 2024."
+      ],
+      "publicationsList": [
+        "G. Kim, C. Kim, S. Park, J. Kim, and I. G. Jang, “Linear Programming of the Loopwise Route Representation for the Shortest Path Problems by Introducing the Reference Link Flow”, IEEE Access, vol. 13, pp. 38856 - 38864, 2025. (JCR 2024 IF=3.6)",
+        "C. Kim, G. Kim, and I. G. Jang, “Linearized Loopwise Route Representation for Solving Symmetric Traveling Salesman Problems without the Origin-Destination Matrix”, IEEE Transactions on Intelligent Transportation Systems. (Under revision)",
+        "J. Kim, G. Kim, C. Kim, and I. G. Jang, \"Deep Learning-based Topology Optimization for Shortest Path Problems\", World Congress of Structural and Multidisciplinary Optimization (WCSMO), 2025.",
+        "C. Kim and I. G. Jang, \"Linearization of Topology Optimization for Traveling Salesman Problem\", Asian Congress of Structural and Multidisciplinary Optimization (ACSMO), 2026.",
+        "고혁진, 김창영, 장인권, \"데이터 기반 SKIP-STOP 도시 철도 급행 서비스 최적화: 서울 지하철 4호선의 사례\", 한국ITS학회 추계학술대회, 2023.",
+        "김창영, 김근우, 장인권, \"루프 표현법과 위상최적설계에 기반한 차량 경로 최적화에 대한 선형화 방안\", 대한기계학회 CAE 및 응용역학부문 춘계학술대회 학생경진대회, 2024.",
+        "김창영, 김근우, 장인권, \"루프 기반 경로 최적화의 계산 가속화를 위한 선형화 방법\", 한국ITS학회 추계학술대회, 2024.",
+        "김창영, 장인권, \"위상최적설계 기반 차량 경로 최적화에 대한 선형 정식화\", 대한기계학회 CAE 및 응용역학부문 춘계학술대회 학생경진대회, 2025.",
+        "김창영, 장인권, \"위상최적설계 기반 차량 경로 최적화에 대한 선형 정식화\", 대한기계학회 CAE 및 응용역학부문 춘계학술대회, 2026.",
+        "Patent (International)",
+        "I. G. Jang, G. Kim, C. Kim, and J. Kim, “LEAST COST PATH SELECTION SYSTEM AND METHOD”, US Patent, Application Number: 19/080,596, 2025."
+      ],
+      "customSections": [
+        {
+          "heading": "Education",
+          "items": [
+            "<p>M.S.: KAIST, Graduate School of Mobility</p><p>B.S.: Chungnam National University, Mechanical Engineering (수석)</p>"
+          ],
+          "icon": "education"
+        },
+        {
+          "heading": "International Journal",
+          "items": [
+            "<ul class=\"research-bullet-style-1\"></ul><ul class=\"research-bullet-style-1\"><li><p><span><b>C. Kim</b></span>, G. Kim, and I. G. Jang, “Linearized Loopwise Route Representation for Solving Symmetric Traveling Salesman Problems without the Origin-Destination Matrix”, IEEE Transactions on Intelligent Transportation Systems, Early access, DOI: 10.1109/TITS.2026.3724185, 2026. (JCR 2024 IF=8.4, TOP 2.4%)</p></li><li><p>G. Kim, <strong>C. Kim</strong>, S. Park, J. Kim, and I. G. Jang, “Linear Programming of the Loopwise Route Representation for the Shortest Path Problems by Introducing the Reference Link Flow”, IEEE Access, vol. 13, pp. 38856 - 38864, 2025. (JCR 2024 IF=3.6)</p></li></ul>"
+          ],
+          "icon": "journal"
+        },
+        {
+          "heading": "International Conference",
+          "items": [
+            "<ul class=\"research-bullet-style-1\"></ul><ul class=\"research-bullet-style-1\"><li><p><span><b>C. Kim</b></span> and I. G. Jang, \"Linearization of Topology Optimization for Traveling Salesman Problem\", Asian Congress of Structural and Multidisciplinary Optimization (ACSMO), 2026.</p></li><li><p>J. Kim, G. Kim, <strong>C. Kim</strong>, and I. G. Jang, \"Deep Learning-based Topology Optimization for Shortest Path Problems\", World Congress of Structural and Multidisciplinary Optimization (WCSMO), 2025.</p></li></ul>"
+          ],
+          "icon": "conference"
+        },
+        {
+          "heading": "Domestic Conference",
+          "items": [
+            "<ul class=\"research-bullet-style-1\"></ul><ul class=\"research-bullet-style-1\"><li><p><span><b>김창영</b></span>, 장인권, \"위상최적설계 기반 차량 경로 최적화에 대한 선형 정식화\", 대한기계학회 CAE 및 응용역학부문 춘계학술대회, 2026.</p></li><li><p><span><b>김창영</b></span>, 장인권, \"위상최적설계 기반 차량 경로 최적화에 대한 선형 정식화\", 대한기계학회 CAE 및 응용역학부문 춘계학술대회 학생경진대회, 2025.</p></li><li><p><span><b>김창영</b></span>, 김근우, 장인권, \"루프 기반 경로 최적화의 계산 가속화를 위한 선형화 방법\", 한국ITS학회 추계학술대회, 2024.</p></li><li><p><span><b>김창영</b></span><span>, 김근우, 장인권, \"루프 표현법과 위상최적설계에 기반한 차량 경로 최적화에 대한 선형화 방안\", 대한기계학회 CAE 및 응용역학부문 춘계학술대회 학생경진대회, 2024.</span></p></li><li><p><span>고혁진, </span><strong>김창영</strong><span>, 장인권, \"데이터 기반 SKIP-STOP 도시 철도 급행 서비스 최적화: 서울 지하철 4호선의 사례\", 한국ITS학회 추계학술대회, 2023.</span></p></li></ul>"
+          ],
+          "icon": "conference"
+        },
+        {
+          "heading": "Patent (International)",
+          "items": [
+            "<p>I. G. Jang, G. Kim, <strong>C. Kim</strong>, and J. Kim, “LEAST COST PATH SELECTION SYSTEM AND METHOD”, US Patent, Application Number: 19/080,596, 2025.</p>"
+          ],
+          "icon": "patent"
+        },
+        {
+          "heading": "Patent (Domestic)",
+          "items": [
+            "<p>I. G. Jang, J. Kim, <span><b>C. Kim</b></span>, S. Park, and E. Lee, \"경로 산출 시스템 및 그 방법\", KR Patent, Application Number: 10-2026-0119490, 2026.</p><p><span>I. G. Jang, G. Kim, </span><strong>C. Kim</strong><span>, and J. Kim, \"최소 비용 경로 선택 시스템 및 방법\", KR Patent, Application Number: 10-2024-0144119, 2024.</span></p>"
+          ],
+          "icon": "patent"
+        },
+        {
+          "heading": "Award",
+          "items": [
+            "<ul class=\"research-bullet-style-1\"><li><p><b>김창영</b>, 장인권, 대한기계학회 CAE 및 응용역학부문 우수학위논문상, 대한기계학회, 2026.</p></li><li><p><strong>김창영</strong>, 김근우, 장인권, 대한기계학회 CAE 및 응용역학부문 2024년 춘계학술대회 학생경진대회 장려상, 대한기계학회, 2024.</p></li></ul>"
+          ],
+          "icon": "award"
+        },
+        {
+          "heading": "Teaching Experience",
+          "items": [
+            "<ul class=\"research-bullet-style-1\"></ul><ul class=\"research-bullet-style-1\"><li>Teaching Assistant, 모빌리티 시스템 전산해석 및 설계 (MO50181), KAIST, 2026.</li><li>Teaching Assistant, AI 기반 설계: 해석에서 설계 최적화 및 PINN/LLM 활용까지, KAIST 산학협동 공개강좌, 2026.</li><li>Teaching Assistant, AI 기반 설계: 해석에서 설계 최적화까지, KAIST 산학협동 공개강좌, 2025.</li><li>Teaching Assistant, 인공지능을 활용한 최적 설계: 이론 및 실습, 한국최적설계학회 2024학년도 하계 강습회, 2024.</li><li>Teaching Assistant, 인공지능과 설계: 해석 예측에서 설계 최적화까지, KAIST 산학협동 공개강좌, 2024.</li></ul>"
+          ],
+          "icon": "experience"
+        }
+      ]
+    },
+    {
+      "id": "student-sanghoon-park",
+      "name": "박상훈",
+      "nameEng": "Sanghoon Park",
+      "role": "Student",
+      "degreeType": "PhD",
+      "title": "Ph.D. Candidate",
+      "titleEng": "Ph.D. Candidate",
+      "email": "sanghoon10233@kaist.ac.kr",
+      "phone": "+82-42-350-1282 (Office)",
+      "office": "",
+      "group": "MSO",
+      "bio": "",
+      "bioEng": "",
+      "interests": [],
+      "avatarColor": "#1E40AF",
+      "imageUrl": "contents/generated/99d318ae83414ab398498b0a.jpg",
+      "education": [
+        "M.S.: KAIST, Graduate School of Mobility",
+        "B.S.: Konkuk University, Mechanical engineering"
+      ],
+      "experience": [],
+      "awards": [
+        "우수논문상, 한국ITS학회 추계학술대회, 2024."
+      ],
+      "patents": [],
+      "publicationsList": [
+        "G. Kim, C. Kim, S. Park, J. Kim, and I. G. Jang, “Linear Programming of the Loopwise Route Representation for the Shortest Path Problems by Introducing the Reference Link Flow”, IEEE Access, vol. 13, pp. 38856 - 38864, 2025, doi: 10.1109/ACCESS.2025.3546320  (Impact factor: 3.4).",
+        "S. Park, G. Kim, I. G. Jang, \"Post-processing of the loop-wise route representation-based topology optimization for shortest path problems\", World Congress of Structural and Multidisciplinary Optimization (WCSMO), 2025.",
+        "S. Park, I. G. Jang, \"Global Optimality in the Linearized Loopwise Route Reperesentation-based Topology Optimization\", Asian Congress of Structural and Multidisciplinary Optimization (ACSMO), 2026.",
+        "박상훈, 김근우, 장인권, \"전기회로와 도로교통 간의 유사성을 활용한 루프 기반 최단 경로 탐색법의 후처리 방안\", 한국 ITS 학회 추계학술대회, 2024.",
+        "박상훈, 김근우, 장인권, \"루프표현법과 위상최적설계에 기반한 후처리 방안: 최단 경로 문제 사례\", 대한기계학회 CAE 및 응용역학부문 춘계학술대회 학생경진대회, 2025.",
+        "박상훈, 장인권, \"선형화된 루프 경로 표현법을 이용한 외판원 문제의 2단계 프레임워크\", 한국 ITS 학회 추계학술대회, 2025.",
+        "박상훈, 장인권, \"선형화된 루프 경로 표현법 기반 위상최적화에서의 전역 최적성\", 대한기계학회 CAE 및 응용역학부문 춘계학술대회, 2026."
+      ],
+      "customSections": [
+        {
+          "heading": "Education",
+          "items": [
+            "M.S.: KAIST, Graduate School of Mobility",
+            "B.S.: Konkuk University, Mechanical engineering"
+          ],
+          "icon": "education"
+        },
+        {
+          "heading": "International Journal",
+          "items": [
+            "<ul class=\"research-bullet-style-1\"><li>G. Kim, C. Kim, <b>S. Park</b>, J. Kim, and I. G. Jang, “Linear Programming of the Loopwise Route Representation for the Shortest Path Problems by Introducing the Reference Link Flow”, IEEE Access, vol. 13, pp. 38856 - 38864, 2025, doi: 10.1109/ACCESS.2025.3546320  (Impact factor: 3.4).</li></ul>"
+          ],
+          "icon": "journal"
+        },
+        {
+          "heading": "International Conference",
+          "items": [
+            "<ul class=\"research-bullet-style-1\"><li><b>S. Park</b>, G. Kim, I. G. Jang, \"Post-processing of the loop-wise route representation-based topology optimization for shortest path problems\", World Congress of Structural and Multidisciplinary Optimization (WCSMO), 2025.</li><li><b>S. Park</b>, I. G. Jang, \"Global Optimality in the Linearized Loopwise Route Reperesentation-based Topology Optimization\", Asian Congress of Structural and Multidisciplinary Optimization (ACSMO), 2026.</li><li>J. Kim, <b>S. Park</b>, E. Lee, I. G. Jang, \"Loopwise route representation-based path planning for obstacle avoidance\", The 15th Asia-Pacific Conference on Transportation and the Environment (APTE), 2026.</li></ul>"
+          ],
+          "icon": "conference"
+        },
+        {
+          "heading": "Domestic Conference",
+          "items": [
+            "<ul class=\"research-bullet-style-1\"><li><b>박상훈</b>, 김근우, 장인권, \"전기회로와 도로교통 간의 유사성을 활용한 루프 기반 최단 경로 탐색법의 후처리 방안\", 한국 ITS 학회 추계학술대회, 2024.</li><li><b>박상훈</b>, 김근우, 장인권, \"루프표현법과 위상최적설계에 기반한 후처리 방안: 최단 경로 문제 사례\", 대한기계학회 CAE 및 응용역학부문 춘계학술대회 학생경진대회, 2025.</li><li><b>박상훈</b>, 장인권, \"선형화된 루프 경로 표현법을 이용한 외판원 문제의 2단계 프레임워크\", 한국 ITS 학회 추계학술대회, 2025.</li><li><b>박상훈</b>, 장인권, \"선형화된 루프 경로 표현법 기반 위상최적화에서의 전역 최적성\", 대한기계학회 CAE 및 응용역학부문 춘계학술대회, 2026.</li></ul>"
+          ],
+          "icon": "conference"
+        },
+        {
+          "heading": "Patent (Domestic)",
+          "items": [
+            "<ul class=\"research-bullet-style-1\"><li>I. G. Jang, J. Kim, C. Kim, <b>S. Park</b>, and E. Lee, \"경로 산출 시스템 및 그 방법\", KR Patent, Application Number: 10-2026-0119490, 2026.</li></ul>"
+          ],
+          "icon": "idea"
+        },
+        {
+          "heading": "Award",
+          "icon": "award",
+          "items": [
+            "<ul class=\"research-bullet-style-1\"><li>우수논문상, 한국ITS학회 추계학술대회, 2024.</li></ul>"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "student-sunyeol-gwon",
+      "name": "권순열",
+      "nameEng": "Sunyeol Gwon",
+      "role": "Student",
+      "degreeType": "PhD",
+      "title": "Ph.D. Candidate",
+      "titleEng": "Ph.D. Candidate",
+      "email": "sy3548@kaist.ac.kr",
+      "phone": "+82-42-350-1282 (Office)",
+      "office": "",
+      "group": "ESO",
+      "bio": "",
+      "bioEng": "",
+      "interests": [],
+      "avatarColor": "#1E40AF",
+      "imageUrl": "contents/generated/dd242741e2ce8417931c68c9.jpg",
+      "education": [
+        "B.S.: Kyungpook National University, Mechanical engineering (Summa Cum Laude)"
+      ],
+      "experience": [],
+      "awards": [],
+      "patents": [
+        "I. G. Jang, M. Kang, and S. Gwon, \"Two-stage method for sequential estimation of all mutual inductance between coils in multi-receiver wireless power transfer systems and device for operating the same\", KR Patent, Application Number: 10-2025-0132299, 2025."
+      ],
+      "publicationsList": [
+        "M. Kim*, M. Kang* (co-first author), C. Chu, Y. Lee, S. Gwon, and I. G. Jang, \"Fault Detection of Coil Misalignment in Multi-receiver Wireless Power Transfer Systems with the Estimated Mutual Inductance\", IEEE Transactions on Industrial Electronics, 2026, Accepted. (JCR 2024 IF=7.2, Top 4.4%)",
+        "M. Kang, S. Gwon, and I. G. Jang, \"Stable and practical operation for multi-receiver wireless power transfer systems by estimating mutual inductance estimation\", Wireless Power Technology Conference and Expo (WPTCE, Student design competition), 2025.",
+        "M. Kang, S. Gwon, and I. G. Jang, \"Determination of the Optimal Load Condition for Multi-receiver Wireless Power Transfer Systems\", World Congress of Structural and Multidisciplinary Optimization (WCSMO), 2025."
+      ],
+      "customSections": [
+        {
+          "heading": "Education",
+          "items": [
+            "<ul class=\"research-bullet-style-1\"><li><span>M.S.: KAIST, Graduate School of Mobility</span></li><li>B.S.: Kyungpook National University, Mechanical engineering <b>(Summa Cum Laude)</b></li></ul>"
+          ],
+          "icon": "education"
+        },
+        {
+          "heading": "International Journal",
+          "items": [
+            "<p>M. Kim*, M. Kang* (co-first author), C. Chu, Y. Lee, <strong>S. Gwon</strong>, and I. G. Jang, \"Fault Detection of Coil Misalignment in Multi-receiver Wireless Power Transfer Systems with the Estimated Mutual Inductance\", IEEE Transactions on Industrial Electronics, 2026, Accepted. (JCR 2024 IF=7.2, Top 4.4%)</p>"
+          ],
+          "icon": "journal"
+        },
+        {
+          "heading": "International Conference",
+          "items": [
+            "<p>M. Kang, <strong>S. Gwon</strong>, and I. G. Jang, \"Stable and practical operation for multi-receiver wireless power transfer systems by estimating mutual inductance estimation\", Wireless Power Technology Conference and Expo (WPTCE, Student design competition), 2025.</p>",
+            "<p>M. Kang, <strong>S. Gwon</strong>, and I. G. Jang, \"Determination of the Optimal Load Condition for Multi-receiver Wireless Power Transfer Systems\", World Congress of Structural and Multidisciplinary Optimization (WCSMO), 2025.</p>"
+          ],
+          "icon": "conference"
+        },
+        {
+          "heading": "Patent",
+          "items": [
+            "<p>I. G. Jang, M. Kang, and <strong>S. Gwon</strong>, \"Two-stage method for sequential estimation of all mutual inductance between coils in multi-receiver wireless power transfer systems and device for operating the same\", KR Patent, Application Number: 10-2025-0132299, 2025.</p>"
+          ],
+          "icon": "patent"
+        }
+      ]
+    },
+    {
+      "id": "student-eungyeol-lee",
+      "name": "이은결",
+      "nameEng": "Eungyeol Lee",
+      "role": "Student",
+      "degreeType": "Master",
+      "title": "M.S. Candidate",
+      "titleEng": "M.S. Candidate",
+      "email": "eungyeol@kaist.ac.kr",
+      "phone": "+82-42-350-1282 (Office)",
+      "office": "",
+      "group": "MSO",
+      "bio": "",
+      "bioEng": "",
+      "interests": [],
+      "avatarColor": "#1E40AF",
+      "imageUrl": "contents/generated/b4877b5ca2edb3489bd954ac.jpg",
+      "education": [
+        "B.S.: GIST, Electrical Engineering and Computer Science",
+        "Personal Homepage : cosom.blog"
+      ],
+      "experience": [],
+      "awards": [],
+      "patents": [],
+      "publicationsList": [],
+      "customSections": [
+        {
+          "heading": "Education",
+          "items": [
+            "<p>B.S.: GIST, Electrical Engineering and Computer Science</p>"
+          ]
+        },
+        {
+          "heading": "Personal Homepage",
+          "icon": "mark",
+          "items": [
+            "<p><span>cosom.blog</span></p>"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "student-hanbeen-lee",
+      "name": "이한빈",
+      "nameEng": "Hanbeen Lee",
+      "role": "Student",
+      "degreeType": "Master",
+      "title": "M.S. Candidate",
+      "titleEng": "M.S. Candidate",
+      "email": "1218hanbin@kaist.ac.kr",
+      "phone": "+82-42-350-1282 (Office)",
+      "office": "",
+      "group": "ESO",
+      "bio": "",
+      "bioEng": "",
+      "interests": [],
+      "avatarColor": "#1E40AF",
+      "imageUrl": "contents/generated/58e8b4b741743e27449eb19d.jpg",
+      "education": [
+        "B.S.: Sungkyunkwan University, Electronic and Electrical Engineering"
+      ],
+      "experience": [],
+      "awards": [],
+      "patents": [],
+      "publicationsList": [],
+      "customSections": [
+        {
+          "heading": "Education",
+          "items": [
+            "B.S.: Sungkyunkwan University, Electronic and Electrical Engineering"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "student-jihee-jung",
+      "name": "정지희",
+      "nameEng": "Jihee Jung",
+      "role": "Student",
+      "degreeType": "Master",
+      "title": "M.S. Candidate",
+      "titleEng": "M.S. Candidate",
+      "email": "jungjihee9@kaist.ac.kr",
+      "phone": "+82-42-350-1282 (Office)",
+      "office": "",
+      "group": "TBD",
+      "bio": "",
+      "bioEng": "",
+      "interests": [],
+      "avatarColor": "#1E40AF",
+      "imageUrl": "contents/generated/25e2ba724e0cfea9e716e99f.jpg",
+      "education": [
+        "B.S.: Soongsil University, Mechanical engineering"
+      ],
+      "experience": [],
+      "awards": [],
+      "patents": [],
+      "publicationsList": [],
+      "customSections": [
+        {
+          "heading": "Education",
+          "items": [
+            "B.S.: Soongsil University, Mechanical engineering"
+          ]
+        },
+        {
+          "heading": "Work experience",
+          "items": [
+            "Korea Railroad Corporation, 2018-Present"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "alumni-member",
+      "name": "이승법",
+      "nameEng": "Seung Beop Lee",
+      "role": "Alumni",
+      "title": "박사(2018)",
+      "titleEng": "Ph.D. Alumnus (2018)",
+      "email": "",
+      "phone": "",
+      "office": "대학 (전북대학교) 부교수",
+      "group": "",
+      "bio": "",
+      "bioEng": "",
+      "interests": [],
+      "avatarColor": "#0284C7",
+      "imageUrl": "",
+      "education": [],
+      "experience": [],
+      "awards": [],
+      "patents": [],
+      "publicationsList": [],
+      "customSections": [
+        {
+          "heading": "Career",
+          "items": [
+            "대학 (전북대학교)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "alumni-member",
+      "name": "김정진",
+      "nameEng": "Jung Jin Kim",
+      "role": "Alumni",
+      "title": "박사(2019)",
+      "titleEng": "Ph.D. Alumnus (2019)",
+      "email": "",
+      "phone": "",
+      "office": "대학 (계명대학교) 조교수",
+      "group": "",
+      "bio": "",
+      "bioEng": "",
+      "interests": [],
+      "avatarColor": "#0284C7",
+      "imageUrl": "",
+      "education": [],
+      "experience": [],
+      "awards": [],
+      "patents": [],
+      "publicationsList": [],
+      "customSections": [
+        {
+          "heading": "Career",
+          "items": [
+            "대학 (계명대학교) 부교수"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "alumni-member",
+      "name": "김종호",
+      "nameEng": "Jong Ho Kim",
+      "role": "Alumni",
+      "title": "박사(2021)",
+      "titleEng": "Ph.D. Alumnus (2021)",
+      "email": "",
+      "phone": "",
+      "office": "대학 (계명대학교) 조교수",
+      "group": "",
+      "bio": "",
+      "bioEng": "",
+      "interests": [],
+      "avatarColor": "#0284C7",
+      "imageUrl": "",
+      "education": [],
+      "experience": [],
+      "awards": [],
+      "patents": [],
+      "publicationsList": [],
+      "customSections": [
+        {
+          "heading": "Career",
+          "items": [
+            "대학 (계명대학교) 조교수"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "alumni-member",
+      "name": "이창우",
+      "nameEng": "Changwoo Lee",
+      "role": "Alumni",
+      "title": "박사(2022)",
+      "titleEng": "Ph.D. Alumnus (2022)",
+      "email": "",
+      "phone": "",
+      "office": "대학 (아주대학교) 조교수",
+      "group": "",
+      "bio": "",
+      "bioEng": "",
+      "interests": [],
+      "avatarColor": "#0284C7",
+      "imageUrl": "",
+      "education": [],
+      "experience": [],
+      "awards": [],
+      "patents": [],
+      "publicationsList": [],
+      "customSections": [
+        {
+          "heading": "Career",
+          "items": [
+            "대학 (아주대학교) 조교수"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "alumni-member",
+      "name": "천봉주",
+      "nameEng": "Bongju Chun",
+      "role": "Alumni",
+      "title": "박사(2022)",
+      "titleEng": "Ph.D. Alumnus (2022)",
+      "email": "",
+      "phone": "",
+      "office": "연구소 (국방과학연구소) 연구원",
+      "group": "",
+      "bio": "",
+      "bioEng": "",
+      "interests": [],
+      "avatarColor": "#0284C7",
+      "imageUrl": "",
+      "education": [],
+      "experience": [],
+      "awards": [],
+      "patents": [],
+      "publicationsList": [],
+      "customSections": [
+        {
+          "heading": "Career",
+          "items": [
+            "연구소 (국방과학연구소) 조교수"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "alumni-member",
+      "name": "김근우",
+      "nameEng": "Geunu Kim",
+      "role": "Alumni",
+      "title": "박사(2023)",
+      "titleEng": "Ph.D. Alumnus (2023)",
+      "email": "",
+      "phone": "",
+      "office": "대학 (국립부경대학교) 조교수",
+      "group": "",
+      "bio": "",
+      "bioEng": "",
+      "interests": [],
+      "avatarColor": "#0284C7",
+      "imageUrl": "",
+      "education": [],
+      "experience": [],
+      "awards": [],
+      "patents": [],
+      "publicationsList": [],
+      "customSections": [
+        {
+          "heading": "Career",
+          "items": [
+            "대학 (국립부경대학교) 연구원"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "alumni-member",
+      "name": "김민기",
+      "nameEng": "Mingi Kim",
+      "role": "Alumni",
+      "title": "박사(2023)",
+      "titleEng": "Ph.D. Alumnus (2023)",
+      "email": "",
+      "phone": "",
+      "office": "기업 (삼성전자) 연구원",
+      "group": "",
+      "bio": "",
+      "bioEng": "",
+      "interests": [],
+      "avatarColor": "#0284C7",
+      "imageUrl": "",
+      "education": [],
+      "experience": [],
+      "awards": [],
+      "patents": [],
+      "publicationsList": [],
+      "customSections": [
+        {
+          "heading": "Career",
+          "items": [
+            "기업 (삼성전자) 조교수"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "alumni-member",
+      "name": "김헌재",
+      "nameEng": "Heon Jae Kim",
+      "role": "Alumni",
+      "title": "석사(2013)",
+      "titleEng": "M.S. Alumnus (2013)",
+      "email": "",
+      "phone": "",
+      "office": "기업 (현대자동차) 연구원",
+      "group": "",
+      "bio": "",
+      "bioEng": "",
+      "interests": [],
+      "avatarColor": "#0284C7",
+      "imageUrl": "",
+      "education": [],
+      "experience": [],
+      "awards": [],
+      "patents": [],
+      "publicationsList": [],
+      "customSections": [
+        {
+          "heading": "Career",
+          "items": [
+            "기업 (현대자동차) 연구원"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "alumni-member",
+      "name": "김유경",
+      "nameEng": "You Kyung Kim",
+      "role": "Alumni",
+      "title": "석사(2014)",
+      "titleEng": "M.S. Alumnus (2014)",
+      "email": "",
+      "phone": "",
+      "office": "기업 (현대자동차) 연구원",
+      "group": "",
+      "bio": "",
+      "bioEng": "",
+      "interests": [],
+      "avatarColor": "#0284C7",
+      "imageUrl": "",
+      "education": [],
+      "experience": [],
+      "awards": [],
+      "patents": [],
+      "publicationsList": [],
+      "customSections": [
+        {
+          "heading": "Career",
+          "items": [
+            "기업 (현대자동차) 연구원"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "alumni-member",
+      "name": "김진수",
+      "nameEng": "Jinsu Kim",
+      "role": "Alumni",
+      "title": "석사(2015)",
+      "titleEng": "M.S. Alumnus (2015)",
+      "email": "",
+      "phone": "",
+      "office": "기업 (메리츠화재) 연구원",
+      "group": "",
+      "bio": "",
+      "bioEng": "",
+      "interests": [],
+      "avatarColor": "#0284C7",
+      "imageUrl": "",
+      "education": [],
+      "experience": [],
+      "awards": [],
+      "patents": [],
+      "publicationsList": [],
+      "customSections": [
+        {
+          "heading": "Career",
+          "items": [
+            "기업 (메리츠화재) 연구원"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "alumni-member",
+      "name": "남지민",
+      "nameEng": "Jimin Nam",
+      "role": "Alumni",
+      "title": "석사(2018)",
+      "titleEng": "M.S. Alumnus (2018)",
+      "email": "",
+      "phone": "",
+      "office": "연구소 (국방과학연구소) 연구원",
+      "group": "",
+      "bio": "",
+      "bioEng": "",
+      "interests": [],
+      "avatarColor": "#0284C7",
+      "imageUrl": "",
+      "education": [],
+      "experience": [],
+      "awards": [],
+      "patents": [],
+      "publicationsList": [],
+      "customSections": [
+        {
+          "heading": "Career",
+          "items": [
+            "연구소 (국방과학연구소) 연구원"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "alumni-member",
+      "name": "노수성",
+      "nameEng": "Su Seong Noh",
+      "role": "Alumni",
+      "title": "석사(2020)",
+      "titleEng": "M.S. Alumnus (2020)",
+      "email": "",
+      "phone": "",
+      "office": "기업 (삼성전자) 연구원",
+      "group": "",
+      "bio": "",
+      "bioEng": "",
+      "interests": [],
+      "avatarColor": "#0284C7",
+      "imageUrl": "",
+      "education": [],
+      "experience": [],
+      "awards": [],
+      "patents": [],
+      "publicationsList": [],
+      "customSections": [
+        {
+          "heading": "Career",
+          "items": [
+            "기업 (삼성전자) 연구원"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "alumni-member",
+      "name": "신상민",
+      "nameEng": "Sangmin Sin",
+      "role": "Alumni",
+      "title": "석사(2020)",
+      "titleEng": "M.S. Alumnus (2020)",
+      "email": "",
+      "phone": "",
+      "office": "기업 (포티투닷) 연구원",
+      "group": "",
+      "bio": "",
+      "bioEng": "",
+      "interests": [],
+      "avatarColor": "#0284C7",
+      "imageUrl": "",
+      "education": [],
+      "experience": [],
+      "awards": [],
+      "patents": [],
+      "publicationsList": [],
+      "customSections": [
+        {
+          "heading": "Career",
+          "items": [
+            "기업 (포티투닷) 연구원"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "alumni-member",
+      "name": "이태양",
+      "nameEng": "Taeyang Lee",
+      "role": "Alumni",
+      "title": "석사(2020)",
+      "titleEng": "M.S. Alumnus (2020)",
+      "email": "",
+      "phone": "",
+      "office": "기업 (컬리) 연구원",
+      "group": "",
+      "bio": "",
+      "bioEng": "",
+      "interests": [],
+      "avatarColor": "#0284C7",
+      "imageUrl": "",
+      "education": [],
+      "experience": [],
+      "awards": [],
+      "patents": [],
+      "publicationsList": [],
+      "customSections": [
+        {
+          "heading": "Career",
+          "items": [
+            "기업 (컬리) 연구원"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "alumni-member",
+      "name": "진현우",
+      "nameEng": "Hyunwoo Jin",
+      "role": "Alumni",
+      "title": "석사(2021)",
+      "titleEng": "M.S. Alumnus (2021)",
+      "email": "",
+      "phone": "",
+      "office": "기업 (현대자동차) 연구원",
+      "group": "",
+      "bio": "",
+      "bioEng": "",
+      "interests": [],
+      "avatarColor": "#0284C7",
+      "imageUrl": "",
+      "education": [],
+      "experience": [],
+      "awards": [],
+      "patents": [],
+      "publicationsList": [],
+      "customSections": [
+        {
+          "heading": "Career",
+          "items": [
+            "기업 (현대자동차) 연구원"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "alumni-member",
+      "name": "강민석",
+      "nameEng": "Minseok Kang",
+      "role": "Alumni",
+      "title": "석사(2022)",
+      "titleEng": "M.S. Alumnus (2022)",
+      "email": "",
+      "phone": "",
+      "office": "대학 (KAIST) 박사과정",
+      "group": "",
+      "bio": "",
+      "bioEng": "",
+      "interests": [],
+      "avatarColor": "#0284C7",
+      "imageUrl": "",
+      "education": [],
+      "experience": [],
+      "awards": [],
+      "patents": [],
+      "publicationsList": [],
+      "customSections": [
+        {
+          "heading": "Career",
+          "items": [
+            "대학 (KAIST) 연구원"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "alumni-member",
+      "name": "고혁진",
+      "nameEng": "Hyukjin Koh",
+      "role": "Alumni",
+      "title": "석사(2022)",
+      "titleEng": "M.S. Alumnus (2022)",
+      "email": "",
+      "phone": "",
+      "office": "대학 (KAIST) 박사과정",
+      "group": "",
+      "bio": "",
+      "bioEng": "",
+      "interests": [],
+      "avatarColor": "#0284C7",
+      "imageUrl": "",
+      "education": [],
+      "experience": [],
+      "awards": [],
+      "patents": [],
+      "publicationsList": [],
+      "customSections": [
+        {
+          "heading": "Career",
+          "items": [
+            "대학 (KAIST) 박사과정"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "alumni-member",
+      "name": "김성용",
+      "nameEng": "Sungyong Kim",
+      "role": "Alumni",
+      "title": "석사(2023)",
+      "titleEng": "M.S. Alumnus (2023)",
+      "email": "",
+      "phone": "",
+      "office": "기업 (LG전자) 연구원",
+      "group": "",
+      "bio": "",
+      "bioEng": "",
+      "interests": [],
+      "avatarColor": "#0284C7",
+      "imageUrl": "",
+      "education": [],
+      "experience": [],
+      "awards": [],
+      "patents": [],
+      "publicationsList": [],
+      "customSections": [
+        {
+          "heading": "Career",
+          "items": [
+            "기업 (LG전자) 박사과정"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "alumni-member",
+      "name": "김정훈",
+      "nameEng": "Jeonghun Kim",
+      "role": "Alumni",
+      "title": "석사(2025)",
+      "titleEng": "M.S. Alumnus (2025)",
+      "email": "",
+      "phone": "",
+      "office": "대학 (KAIST) 박사과정",
+      "group": "",
+      "bio": "",
+      "bioEng": "",
+      "interests": [],
+      "avatarColor": "#0284C7",
+      "imageUrl": "",
+      "education": [],
+      "experience": [],
+      "awards": [],
+      "patents": [],
+      "publicationsList": [],
+      "customSections": [
+        {
+          "heading": "Career",
+          "items": [
+            "대학 (KAIST) 연구원"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "alumni-member",
+      "name": "조원영",
+      "nameEng": "Wonyeong Jo",
+      "role": "Alumni",
+      "title": "석사(2025)",
+      "titleEng": "M.S. Alumnus (2025)",
+      "email": "",
+      "phone": "",
+      "office": "기업 (한화에어로스페이스) 연구원",
+      "group": "",
+      "bio": "",
+      "bioEng": "",
+      "interests": [],
+      "avatarColor": "#0284C7",
+      "imageUrl": "",
+      "education": [],
+      "experience": [],
+      "awards": [],
+      "patents": [],
+      "publicationsList": [],
+      "customSections": [
+        {
+          "heading": "Career",
+          "items": [
+            "기업 (한화에어로스페이스) 박사과정"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "alumni-member",
+      "name": "김창영",
+      "nameEng": "Changyeong Kim",
+      "role": "Alumni",
+      "title": "석사(2025)",
+      "titleEng": "M.S. Alumnus (2025)",
+      "email": "",
+      "phone": "",
+      "office": "대학 (KAIST) 박사과정",
+      "group": "",
+      "bio": "",
+      "bioEng": "",
+      "interests": [],
+      "avatarColor": "#0284C7",
+      "imageUrl": "",
+      "education": [],
+      "experience": [],
+      "awards": [],
+      "patents": [],
+      "publicationsList": [],
+      "customSections": [
+        {
+          "heading": "Career",
+          "items": [
+            "대학 (KAIST) 연구원"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "alumni-member",
+      "name": "박상훈",
+      "nameEng": "Sanghoon Park",
+      "role": "Alumni",
+      "title": "석사(2026)",
+      "titleEng": "M.S. Alumnus (2026)",
+      "email": "",
+      "phone": "",
+      "office": "대학 (KAIST) 박사과정",
+      "group": "",
+      "bio": "",
+      "bioEng": "",
+      "interests": [],
+      "avatarColor": "#0284C7",
+      "imageUrl": "",
+      "education": [],
+      "experience": [],
+      "awards": [],
+      "patents": [],
+      "publicationsList": [],
+      "customSections": [
+        {
+          "heading": "Career",
+          "items": [
+            "대학 (KAIST) 박사과정"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "alumni-member",
+      "name": "권순열",
+      "nameEng": "Sunyeol Gwon",
+      "role": "Alumni",
+      "title": "석사(2026)",
+      "titleEng": "M.S. Alumnus (2026)",
+      "email": "",
+      "phone": "",
+      "office": "대학 (KAIST) 박사과정",
+      "group": "",
+      "bio": "",
+      "bioEng": "",
+      "interests": [],
+      "avatarColor": "#0284C7",
+      "imageUrl": "",
+      "education": [],
+      "experience": [],
+      "awards": [],
+      "patents": [],
+      "publicationsList": [],
+      "customSections": [
+        {
+          "heading": "Career",
+          "items": [
+            "대학 (KAIST) 박사과정"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "alumni-member",
+      "name": "이환규",
+      "nameEng": "Hwankyu Lee",
+      "role": "Alumni",
+      "title": "석사(2026)",
+      "titleEng": "M.S. Alumnus (2026)",
+      "email": "",
+      "phone": "",
+      "office": "기업 (한국철도공사) 연구원",
+      "group": "",
+      "bio": "",
+      "bioEng": "",
+      "interests": [],
+      "avatarColor": "#0284C7",
+      "imageUrl": "",
+      "education": [],
+      "experience": [],
+      "awards": [],
+      "patents": [],
+      "publicationsList": [],
+      "customSections": [
+        {
+          "heading": "Career",
+          "items": [
+            "기업 (한국철도공사) 박사과정"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "staff-soo-jung-noh",
+      "name": "노수정",
+      "nameEng": "Soo Jung Noh",
+      "role": "Staff",
+      "title": "Staff",
+      "titleEng": "Staff",
+      "email": "nsj09@kaist.ac.kr",
+      "phone": "+82-42-350-1296 (Office)",
+      "office": "",
+      "group": "",
+      "bio": "",
+      "bioEng": "",
+      "interests": [],
+      "avatarColor": "#4B5563",
+      "imageUrl": "contents/generated/b8bd947c0bbbc40fc539c37c.jpg",
+      "education": [],
+      "experience": [],
+      "awards": [],
+      "patents": [],
+      "publicationsList": [],
+      "customSections": []
+    },
+    {
+      "id": "member-1785210815509",
+      "name": "이순용",
+      "nameEng": "Soonyong Lee",
+      "role": "Student",
+      "degreeType": "Master",
+      "title": "M.S. Candidate",
+      "titleEng": "M.S. Candidate",
+      "email": "ls.yong@kaist.ac.kr",
+      "phone": "+82-42-350-1282 (Office)",
+      "office": "",
+      "group": "TBD",
+      "bio": "",
+      "bioEng": "",
+      "interests": [],
+      "avatarColor": "#2563eb",
+      "imageUrl": "contents/generated/c8a7418b953373e3322bafe7.jpg",
+      "education": [],
+      "experience": [],
+      "awards": [],
+      "patents": [],
+      "publicationsList": [],
+      "customSections": [
+        {
+          "heading": "Education",
+          "icon": "education",
+          "items": [
+            "<p>B.S.: Korea University of Technology and Education, Mechanical Engineering</p>"
+          ]
+        }
+      ]
+    }
+  ]
+}

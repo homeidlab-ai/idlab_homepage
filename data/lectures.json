@@ -1,0 +1,20 @@
+{
+  "lectures": [
+    {
+      "id": "lecture-1",
+      "code": "MO 50181",
+      "title": "Computational Analysis and Design for Mobility Systems",
+      "semester": "Spring semester",
+      "description": "Computational Analysis and Design for Mobility Systems",
+      "syllabus": []
+    },
+    {
+      "id": "lecture-2",
+      "code": "MO 640",
+      "title": "Green Railway System Engineering",
+      "semester": "Fall semester",
+      "description": "Green Railway System Engineering",
+      "syllabus": []
+    }
+  ]
+}

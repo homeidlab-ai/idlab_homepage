@@ -1,0 +1,454 @@
+{
+  "projects": [
+    {
+      "id": "project-ongoing-1",
+      "title": "생성AI 선도 인재 양성 사업 (IITP)",
+      "subTitle": "생성AI 선도 인재 양성 사업 (IITP)",
+      "category": "Ongoing",
+      "year": 2026,
+      "duration": "2026 ~ 2029",
+      "description": "생성AI 선도 인재 양성 사업 (IITP)",
+      "detailedDesc": "생성AI 선도 인재 양성 사업 (IITP)",
+      "tags": [
+        "Ongoing"
+      ],
+      "graphicTheme": "from-blue-950 to-indigo-900",
+      "clientOrVenue": "2026 ~ 2029"
+    },
+    {
+      "id": "project-ongoing-2",
+      "title": "위상최적설계 기반의 확산 모델을 활용한 대규모 3차원 골격계 영상 고해상화 방법 개발 (NRF)",
+      "subTitle": "위상최적설계 기반의 확산 모델을 활용한 대규모 3차원 골격계 영상 고해상화 방법 개발 (NRF)",
+      "category": "Ongoing",
+      "year": 2026,
+      "duration": "2026 ~ 2030",
+      "description": "위상최적설계 기반의 확산 모델을 활용한 대규모 3차원 골격계 영상 고해상화 방법 개발 (NRF)",
+      "detailedDesc": "위상최적설계 기반의 확산 모델을 활용한 대규모 3차원 골격계 영상 고해상화 방법 개발 (NRF)",
+      "tags": [
+        "Ongoing"
+      ],
+      "graphicTheme": "from-blue-950 to-indigo-900",
+      "clientOrVenue": "2026 ~ 2030"
+    },
+    {
+      "id": "project-ongoing-3",
+      "title": "AI 기반 지능형 설계-제조 통합 연구단 (InnoCORE)",
+      "subTitle": "AI 기반 지능형 설계-제조 통합 연구단 (InnoCORE)",
+      "category": "Ongoing",
+      "year": 2025,
+      "duration": "2025 ~ 2029",
+      "description": "AI 기반 지능형 설계-제조 통합 연구단 (InnoCORE)",
+      "detailedDesc": "AI 기반 지능형 설계-제조 통합 연구단 (InnoCORE)",
+      "tags": [
+        "Ongoing"
+      ],
+      "graphicTheme": "from-blue-950 to-indigo-900",
+      "clientOrVenue": "2025 ~ 2029"
+    },
+    {
+      "id": "project-ongoing-4",
+      "title": "자율주행 Lv.4/4+ 기반 도시환경관리 서비스 기술 개발 (KAIA)",
+      "subTitle": "자율주행 Lv.4/4+ 기반 도시환경관리 서비스 기술 개발 (KAIA)",
+      "category": "Ongoing",
+      "year": 2023,
+      "duration": "2023 ~ 2027",
+      "description": "자율주행 Lv.4/4+ 기반 도시환경관리 서비스 기술 개발 (KAIA)",
+      "detailedDesc": "자율주행 Lv.4/4+ 기반 도시환경관리 서비스 기술 개발 (KAIA)",
+      "tags": [
+        "Ongoing"
+      ],
+      "graphicTheme": "from-blue-950 to-indigo-900",
+      "clientOrVenue": "2023 ~ 2027"
+    },
+    {
+      "id": "project-ongoing-5",
+      "title": "국토교통 DNA플러스 도로교통분야 융합기술대학원 (KAIA)",
+      "subTitle": "국토교통 DNA플러스 도로교통분야 융합기술대학원 (KAIA)",
+      "category": "Ongoing",
+      "year": 2022,
+      "duration": "2022 ~ 2027",
+      "description": "국토교통 DNA플러스 도로교통분야 융합기술대학원 (KAIA)",
+      "detailedDesc": "국토교통 DNA플러스 도로교통분야 융합기술대학원 (KAIA)",
+      "tags": [
+        "Ongoing"
+      ],
+      "graphicTheme": "from-blue-950 to-indigo-900",
+      "clientOrVenue": "2022 ~ 2027"
+    },
+    {
+      "id": "project-completed-1",
+      "title": "대표 정적 하중 기반의 위상최적설계를 활용한 개인 맞춤형 골강도 변화 예측 방법론 개발 (NRF)",
+      "subTitle": "대표 정적 하중 기반의 위상최적설계를 활용한 개인 맞춤형 골강도 변화 예측 방법론 개발 (NRF)",
+      "category": "Completed",
+      "year": 2021,
+      "duration": "2021 ~ 2024",
+      "description": "대표 정적 하중 기반의 위상최적설계를 활용한 개인 맞춤형 골강도 변화 예측 방법론 개발 (NRF)",
+      "detailedDesc": "대표 정적 하중 기반의 위상최적설계를 활용한 개인 맞춤형 골강도 변화 예측 방법론 개발 (NRF)",
+      "tags": [
+        "Completed"
+      ],
+      "graphicTheme": "from-slate-900 to-zinc-900",
+      "clientOrVenue": "2021 ~ 2024"
+    },
+    {
+      "id": "project-completed-2",
+      "title": "로봇향 3.3kW급 군집 무선충전 핵심기술 개발 (IITP)",
+      "subTitle": "로봇향 3.3kW급 군집 무선충전 핵심기술 개발 (IITP)",
+      "category": "Completed",
+      "year": 2022,
+      "duration": "2022 ~ 2025",
+      "description": "로봇향 3.3kW급 군집 무선충전 핵심기술 개발 (IITP)",
+      "detailedDesc": "로봇향 3.3kW급 군집 무선충전 핵심기술 개발 (IITP)",
+      "tags": [
+        "Completed"
+      ],
+      "graphicTheme": "from-slate-900 to-zinc-900",
+      "clientOrVenue": "2022 ~ 2025"
+    },
+    {
+      "id": "project-completed-3",
+      "title": "클라우드 엣지 기반 도시교통 브레인 핵심기술 개발 (IITP)",
+      "subTitle": "클라우드 엣지 기반 도시교통 브레인 핵심기술 개발 (IITP)",
+      "category": "Completed",
+      "year": 2020,
+      "duration": "2020 ~ 2023",
+      "description": "클라우드 엣지 기반 도시교통 브레인 핵심기술 개발 (IITP)",
+      "detailedDesc": "클라우드 엣지 기반 도시교통 브레인 핵심기술 개발 (IITP)",
+      "tags": [
+        "Completed"
+      ],
+      "graphicTheme": "from-slate-900 to-zinc-900",
+      "clientOrVenue": "2020 ~ 2023"
+    },
+    {
+      "id": "project-completed-4",
+      "title": "저탄소 청정 제주(CFI Jeju)를 위한 냉장 전기차량 기반 신선물류 배송체계 구축 기술 개발 (KAIA)",
+      "subTitle": "저탄소 청정 제주(CFI Jeju)를 위한 냉장 전기차량 기반 신선물류 배송체계 구축 기술 개발 (KAIA)",
+      "category": "Completed",
+      "year": 2022,
+      "duration": "2022 ~ 2023",
+      "description": "저탄소 청정 제주(CFI Jeju)를 위한 냉장 전기차량 기반 신선물류 배송체계 구축 기술 개발 (KAIA)",
+      "detailedDesc": "저탄소 청정 제주(CFI Jeju)를 위한 냉장 전기차량 기반 신선물류 배송체계 구축 기술 개발 (KAIA)",
+      "tags": [
+        "Completed"
+      ],
+      "graphicTheme": "from-slate-900 to-zinc-900",
+      "clientOrVenue": "2022 ~ 2023"
+    },
+    {
+      "id": "project-completed-5",
+      "title": "택배차량용 디젤 트럭의 하이브리드 개조기술 개발 및 실용화 연구",
+      "subTitle": "택배차량용 디젤 트럭의 하이브리드 개조기술 개발 및 실용화 연구",
+      "category": "Completed",
+      "year": 2017,
+      "duration": "2017 ~ 2020",
+      "description": "택배차량용 디젤 트럭의 하이브리드 개조기술 개발 및 실용화 연구",
+      "detailedDesc": "택배차량용 디젤 트럭의 하이브리드 개조기술 개발 및 실용화 연구",
+      "tags": [
+        "Completed"
+      ],
+      "graphicTheme": "from-slate-900 to-zinc-900",
+      "clientOrVenue": "2017 ~ 2020"
+    },
+    {
+      "id": "project-completed-6",
+      "title": "초연결(ultra-connected) 스마트 도시를 위한 수요 대응형 신교통수단 연구",
+      "subTitle": "초연결(ultra-connected) 스마트 도시를 위한 수요 대응형 신교통수단 연구",
+      "category": "Completed",
+      "year": 2019,
+      "duration": "2019 ~ 2020",
+      "description": "초연결(ultra-connected) 스마트 도시를 위한 수요 대응형 신교통수단 연구",
+      "detailedDesc": "초연결(ultra-connected) 스마트 도시를 위한 수요 대응형 신교통수단 연구",
+      "tags": [
+        "Completed"
+      ],
+      "graphicTheme": "from-slate-900 to-zinc-900",
+      "clientOrVenue": "2019 ~ 2020"
+    },
+    {
+      "id": "project-completed-7",
+      "title": "V2X 통신 인프라를 활용한 네트워크 신호운영 알고리즘 개발 및 성능 검증",
+      "subTitle": "V2X 통신 인프라를 활용한 네트워크 신호운영 알고리즘 개발 및 성능 검증",
+      "category": "Completed",
+      "year": 2018,
+      "duration": "2018 ~ 2019",
+      "description": "V2X 통신 인프라를 활용한 네트워크 신호운영 알고리즘 개발 및 성능 검증",
+      "detailedDesc": "V2X 통신 인프라를 활용한 네트워크 신호운영 알고리즘 개발 및 성능 검증",
+      "tags": [
+        "Completed"
+      ],
+      "graphicTheme": "from-slate-900 to-zinc-900",
+      "clientOrVenue": "2018 ~ 2019"
+    },
+    {
+      "id": "project-completed-8",
+      "title": "커패시턴스 최적화를 통해 충전기기의 위치변화에 따른 효율 감소를 실시간으로 보상하는 자기공진형 다중 무선전력시스템 개발",
+      "subTitle": "커패시턴스 최적화를 통해 충전기기의 위치변화에 따른 효율 감소를 실시간으로 보상하는 자기공진형 다중 무선전력시스템 개발",
+      "category": "Completed",
+      "year": 2018,
+      "duration": "2018",
+      "description": "커패시턴스 최적화를 통해 충전기기의 위치변화에 따른 효율 감소를 실시간으로 보상하는 자기공진형 다중 무선전력시스템 개발",
+      "detailedDesc": "커패시턴스 최적화를 통해 충전기기의 위치변화에 따른 효율 감소를 실시간으로 보상하는 자기공진형 다중 무선전력시스템 개발",
+      "tags": [
+        "Completed"
+      ],
+      "graphicTheme": "from-slate-900 to-zinc-900",
+      "clientOrVenue": "2018"
+    },
+    {
+      "id": "project-completed-9",
+      "title": "환자 맞춤형 골재형성 전산모사의 계산 효율 향상 위한 시간 의존적인 하중 정보의 정적 표현 방법 개발",
+      "subTitle": "환자 맞춤형 골재형성 전산모사의 계산 효율 향상 위한 시간 의존적인 하중 정보의 정적 표현 방법 개발",
+      "category": "Completed",
+      "year": 2018,
+      "duration": "2018",
+      "description": "환자 맞춤형 골재형성 전산모사의 계산 효율 향상 위한 시간 의존적인 하중 정보의 정적 표현 방법 개발",
+      "detailedDesc": "환자 맞춤형 골재형성 전산모사의 계산 효율 향상 위한 시간 의존적인 하중 정보의 정적 표현 방법 개발",
+      "tags": [
+        "Completed"
+      ],
+      "graphicTheme": "from-slate-900 to-zinc-900",
+      "clientOrVenue": "2018"
+    },
+    {
+      "id": "project-completed-10",
+      "title": "도심 택배에 최적화된 저비용/고효율/친환경 하이브리드 디젤-전기 트럭 개발",
+      "subTitle": "도심 택배에 최적화된 저비용/고효율/친환경 하이브리드 디젤-전기 트럭 개발",
+      "category": "Completed",
+      "year": 2016,
+      "duration": "2016 ~ 2017",
+      "description": "도심 택배에 최적화된 저비용/고효율/친환경 하이브리드 디젤-전기 트럭 개발",
+      "detailedDesc": "도심 택배에 최적화된 저비용/고효율/친환경 하이브리드 디젤-전기 트럭 개발",
+      "tags": [
+        "Completed"
+      ],
+      "graphicTheme": "from-slate-900 to-zinc-900",
+      "clientOrVenue": "2016 ~ 2017"
+    },
+    {
+      "id": "project-completed-11",
+      "title": "트레일러 경량화를 위한 구조 최적화 기술 개발",
+      "subTitle": "트레일러 경량화를 위한 구조 최적화 기술 개발",
+      "category": "Completed",
+      "year": 2015,
+      "duration": "2015 ~ 2016",
+      "description": "트레일러 경량화를 위한 구조 최적화 기술 개발",
+      "detailedDesc": "트레일러 경량화를 위한 구조 최적화 기술 개발",
+      "tags": [
+        "Completed"
+      ],
+      "graphicTheme": "from-slate-900 to-zinc-900",
+      "clientOrVenue": "2015 ~ 2016"
+    },
+    {
+      "id": "project-completed-12",
+      "title": "Eco-operation of traffic flows by enhancing efficiency of urban transport network",
+      "subTitle": "Eco-operation of traffic flows by enhancing efficiency of urban transport network",
+      "category": "Completed",
+      "year": 2016,
+      "duration": "2016 ~ 2017",
+      "description": "Eco-operation of traffic flows by enhancing efficiency of urban transport network",
+      "detailedDesc": "Eco-operation of traffic flows by enhancing efficiency of urban transport network",
+      "tags": [
+        "Completed"
+      ],
+      "graphicTheme": "from-slate-900 to-zinc-900",
+      "clientOrVenue": "2016 ~ 2017"
+    },
+    {
+      "id": "project-completed-13",
+      "title": "계산 효율성과 정확성이 향상된 골격계 영상 고해상화 기술 개발 및 검증",
+      "subTitle": "계산 효율성과 정확성이 향상된 골격계 영상 고해상화 기술 개발 및 검증",
+      "category": "Completed",
+      "year": 2017,
+      "duration": "2017",
+      "description": "계산 효율성과 정확성이 향상된 골격계 영상 고해상화 기술 개발 및 검증",
+      "detailedDesc": "계산 효율성과 정확성이 향상된 골격계 영상 고해상화 기술 개발 및 검증",
+      "tags": [
+        "Completed"
+      ],
+      "graphicTheme": "from-slate-900 to-zinc-900",
+      "clientOrVenue": "2017"
+    },
+    {
+      "id": "project-completed-14",
+      "title": "위상최적설계 기반의 인체 골격계 영상 고해상화",
+      "subTitle": "위상최적설계 기반의 인체 골격계 영상 고해상화",
+      "category": "Completed",
+      "year": 2016,
+      "duration": "2016 ~ 2018",
+      "description": "위상최적설계 기반의 인체 골격계 영상 고해상화",
+      "detailedDesc": "위상최적설계 기반의 인체 골격계 영상 고해상화",
+      "tags": [
+        "Completed"
+      ],
+      "graphicTheme": "from-slate-900 to-zinc-900",
+      "clientOrVenue": "2016 ~ 2018"
+    },
+    {
+      "id": "project-completed-15",
+      "title": "골다공증 조기진단을 위한 해면골의 겉보기 탄성계수 추정",
+      "subTitle": "골다공증 조기진단을 위한 해면골의 겉보기 탄성계수 추정",
+      "category": "Completed",
+      "year": 2014,
+      "duration": "2014",
+      "description": "골다공증 조기진단을 위한 해면골의 겉보기 탄성계수 추정",
+      "detailedDesc": "골다공증 조기진단을 위한 해면골의 겉보기 탄성계수 추정",
+      "tags": [
+        "Completed"
+      ],
+      "graphicTheme": "from-slate-900 to-zinc-900",
+      "clientOrVenue": "2014"
+    },
+    {
+      "id": "project-completed-16",
+      "title": "설계공간 최적화와 다중 스케일 기반의 현상학적 퇴행성골 재형성 전산모사 방법론 개발 및 적용",
+      "subTitle": "설계공간 최적화와 다중 스케일 기반의 현상학적 퇴행성골 재형성 전산모사 방법론 개발 및 적용",
+      "category": "Completed",
+      "year": 2014,
+      "duration": "2014 ~ 2015",
+      "description": "설계공간 최적화와 다중 스케일 기반의 현상학적 퇴행성골 재형성 전산모사 방법론 개발 및 적용",
+      "detailedDesc": "설계공간 최적화와 다중 스케일 기반의 현상학적 퇴행성골 재형성 전산모사 방법론 개발 및 적용",
+      "tags": [
+        "Completed"
+      ],
+      "graphicTheme": "from-slate-900 to-zinc-900",
+      "clientOrVenue": "2014 ~ 2015"
+    },
+    {
+      "id": "project-completed-17",
+      "title": "스타일드 스틸휠 개발을 위한 위상 최적 설계",
+      "subTitle": "스타일드 스틸휠 개발을 위한 위상 최적 설계",
+      "category": "Completed",
+      "year": 2014,
+      "duration": "2014",
+      "description": "스타일드 스틸휠 개발을 위한 위상 최적 설계",
+      "detailedDesc": "스타일드 스틸휠 개발을 위한 위상 최적 설계",
+      "tags": [
+        "Completed"
+      ],
+      "graphicTheme": "from-slate-900 to-zinc-900",
+      "clientOrVenue": "2014"
+    },
+    {
+      "id": "project-completed-18",
+      "title": "Reconfigurable Exoskeleton for Wrist-Ankle Rehabilitation with Motion Intention Based Control",
+      "subTitle": "Reconfigurable Exoskeleton for Wrist-Ankle Rehabilitation with Motion Intention Based Control",
+      "category": "Completed",
+      "year": 2013,
+      "duration": "2013",
+      "description": "Reconfigurable Exoskeleton for Wrist-Ankle Rehabilitation with Motion Intention Based Control",
+      "detailedDesc": "Reconfigurable Exoskeleton for Wrist-Ankle Rehabilitation with Motion Intention Based Control",
+      "tags": [
+        "Completed"
+      ],
+      "graphicTheme": "from-slate-900 to-zinc-900",
+      "clientOrVenue": "2013"
+    },
+    {
+      "id": "project-completed-19",
+      "title": "컨테이너 화물 고정/고박 시뮬레이션 프로그램 개발",
+      "subTitle": "컨테이너 화물 고정/고박 시뮬레이션 프로그램 개발",
+      "category": "Completed",
+      "year": 2013,
+      "duration": "2013 ~ 2014",
+      "description": "컨테이너 화물 고정/고박 시뮬레이션 프로그램 개발",
+      "detailedDesc": "컨테이너 화물 고정/고박 시뮬레이션 프로그램 개발",
+      "tags": [
+        "Completed"
+      ],
+      "graphicTheme": "from-slate-900 to-zinc-900",
+      "clientOrVenue": "2013 ~ 2014"
+    },
+    {
+      "id": "project-completed-20",
+      "title": "코일선적 자동화 요소 기술 개발",
+      "subTitle": "코일선적 자동화 요소 기술 개발",
+      "category": "Completed",
+      "year": 2013,
+      "duration": "2013 ~ 2014",
+      "description": "코일선적 자동화 요소 기술 개발",
+      "detailedDesc": "코일선적 자동화 요소 기술 개발",
+      "tags": [
+        "Completed"
+      ],
+      "graphicTheme": "from-slate-900 to-zinc-900",
+      "clientOrVenue": "2013 ~ 2014"
+    },
+    {
+      "id": "project-completed-21",
+      "title": "철도적용 무선급전시스템의 효율화 방안 연구",
+      "subTitle": "철도적용 무선급전시스템의 효율화 방안 연구",
+      "category": "Completed",
+      "year": 2013,
+      "duration": "2013",
+      "description": "철도적용 무선급전시스템의 효율화 방안 연구",
+      "detailedDesc": "철도적용 무선급전시스템의 효율화 방안 연구",
+      "tags": [
+        "Completed"
+      ],
+      "graphicTheme": "from-slate-900 to-zinc-900",
+      "clientOrVenue": "2013"
+    },
+    {
+      "id": "project-completed-22",
+      "title": "급전선로 부품 보완/최적화 및 조립/시공 문제점 해결 기술 개발",
+      "subTitle": "급전선로 부품 보완/최적화 및 조립/시공 문제점 해결 기술 개발",
+      "category": "Completed",
+      "year": 2011,
+      "duration": "2011 ~ 2012",
+      "description": "급전선로 부품 보완/최적화 및 조립/시공 문제점 해결 기술 개발",
+      "detailedDesc": "급전선로 부품 보완/최적화 및 조립/시공 문제점 해결 기술 개발",
+      "tags": [
+        "Completed"
+      ],
+      "graphicTheme": "from-slate-900 to-zinc-900",
+      "clientOrVenue": "2011 ~ 2012"
+    },
+    {
+      "id": "project-completed-23",
+      "title": "Coil lifter의 동역학 모델링 및 해석",
+      "subTitle": "Coil lifter의 동역학 모델링 및 해석",
+      "category": "Completed",
+      "year": 2011,
+      "duration": "2011",
+      "description": "Coil lifter의 동역학 모델링 및 해석",
+      "detailedDesc": "Coil lifter의 동역학 모델링 및 해석",
+      "tags": [
+        "Completed"
+      ],
+      "graphicTheme": "from-slate-900 to-zinc-900",
+      "clientOrVenue": "2011"
+    },
+    {
+      "id": "project-completed-24",
+      "title": "고속철도시스템에서의 친환경성 향상을 위한 최적의 설계안 및 운영 방안 연구",
+      "subTitle": "고속철도시스템에서의 친환경성 향상을 위한 최적의 설계안 및 운영 방안 연구",
+      "category": "Completed",
+      "year": 2011,
+      "duration": "2011 ~ 2013",
+      "description": "고속철도시스템에서의 친환경성 향상을 위한 최적의 설계안 및 운영 방안 연구",
+      "detailedDesc": "고속철도시스템에서의 친환경성 향상을 위한 최적의 설계안 및 운영 방안 연구",
+      "tags": [
+        "Completed"
+      ],
+      "graphicTheme": "from-slate-900 to-zinc-900",
+      "clientOrVenue": "2011 ~ 2013"
+    },
+    {
+      "id": "project-completed-25",
+      "title": "MH 하역 시스템의 요소설계 및 구조해석을 통한 검증",
+      "subTitle": "MH 하역 시스템의 요소설계 및 구조해석을 통한 검증",
+      "category": "Completed",
+      "year": 2009,
+      "duration": "2009",
+      "description": "MH 하역 시스템의 요소설계 및 구조해석을 통한 검증",
+      "detailedDesc": "MH 하역 시스템의 요소설계 및 구조해석을 통한 검증",
+      "tags": [
+        "Completed"
+      ],
+      "graphicTheme": "from-slate-900 to-zinc-900",
+      "clientOrVenue": "2009"
+    }
+  ]
+}

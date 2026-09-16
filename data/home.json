@@ -1,15 +1,4 @@
 {
-  "labLogo": "contents/generated/bc7d81db20f98a127b60d36b.png",
-  "labLogoScale": 80,
-  "pageScale": 100,
-  "footerData": {
-    "logo": "contents/generated/4f5e504391b0e75ec9473ccb.png",
-    "logoScale": 80,
-    "addr1": "Cho Chun Shik Graduate School of Mobility",
-    "addr2": "Korea Advanced Institute of Science and Technology (KAIST)",
-    "addr3": "F317, 193, Munji-ro, Yuseong-gu, Daejeon, Republic of Korea",
-    "copyright": "© 2026 KAIST Innovative Design for Mobility Systems Laboratory. All rights reserved. Made by Sunyeol Gwon."
-  },
   "heroText": {
     "title": "<p><img src=\"contents/generated/e53a5eb244165e8a3258a1f7.png\" alt=\"\" style=\"width: 14px; max-width: none; height: 56px; display: inline-block; position: relative; left: -2px; top: -10px; vertical-align: middle; margin-left: 0px; margin-right: 0px; object-fit: contain;\" data-import-width=\"96\" data-single-width=\"14\">nnovative  <img src=\"contents/generated/413a433acfefa2488d4ef99f.png\" alt=\"\" style=\"width: 39px; max-width: none; height: 56px; display: inline-block; position: relative; left: -2px; top: -8px; vertical-align: middle; margin-left: 0px; margin-right: 0px; object-fit: fill;\" data-import-width=\"96\" data-single-width=\"39\">esign  LAB</p>",
     "slogan1": "A multidisciplinary research lab integrating optimization and deep learning for innovative design.",
@@ -40,14 +29,6 @@
   ],
   "homePubsTitle": "Publication",
   "homePubsSub": "Announcement of ID LAB publications",
-  "subtitles": {
-    "research": "Overview of ID LAB research areas and projects",
-    "projects": "ID LAB Structural Design and Analysis Projects",
-    "members": "KAIST Innovative Mobility Systems Laboratory Members",
-    "lectures": "KAIST Cho Chun Shik Mobility Lecture Curriculum",
-    "publications": "Announcement of ID LAB publications",
-    "board": "Announcement of ID LAB activities"
-  },
   "notices": [
     {
       "id": "post-1788237898976",
