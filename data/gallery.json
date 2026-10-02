@@ -1,6 +1,21 @@
 {
   "boardPosts": [
     {
+      "id": "post-1790914974078",
+      "date": "2026.10.02",
+      "title": "2026 가을학기 개강행사",
+      "author": "",
+      "content": "",
+      "category": "Gallery",
+      "imageUrl": "contents/generated/146852f57c5356d76a6fc737.jpg",
+      "images": [
+        "contents/generated/146852f57c5356d76a6fc737.jpg",
+        "contents/generated/829cb35bdf823678e4cd6d4f.jpg",
+        "contents/generated/1cc0bb8bf516a0827a3e6f8e.jpg",
+        "contents/generated/51342844f403b0c5522e4f93.jpg"
+      ]
+    },
+    {
       "id": "post-1789470986112",
       "date": "2026.09.15",
       "title": "👋조원영 졸업생 방문👋",
