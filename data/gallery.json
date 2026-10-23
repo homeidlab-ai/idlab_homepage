@@ -1,6 +1,30 @@
 {
   "boardPosts": [
     {
+      "id": "post-1792740354548",
+      "date": "2026.10.23",
+      "title": "🎂박상훈 학생 생일🎂",
+      "author": "",
+      "content": "",
+      "category": "Gallery",
+      "imageUrl": "contents/generated/b0b36c106863c794d99e5019.jpg",
+      "images": [
+        "contents/generated/b0b36c106863c794d99e5019.jpg"
+      ]
+    },
+    {
+      "id": "post-1792740301692",
+      "date": "2026.10.02",
+      "title": "🎂김정훈 학생 생일🎂",
+      "author": "",
+      "content": "",
+      "category": "Gallery",
+      "imageUrl": "contents/generated/7f602b6ba3d321c90517e357.jpg",
+      "images": [
+        "contents/generated/7f602b6ba3d321c90517e357.jpg"
+      ]
+    },
+    {
       "id": "post-1790914974078",
       "date": "2026.10.02",
       "title": "2026 가을학기 개강행사",
