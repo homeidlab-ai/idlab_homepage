@@ -1,6 +1,16 @@
 {
   "boardPosts": [
     {
+      "id": "post-1792741877653",
+      "date": "2026.10.23",
+      "title": "test",
+      "author": "",
+      "content": "",
+      "category": "Notice",
+      "imageUrl": "",
+      "images": []
+    },
+    {
       "id": "post-1788237898976",
       "date": "2026.09.01",
       "title": "2026년 이공분야 학술연구지원사업(박사과정생연구장려금지원) 선정, 김정훈",
