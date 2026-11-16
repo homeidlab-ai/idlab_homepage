@@ -269,7 +269,8 @@
           "items": [
             "M.S.: KAIST, Graduate School of Mobility",
             "B.S.: GIST, Mechanical Engineering"
-          ]
+          ],
+          "icon": "education"
         },
         {
           "heading": "International Journal",
@@ -278,7 +279,8 @@
             "[2] H. Koh, B. J. Chun, Y. H. Lee, I. G. Jang, \"Patchwise reconstruction of 3D trabecular bone using topology optimization-driven deep learning\", Under review.",
             "[3] B. J. Chun, S. M. Sin, H. Koh, J. J. Kim, I. G. Jang, \"Patchwise Trabecular Bone Reconstruction of a 2D Proximal Femur Using Deep Learning and Seamless Quilting Algorithm\", IRBM, vol. 46, no. 3, p. 100889, 2025. (JCR 2023 IF=5.6, Top 17.5%)",
             "[4] H. Koh, B. J. Chun, I. G. Jang, \"Node-link representation-based deep learning method for reconstructing trabecular bone from low-resolution images\", Expert Systems with Applications, vol. 268, p. 126299, 2025. (JCR 2023 IF=7.5, Top 5.2%)"
-          ]
+          ],
+          "icon": "journal"
         },
         {
           "heading": "International Conference",
@@ -286,16 +288,15 @@
             "[1] H. Koh, B. J. Chun, I. G. Jang, \"Topology optimization-driven deep learning and seamless quilting for patchwise trabecular bone reconstruction\", World Congress of Structural and Multidisciplinary Optimization (WCSMO), 2025.",
             "[2] B. J. Chun, H. Koh, I. G. Jang, \"Deep learning-based patchwise 3D bone microstructure reconstruction\", World Congress of Structural and Multidisciplinary Optimization (WCSMO), 2023.",
             "[3] H. Koh, I. G. Jang, \"Bone microstructure reconstruction from low-resolution skeletal images using deep learning with node-link graph-based connectivity\", Asian Congress of Structural and Multidisciplinary Optimization (ACSMO), 2022."
-          ]
+          ],
+          "icon": "conference"
         },
         {
           "heading": "Domestic Conference",
           "items": [
-            "[1] 고혁진, 김창영, 장인권, \"데이터 기반 SKIP-STOP 도시 철도 급행 서비스 최적화: 서울 지하철 4호선의 사례\", 한국ITS학회 추계학술대회, 2023.",
-            "[2] 천봉주, 고혁진, 장인권, \"딥 러닝을 통한 3차원 골 미세구조의 패치 별 재구성\", 대한기계학회 학술대회, 2022.",
-            "[3] 고혁진, 장인권, \"노드-링크 그래프 기반 연결성을 고려하는 딥러닝을 이용한 골격계 영상의 골 미세구조 재구성\", 대한기계학회 CAE 및 응용역학 부문 춘계학술대회, 2022.",
-            "[4] 고혁진, 장인권, \"심층 신경망으로 재구성된 골 미세구조의 구조적 절단 문제를 개선하기 위한 노드-링크 그래프 기반 후처리 방법\", 대한기계학회 CAE 및 응용역학 부문 춘계학술대회, 2021."
-          ]
+            "<ul class=\"research-bullet-style-1\"><li>[1] 고혁진, 장인권, \"임상 QCT 영상에서 환자 맞춤형 고관절 하중 방향 추정\", 대한기계학회 학술대회, 2026.</li><li>[2] 고혁진, 김창영, 장인권, \"데이터 기반 SKIP-STOP 도시 철도 급행 서비스 최적화: 서울 지하철 4호선의 사례\", 한국ITS학회 추계학술대회, 2023.</li><li>[3] 천봉주, 고혁진, 장인권, \"딥 러닝을 통한 3차원 골 미세구조의 패치 별 재구성\", 대한기계학회 학술대회, 2022.</li><li>[4] 고혁진, 장인권, \"노드-링크 그래프 기반 연결성을 고려하는 딥러닝을 이용한 골격계 영상의 골 미세구조 재구성\", 대한기계학회 CAE 및 응용역학 부문 춘계학술대회, 2022.</li><li>[5] 고혁진, 장인권, \"심층 신경망으로 재구성된 골 미세구조의 구조적 절단 문제를 개선하기 위한 노드-링크 그래프 기반 후처리 방법\", 대한기계학회 CAE 및 응용역학 부문 춘계학술대회, 2021.</li></ul>"
+          ],
+          "icon": "conference"
         },
         {
           "heading": "Patent",
@@ -308,7 +309,8 @@
             "[6] I. G. Jang, H. Koh, B. J. Chun, \"Computer system for trabecular connectivity recovery of skeletal images reconstructed by artificial neural network through node-link graph-based bone microstructure representation, and method of the same\", US Patent, Patent number: 12175665, 2024.",
             "[7] I. G. Jang, H. Koh, B. J. Chun, \"Computer system for trabecular connectivity recovery of skeletal images reconstructed by artificial neural network through node-link graph-based bone microstructure representation, and method of the same\", PCT Patent, Application number: PCT/KR2021/018382, 2021.",
             "[8] I. G. Jang, H. Koh, B. J. Chun, \"Computer system for trabecular connectivity recovery of skeletal images reconstructed by artificial neural network through node-link graph-based bone microstructure representation, and method of the same\", KR Patent, Patent number: 10-2643198, 2024."
-          ]
+          ],
+          "icon": "patent"
         },
         {
           "heading": "Award",
@@ -318,7 +320,8 @@
             "[3] 천봉주, 고혁진, 장인권, 대한기계학회 2022년도 학술대회 우수논문상, 대한기계학회, 2023.",
             "[4] 고혁진, 장인권, 대한기계학회 CAE 및 응용역학부문 2022년 춘계학술대회 우수논문상, 대한기계학회, 2023.",
             "[5] 고혁진 (지도교수: 장인권), 대한기계학회 CAE 및 응용역학부문 2022년 춘계학술대회 학생경진대회 대상, 대한기계학회, 2022."
-          ]
+          ],
+          "icon": "award"
         },
         {
           "heading": "Teaching Experience",
@@ -328,7 +331,8 @@
             "[3] Teaching Assistant, 인공지능을 활용한 최적 설계: 이론 및 실습, 한국최적설계학회 2024학년도 하계 강습회, 2024.",
             "[4] Teaching Assistant, 인공지능과 설계: 해석 예측에서 설계 최적화까지, KAIST 산학협동 공개강좌, 2024.",
             "[5] Teaching Assistant, MO505, KAIST, 2022~2025."
-          ]
+          ],
+          "icon": "experience"
         }
       ]
     },
