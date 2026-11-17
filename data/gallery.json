@@ -1,38 +1,6 @@
 {
   "boardPosts": [
     {
-      "id": "post-1794803296844",
-      "date": "2026.11.12",
-      "title": "연구실 워크숍",
-      "author": "",
-      "content": "",
-      "category": "Gallery",
-      "imageUrl": "contents/generated/65b5ac729a9fe03357167fc9.jpg",
-      "images": [
-        "contents/generated/65b5ac729a9fe03357167fc9.jpg",
-        "contents/generated/7036140f878223517b893673.jpg",
-        "contents/generated/7f85656caf4a0812a56836a1.jpg",
-        "contents/generated/4baacce97e4a3a34212d1845.jpg",
-        "contents/generated/00982edb4323dc854d440bc3.jpg"
-      ]
-    },
-    {
-      "id": "post-1794793687071",
-      "date": "2026.11.11",
-      "title": "대한기계학회 2026",
-      "author": "",
-      "content": "",
-      "category": "Gallery",
-      "imageUrl": "contents/generated/5a8eee64178fc53c3b38d601.jpg",
-      "images": [
-        "contents/generated/5a8eee64178fc53c3b38d601.jpg",
-        "contents/generated/9bee66f76011690484b40660.jpg",
-        "contents/generated/d7ff4b9366ba747112eb8826.jpg",
-        "contents/generated/35d430fc230623497a1aac66.jpg",
-        "contents/generated/16cf674d28445114e685fd4b.jpg"
-      ]
-    },
-    {
       "id": "post-1792740354548",
       "date": "2026.10.23",
       "title": "🎂박상훈 학생 생일🎂",
@@ -1225,14 +1193,6 @@
     }
   ],
   "homeGalleryCovers": [
-    {
-      "postId": "post-1794803296844",
-      "imageUrl": "contents/generated/7f85656caf4a0812a56836a1.jpg"
-    },
-    {
-      "postId": "post-1794793687071",
-      "imageUrl": "contents/generated/5a8eee64178fc53c3b38d601.jpg"
-    },
     {
       "postId": "post-1790914974078",
       "imageUrl": "contents/generated/51342844f403b0c5522e4f93.jpg"

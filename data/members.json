@@ -269,8 +269,7 @@
           "items": [
             "M.S.: KAIST, Graduate School of Mobility",
             "B.S.: GIST, Mechanical Engineering"
-          ],
-          "icon": "education"
+          ]
         },
         {
           "heading": "International Journal",
@@ -279,8 +278,7 @@
             "[2] H. Koh, B. J. Chun, Y. H. Lee, I. G. Jang, \"Patchwise reconstruction of 3D trabecular bone using topology optimization-driven deep learning\", Under review.",
             "[3] B. J. Chun, S. M. Sin, H. Koh, J. J. Kim, I. G. Jang, \"Patchwise Trabecular Bone Reconstruction of a 2D Proximal Femur Using Deep Learning and Seamless Quilting Algorithm\", IRBM, vol. 46, no. 3, p. 100889, 2025. (JCR 2023 IF=5.6, Top 17.5%)",
             "[4] H. Koh, B. J. Chun, I. G. Jang, \"Node-link representation-based deep learning method for reconstructing trabecular bone from low-resolution images\", Expert Systems with Applications, vol. 268, p. 126299, 2025. (JCR 2023 IF=7.5, Top 5.2%)"
-          ],
-          "icon": "journal"
+          ]
         },
         {
           "heading": "International Conference",
@@ -288,15 +286,16 @@
             "[1] H. Koh, B. J. Chun, I. G. Jang, \"Topology optimization-driven deep learning and seamless quilting for patchwise trabecular bone reconstruction\", World Congress of Structural and Multidisciplinary Optimization (WCSMO), 2025.",
             "[2] B. J. Chun, H. Koh, I. G. Jang, \"Deep learning-based patchwise 3D bone microstructure reconstruction\", World Congress of Structural and Multidisciplinary Optimization (WCSMO), 2023.",
             "[3] H. Koh, I. G. Jang, \"Bone microstructure reconstruction from low-resolution skeletal images using deep learning with node-link graph-based connectivity\", Asian Congress of Structural and Multidisciplinary Optimization (ACSMO), 2022."
-          ],
-          "icon": "conference"
+          ]
         },
         {
           "heading": "Domestic Conference",
           "items": [
-            "<ul class=\"research-bullet-style-1\"><li>[1] 고혁진, 장인권, \"임상 QCT 영상에서 환자 맞춤형 고관절 하중 방향 추정\", 대한기계학회 학술대회, 2026.</li><li>[2] 고혁진, 김창영, 장인권, \"데이터 기반 SKIP-STOP 도시 철도 급행 서비스 최적화: 서울 지하철 4호선의 사례\", 한국ITS학회 추계학술대회, 2023.</li><li>[3] 천봉주, 고혁진, 장인권, \"딥 러닝을 통한 3차원 골 미세구조의 패치 별 재구성\", 대한기계학회 학술대회, 2022.</li><li>[4] 고혁진, 장인권, \"노드-링크 그래프 기반 연결성을 고려하는 딥러닝을 이용한 골격계 영상의 골 미세구조 재구성\", 대한기계학회 CAE 및 응용역학 부문 춘계학술대회, 2022.</li><li>[5] 고혁진, 장인권, \"심층 신경망으로 재구성된 골 미세구조의 구조적 절단 문제를 개선하기 위한 노드-링크 그래프 기반 후처리 방법\", 대한기계학회 CAE 및 응용역학 부문 춘계학술대회, 2021.</li></ul>"
-          ],
-          "icon": "conference"
+            "[1] 고혁진, 김창영, 장인권, \"데이터 기반 SKIP-STOP 도시 철도 급행 서비스 최적화: 서울 지하철 4호선의 사례\", 한국ITS학회 추계학술대회, 2023.",
+            "[2] 천봉주, 고혁진, 장인권, \"딥 러닝을 통한 3차원 골 미세구조의 패치 별 재구성\", 대한기계학회 학술대회, 2022.",
+            "[3] 고혁진, 장인권, \"노드-링크 그래프 기반 연결성을 고려하는 딥러닝을 이용한 골격계 영상의 골 미세구조 재구성\", 대한기계학회 CAE 및 응용역학 부문 춘계학술대회, 2022.",
+            "[4] 고혁진, 장인권, \"심층 신경망으로 재구성된 골 미세구조의 구조적 절단 문제를 개선하기 위한 노드-링크 그래프 기반 후처리 방법\", 대한기계학회 CAE 및 응용역학 부문 춘계학술대회, 2021."
+          ]
         },
         {
           "heading": "Patent",
@@ -309,8 +308,7 @@
             "[6] I. G. Jang, H. Koh, B. J. Chun, \"Computer system for trabecular connectivity recovery of skeletal images reconstructed by artificial neural network through node-link graph-based bone microstructure representation, and method of the same\", US Patent, Patent number: 12175665, 2024.",
             "[7] I. G. Jang, H. Koh, B. J. Chun, \"Computer system for trabecular connectivity recovery of skeletal images reconstructed by artificial neural network through node-link graph-based bone microstructure representation, and method of the same\", PCT Patent, Application number: PCT/KR2021/018382, 2021.",
             "[8] I. G. Jang, H. Koh, B. J. Chun, \"Computer system for trabecular connectivity recovery of skeletal images reconstructed by artificial neural network through node-link graph-based bone microstructure representation, and method of the same\", KR Patent, Patent number: 10-2643198, 2024."
-          ],
-          "icon": "patent"
+          ]
         },
         {
           "heading": "Award",
@@ -320,8 +318,7 @@
             "[3] 천봉주, 고혁진, 장인권, 대한기계학회 2022년도 학술대회 우수논문상, 대한기계학회, 2023.",
             "[4] 고혁진, 장인권, 대한기계학회 CAE 및 응용역학부문 2022년 춘계학술대회 우수논문상, 대한기계학회, 2023.",
             "[5] 고혁진 (지도교수: 장인권), 대한기계학회 CAE 및 응용역학부문 2022년 춘계학술대회 학생경진대회 대상, 대한기계학회, 2022."
-          ],
-          "icon": "award"
+          ]
         },
         {
           "heading": "Teaching Experience",
@@ -331,8 +328,7 @@
             "[3] Teaching Assistant, 인공지능을 활용한 최적 설계: 이론 및 실습, 한국최적설계학회 2024학년도 하계 강습회, 2024.",
             "[4] Teaching Assistant, 인공지능과 설계: 해석 예측에서 설계 최적화까지, KAIST 산학협동 공개강좌, 2024.",
             "[5] Teaching Assistant, MO505, KAIST, 2022~2025."
-          ],
-          "icon": "experience"
+          ]
         }
       ]
     },
@@ -422,7 +418,7 @@
         {
           "heading": "Domestic Conference",
           "items": [
-            "<ul class=\"research-bullet-style-1\"><li><b>김정훈</b>, 김근우, 장인권, \"딥러닝을 활용한 루프 기반 최단 경로 탐색 방법\", 한국ITS학회 추계학술대회, 2023.</li><li>김성용, <b>김정훈</b>, 김근우, 장인권, \"대중교통 승객 맞춤형 경로 추천을 위한 루프 기반 경로 최적화: 수도권 전철 적용 사례\", 한국 ITS 학회 추계학술대회, 2023.</li><li><b>김정훈</b>, 김근우, 장인권, \"딥러닝을 활용한 위상 최적화 가속화: 최단경로 문제 사례\", 대한기계학회 CAE 및 응용역학부문 춘계학술대회 학생경진대회, 2024.</li><li><b>김정훈</b>, 김근우, 장인권, \"최단 경로 문제를 위한 딥러닝 기반 위상 최적화\", 대한기계학회 학술대회, 2024.</li><li><b>김정훈</b>, 장인권, \"복잡한 미로 네트워크를 위한 딥러닝 기반 경로 계획\", 한국ITS학회 추계학술대회, 2025.</li><li><b>김정훈</b>, 장인권, \"복잡한 미로 네트워크를 위한 딥러닝 기반 경로 계획\", 대한기계학회 CAE 및 응용역학부분 춘계학술대회, 2026.</li><li><span>김정훈</span>, 장인권, \"복잡한 미로 네트워크를 위한 위상 최적화 기반 경로 계획\", 대한기계학회 학술대회, 2026.</li></ul>"
+            "<ul class=\"research-bullet-style-1\"><li><b>김정훈</b>, 김근우, 장인권, \"딥러닝을 활용한 루프 기반 최단 경로 탐색 방법\", 한국ITS학회 추계학술대회, 2023.</li><li>김성용, <b>김정훈</b>, 김근우, 장인권, \"대중교통 승객 맞춤형 경로 추천을 위한 루프 기반 경로 최적화: 수도권 전철 적용 사례\", 한국 ITS 학회 추계학술대회, 2023.</li><li><b>김정훈</b>, 김근우, 장인권, \"딥러닝을 활용한 위상 최적화 가속화: 최단경로 문제 사례\", 대한기계학회 CAE 및 응용역학부문 춘계학술대회 학생경진대회, 2024.</li><li><b>김정훈</b>, 김근우, 장인권, \"최단 경로 문제를 위한 딥러닝 기반 위상 최적화\", 대한기계학회 학술대회, 2024.</li><li><b>김정훈</b>, 장인권, \"복잡한 미로 네트워크를 위한 딥러닝 기반 경로 계획\", 한국ITS학회 추계학술대회, 2025.</li><li><b>김정훈</b>, 장인권, \"복잡한 미로 네트워크를 위한 딥러닝 기반 경로 계획\", 대한기계학회 CAE 및 응용역학부분 춘계학술대회, 2026.</li></ul>"
           ],
           "icon": "conference"
         },
@@ -508,7 +504,7 @@
         {
           "heading": "International Journal",
           "items": [
-            "<ul class=\"research-bullet-style-1\"></ul><ul class=\"research-bullet-style-1\"><li><p><span><b>C. Kim</b></span>, G. Kim, and I. G. Jang, “Linearized Loopwise Route Representation for Solving Symmetric Traveling Salesman Problems without the Origin-Destination Matrix”, IEEE Transactions on Intelligent Transportation Systems, vol. 27, no. 11, pp. 14396-14408, Nov. 2026. (JCR 2024 IF=8.4, TOP 2.4%)</p></li><li><p>G. Kim, <strong>C. Kim</strong>, S. Park, J. Kim, and I. G. Jang, “Linear Programming of the Loopwise Route Representation for the Shortest Path Problems by Introducing the Reference Link Flow”, IEEE Access, vol. 13, pp. 38856 - 38864, 2025. (JCR 2024 IF=3.6)</p></li></ul>"
+            "<ul class=\"research-bullet-style-1\"></ul><ul class=\"research-bullet-style-1\"><li><p><span><b>C. Kim</b></span>, G. Kim, and I. G. Jang, “Linearized Loopwise Route Representation for Solving Symmetric Traveling Salesman Problems without the Origin-Destination Matrix”, IEEE Transactions on Intelligent Transportation Systems, Early access, DOI: 10.1109/TITS.2026.3724185, 2026. (JCR 2024 IF=8.4, TOP 2.4%)</p></li><li><p>G. Kim, <strong>C. Kim</strong>, S. Park, J. Kim, and I. G. Jang, “Linear Programming of the Loopwise Route Representation for the Shortest Path Problems by Introducing the Reference Link Flow”, IEEE Access, vol. 13, pp. 38856 - 38864, 2025. (JCR 2024 IF=3.6)</p></li></ul>"
           ],
           "icon": "journal"
         },
@@ -522,7 +518,7 @@
         {
           "heading": "Domestic Conference",
           "items": [
-            "<ul class=\"research-bullet-style-1\"></ul><ul class=\"research-bullet-style-1\"><li><p><span><b>김창영</b></span>, 장인권, \"전기회로 유사성을 이용한 위상최적설계 기반 경로 최적화의 가속화\", 대한기계학회 학술대회, 2026.</p></li><li><p><span>김창영</span><span>, 장인권, \"위상최적설계 기반 차량 경로 최적화에 대한 선형 정식화\", 대한기계학회 CAE 및 응용역학부문 춘계학술대회, 2026.</span></p></li><li><p><span><b>김창영</b></span>, 장인권, \"위상최적설계 기반 차량 경로 최적화에 대한 선형 정식화\", 대한기계학회 CAE 및 응용역학부문 춘계학술대회 학생경진대회, 2025.</p></li><li><p><span><b>김창영</b></span>, 김근우, 장인권, \"루프 기반 경로 최적화의 계산 가속화를 위한 선형화 방법\", 한국ITS학회 추계학술대회, 2024.</p></li><li><p><span><b>김창영</b></span><span>, 김근우, 장인권, \"루프 표현법과 위상최적설계에 기반한 차량 경로 최적화에 대한 선형화 방안\", 대한기계학회 CAE 및 응용역학부문 춘계학술대회 학생경진대회, 2024.</span></p></li><li><p><span>고혁진, </span><strong>김창영</strong><span>, 장인권, \"데이터 기반 SKIP-STOP 도시 철도 급행 서비스 최적화: 서울 지하철 4호선의 사례\", 한국ITS학회 추계학술대회, 2023.</span></p></li></ul>"
+            "<ul class=\"research-bullet-style-1\"></ul><ul class=\"research-bullet-style-1\"><li><p><span><b>김창영</b></span>, 장인권, \"위상최적설계 기반 차량 경로 최적화에 대한 선형 정식화\", 대한기계학회 CAE 및 응용역학부문 춘계학술대회, 2026.</p></li><li><p><span><b>김창영</b></span>, 장인권, \"위상최적설계 기반 차량 경로 최적화에 대한 선형 정식화\", 대한기계학회 CAE 및 응용역학부문 춘계학술대회 학생경진대회, 2025.</p></li><li><p><span><b>김창영</b></span>, 김근우, 장인권, \"루프 기반 경로 최적화의 계산 가속화를 위한 선형화 방법\", 한국ITS학회 추계학술대회, 2024.</p></li><li><p><span><b>김창영</b></span><span>, 김근우, 장인권, \"루프 표현법과 위상최적설계에 기반한 차량 경로 최적화에 대한 선형화 방안\", 대한기계학회 CAE 및 응용역학부문 춘계학술대회 학생경진대회, 2024.</span></p></li><li><p><span>고혁진, </span><strong>김창영</strong><span>, 장인권, \"데이터 기반 SKIP-STOP 도시 철도 급행 서비스 최적화: 서울 지하철 4호선의 사례\", 한국ITS학회 추계학술대회, 2023.</span></p></li></ul>"
           ],
           "icon": "conference"
         },
@@ -691,11 +687,18 @@
           "icon": "conference"
         },
         {
-          "heading": "Patent",
+          "heading": "Domestic Conference",
           "items": [
-            "<p>I. G. Jang, M. Kang, and <strong>S. Gwon</strong>, \"Two-stage method for sequential estimation of all mutual inductance between coils in multi-receiver wireless power transfer systems and device for operating the same\", KR Patent, Application Number: 10-2025-0132299, 2025.</p>"
+            "<ul class=\"research-bullet-style-1\"><li><span>권순열</span><span>, 강민석, 이한빈, 장인권</span>, \"휴대용 전자기기의 베이퍼 챔버 적용 범위 최적설계\", 대한기계학회 학술대회, 2026.</li></ul>"
           ],
-          "icon": "patent"
+          "icon": "conference"
+        },
+        {
+          "heading": "Patent",
+          "icon": "patent",
+          "items": [
+            "<p>I. G. Jang, M. Kang, and <span>S. Gwon</span>, \"Two-stage method for sequential estimation of all mutual inductance between coils in multi-receiver wireless power transfer systems and device for operating the same\", KR Patent, Application Number: 10-2025-0132299, 2025.</p>"
+          ]
         }
       ]
     },
