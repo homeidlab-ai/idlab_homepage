@@ -31,6 +31,13 @@
   "homePubsSub": "Announcement of ID LAB publications",
   "notices": [
     {
+      "id": "post-1794803480067",
+      "date": "2026.11.16",
+      "title": "2026년 한국철도학회, 우수논문발표상, 정지희",
+      "content": "",
+      "category": "Notice"
+    },
+    {
       "id": "post-1793583988324",
       "date": "2026.11.02",
       "title": "2026년 조천식모빌리티대학원, 학업우수상, 이한빈",
@@ -55,13 +62,6 @@
       "id": "notice-75",
       "date": "2026.04.22",
       "title": "생성 AI 선도인재양성 사업 과제 선정",
-      "content": "",
-      "category": "Notice"
-    },
-    {
-      "id": "notice-74",
-      "date": "2026.03.23",
-      "title": "한국연구재단(NRF) 핵심연구과제 선정",
       "content": "",
       "category": "Notice"
     }
@@ -119,6 +119,26 @@
     }
   ],
   "gallerySlides": [
+    {
+      "id": "post-1794803296844",
+      "title": "연구실 워크숍",
+      "subtitle": "",
+      "date": "2026.11.12",
+      "imageUrl": "contents/generated/7f85656caf4a0812a56836a1.jpg",
+      "images": [
+        "contents/generated/7f85656caf4a0812a56836a1.jpg"
+      ]
+    },
+    {
+      "id": "post-1794793687071",
+      "title": "대한기계학회 2026",
+      "subtitle": "",
+      "date": "2026.11.11",
+      "imageUrl": "contents/generated/5a8eee64178fc53c3b38d601.jpg",
+      "images": [
+        "contents/generated/5a8eee64178fc53c3b38d601.jpg"
+      ]
+    },
     {
       "id": "post-1790914974078",
       "title": "2026 가을학기 개강행사",
