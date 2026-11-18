@@ -17,54 +17,96 @@
     <link rel="icon" type="image/x-icon" href="./favicon.ico" />
     <link rel="icon" type="image/png" sizes="512x512" href="./favicon.png" />
     <link rel="apple-touch-icon" href="./apple-touch-icon.png" />
+    <link rel="stylesheet" media="print" onload="this.media='all'" href="./assets/idlab-fonts/fonts-2fe1c5a4fbc9f00a.css" />
     <title>KAIST Innovative Design LAB</title>
     <script>
       (function () {
-        var shown = false;
-        var showStartupError = function (title, detail) {
-          if (shown) return;
-          shown = true;
-          var root = document.getElementById('root');
-          if (!root) return;
-          root.innerHTML =
-            '<div style="min-height:100vh;display:flex;align-items:center;justify-content:center;background:#f7f6f2;padding:24px;font-family:Arial, sans-serif;color:#1f2933;">' +
-            '<div style="max-width:720px;background:#fff;border:1px solid #ddd8cf;border-radius:10px;padding:24px 28px;box-shadow:0 12px 28px rgba(31,41,51,.08);">' +
-            '<h1 style="margin:0 0 10px;font-size:22px;line-height:1.35;">' + title + '</h1>' +
-            '<p style="margin:0 0 12px;font-size:15px;line-height:1.65;color:#4b5563;">페이지 파일을 불러오지 못했습니다. 창을 닫고 다시 실행하거나 관리자에게 문의하세요.</p>' +
-            '<pre style="margin:0;white-space:pre-wrap;word-break:break-word;background:#f3f4f6;border:1px solid #e5e7eb;border-radius:8px;padding:12px;font-size:12px;line-height:1.5;color:#374151;">' +
-            String(detail || 'No detail').replace(/[&<>"']/g, function (ch) {
-              return ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[ch];
-            }) +
-            '</pre></div></div>';
+        var ready = false;
+        var failed = false;
+        var retrying = false;
+        var retryParam = '__idlab_startup_retry';
+        var retry = function (manual) {
+          var url = new URL(window.location.href);
+          if (!manual && (retrying || url.searchParams.has(retryParam))) return false;
+          retrying = true;
+          url.searchParams.set(retryParam, String(Date.now()));
+          window.location.replace(url.href);
+          return true;
         };
-
-        window.__showIdlabStartupError = showStartupError;
-        window.addEventListener('error', function (event) {
-          var target = event.target;
-          if (target && (target.tagName === 'SCRIPT' || target.tagName === 'LINK')) {
-            showStartupError('Page file load failed', (target.tagName || 'asset') + ': ' + (target.src || target.href || 'unknown'));
+        var showStatus = function (title, detail) {
+          var panel = document.getElementById('idlab-startup-status');
+          if (!panel) {
+            if (document.readyState === 'loading') {
+              document.addEventListener('DOMContentLoaded', function () { showStatus(title, detail); }, { once: true });
+            }
             return;
           }
-          if (event.message) {
-            showStartupError('Page startup failed', event.message + (event.filename ? '\n' + event.filename + ':' + event.lineno + ':' + event.colno : ''));
+          if (retrying || (!detail && ready)) return;
+          if (!detail && failed) return;
+          panel.querySelector('h1').textContent = title;
+          panel.querySelector('p').textContent = detail ? '페이지 파일을 불러오지 못했습니다.' : '페이지를 불러오고 있습니다.';
+          var diagnostic = panel.querySelector('pre');
+          diagnostic.textContent = detail || '';
+          diagnostic.hidden = !detail;
+          panel.querySelector('button').onclick = function () { retry(true); };
+          panel.hidden = false;
+        };
+
+        var showError = function (title, detail) {
+          failed = true;
+          showStatus(title, detail || 'Unknown error');
+        };
+        var onError = function (event) {
+          var target = event.target;
+          if (target && (target.tagName === 'SCRIPT' || target.tagName === 'LINK')) {
+            var source = target.src || target.href;
+            if (!source) return;
+            var url = new URL(source, window.location.href);
+            if (url.origin === window.location.origin && /\/(?:assets\/index(?:-[\w-]+)?\.(?:js|css)|src\/main\.tsx)$/.test(url.pathname)) {
+              if (!retry(false)) showError('Page file load failed', url.pathname);
+            }
+            return;
           }
-        }, true);
-        window.addEventListener('unhandledrejection', function (event) {
+          if (event.message && event.filename && new URL(event.filename, window.location.href).origin === window.location.origin) {
+            showError('Page startup failed', event.message);
+          }
+        };
+        var onRejected = function (event) {
           var reason = event.reason;
-          showStartupError('Page startup failed', reason && (reason.stack || reason.message) ? (reason.stack || reason.message) : String(reason || 'Unhandled promise rejection'));
-        });
-        window.setTimeout(function () {
-          var root = document.getElementById('root');
-          if (root && root.childElementCount === 0 && !shown) {
-            showStartupError('Page did not start', 'The root element is still empty after loading. The page files may be stale or incomplete.');
+          showError('Page startup failed', String((reason && reason.message) || reason || 'Unhandled promise rejection'));
+        };
+        window.__showIdlabStartupError = showError;
+        window.addEventListener('error', onError, true);
+        window.addEventListener('unhandledrejection', onRejected);
+        var timer = window.setTimeout(function () { showStatus('Still loading'); }, 5000);
+        window.__idlabStartupReady = function () {
+          ready = true;
+          failed = false;
+          window.clearTimeout(timer);
+          window.removeEventListener('error', onError, true);
+          window.removeEventListener('unhandledrejection', onRejected);
+          var panel = document.getElementById('idlab-startup-status');
+          if (panel) panel.hidden = true;
+          var url = new URL(window.location.href);
+          if (url.searchParams.has(retryParam)) {
+            url.searchParams.delete(retryParam);
+            window.history.replaceState(window.history.state, '', url.href);
           }
-        }, 5000);
+        };
       })();
     </script>
-    <script type="module" crossorigin src="./assets/index-B2iEYPVe.js"></script>
-    <link rel="stylesheet" crossorigin href="./assets/index-DMkVkKMW.css">
+    <script type="module" crossorigin src="./assets/index-CQjhlVu3.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-CxZ6vpF3.css">
   </head>
   <body>
+    <aside id="idlab-startup-status" role="status" data-nosnippet hidden style="position:fixed;inset:0;z-index:9999;overflow:auto;background:#f7f6f2;padding:24px;align-content:center;font:15px/1.65 Arial,sans-serif;color:#1f2933;">
+      <div style="box-sizing:border-box;width:100%;max-width:720px;margin:auto;background:#fff;border:1px solid #ddd8cf;border-radius:8px;padding:24px;box-shadow:0 12px 28px rgba(31,41,51,.08);">
+        <h1 style="margin:0 0 10px;font-size:22px;line-height:1.35;"></h1>
+        <p style="margin:0 0 12px;color:#4b5563;"></p>
+        <pre hidden style="margin:0 0 12px;white-space:pre-wrap;overflow-wrap:anywhere;background:#f3f4f6;padding:12px;font-size:12px;"></pre>
+        <button type="button" style="padding:5px 12px;border:1px solid #ddd8cf;border-radius:4px;background:white;color:#1f2933;cursor:pointer;">다시 시도</button>
+      </div>
+    </aside>
     <div id="root"></div>
   </body>
 </html>
